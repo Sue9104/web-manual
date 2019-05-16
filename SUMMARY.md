@@ -6,4 +6,5 @@
 * [Interface](interface.md)
 * [Workflow](workflow.md)
 * FAQs
+* Glossary
 

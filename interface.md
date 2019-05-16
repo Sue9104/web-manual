@@ -17,7 +17,7 @@ This is master's work. Only the **master** in a project has the permission to ch
 
 ### Progress Track
 
-Master can assign task to translator [Hi](#preface)
+Master can assign task to translator [Hi](#jump)
 
 ### Import Files
 

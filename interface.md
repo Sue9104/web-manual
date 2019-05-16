@@ -3,12 +3,16 @@
 > The interface varies from [system roles](roles.md#system-roles) in Trantrace. Root has a unique panel user management, and users all share same interface.
 
 1. [root interface](#root)
-2. [user interface](#)
+2. [user interface](#user)
+ * [personal statistics (every user)](#stat)
+
+
+
  * [project management (master)](#project-management)
  * [translate management (translator)](#translation-management)
  * [review management (reviewer)](#review-management)
  * [released database (every project members, including guest)](#project-management)
- * [personal statistics (every user)] (#persional-statistics)
+
 
 
 
@@ -25,30 +29,35 @@ Only root has the permission to add and delete users. Noteably, the record will 
 All users share same interface, but have different workspace accoring to the role in project.
  
 ### Personal Statistics
+<span id='stat'></span>
+
+
 
 ### Workspace for Different Project Role
+
+<span id='workspace'></span>
 
 #### Master: Project Management
 
 <span id='master'></span>
 
-This is master's work. Only the **master** in a project has the permission to change things in this area. Click 'detail' for more information.
+This is master's work. Only the **master** in a project has the permission to change things in this area. Click 'detail' button for more information.
 
-1. Settings 
+- **Settings**: All the settings can be adjusted according to the progress.  
 
-2. Progress Track
+- **Progress Track**
 
 Master can assign task to translator 
 
-3. Import Files
+- **Import Files**
 
 Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and tsv (tab-delimited).
 
- Version Control
+- **Version Control**
 
 Just click the "Export" button, and a new version is released. Moreover, all histroical versions are listed below the button.
 
-### Translator: Translation Management
+#### Translator: Translation Management
 
 <span id='translator'></span>
 
@@ -56,26 +65,14 @@ Just click the "Export" button, and a new version is released. Moreover, all his
 herwrs 
 
 
-### Review: Review Management
+#### Review: Review Management
 
 <span id='reviewer'></span>
 
 
-### Guest: Released Search
+#### Guest: Released Search
 <span id='guest'></span>
 
-
-
-
-
-
-
-
-
-
-
-
-## 
 
 
 

@@ -18,11 +18,11 @@ Only the **master** in a project has the permission to change things in this are
 ### Progress Track
 
 ### Import Files
-Just click the 
+Just click the "Upload" button to add or append items. Current support format is csv and tab.
 
 ### Version Control
 
-Just click the 'Export new version' button, and a new version is released. Moreover, all histroical versions are listed below the button.
+Just click the "Export" button, and a new version is released. Moreover, all histroical versions are listed below the button.
 
 ## Translation Management
 

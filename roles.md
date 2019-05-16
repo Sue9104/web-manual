@@ -6,7 +6,7 @@ There are two roles in the Trantrace system: root and user.
 
 | Role | Permissions | Workspace |
 | :--- | :--- | :--- |
-| root | add or delete users | User Management |
+| root | add or delete users | [User Management](interface.md#user-management) |
 | user | build project and assign task | Project Management |
 
 ## Project Roles

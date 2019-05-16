@@ -7,7 +7,6 @@ The interface varies from [system roles](roles.md#system-roles) in Trantrace. Ro
 
 Only root has the permission to add and delete users. Noteably, the record will still exist even if the user has been deleted.
 
-[HHHHHH](roles.md#hhi)
 
 ## Project Management
 

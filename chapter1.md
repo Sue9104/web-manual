@@ -28,13 +28,13 @@ sudo apt update
 sudo apt install php7.2
 ```
 
-PHP modules
+3. PHP modules
 
 ```
-sudo apt install php7.2-fpm php7.2-mysql php7.2-curl php7.2-gd php7.2-mbstring php7.2-xml php7.2-xmlrpc php7.2-zip php7.2-opcache -y
+sudo apt install php7.2-fpm php7.2-mysql php7.2-curl php7.2-gd php7.2-mbstring php7.2-xml php7.2-xmlrpc php7.2-zip php7.2-opcache
 ```
 
-3. Mysql
+4. Mysql
 
 ```
 sudo apt-get install mysql-server
@@ -42,7 +42,7 @@ sudo apt isntall mysql-client
 sudo apt install libmysqlclient-dev
 ```
 
-4. Other system requirements
+5. Other system requirements
 
 ## Installation
 

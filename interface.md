@@ -2,8 +2,8 @@
 
 > The interface varies from [system roles](roles.md#system-roles) in Trantrace. Root has a unique panel user management, and users all share same interface.
 
-1. [root interface](#user-management)
-2. [user interface](#project-management)
+1. [root interface](#root)
+2. [user interface](#)
  * [project management (master)](#project-management)
  * [translate management (translator)](#translation-management)
  * [review management (reviewer)](#review-management)
@@ -14,14 +14,21 @@
 
 ## Root Interface
 
-### User Management 
-
 <span id='root'></span>
 
 Only root has the permission to add and delete users. Noteably, the record will still exist even if the user has been deleted.
 
 ## User Interface
-### Master: Project Management
+
+<span id='user'></span>
+
+All users share same interface, but have different workspace accoring to the role in project.
+ 
+### Personal Statistics
+
+### Workspace for Different Project Role
+
+#### Master: Project Management
 
 <span id='master'></span>
 
@@ -63,8 +70,7 @@ herwrs
 
 
 
-## Personal Statistics
-<span id='user'></span>
+
 
 
 

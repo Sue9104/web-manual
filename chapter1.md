@@ -56,7 +56,7 @@ docker run Trantrace
 ## Setup
 
 ```
-dfs
+
 ```
 
 ## Running Server

@@ -13,7 +13,7 @@ Only root has the permission to add and delete users. Noteably, the record will 
 
 This is master's work. Only the **master** in a project has the permission to change things in this area. Click 'detail' for more information.
 
-### Settings(### )
+### Settings [sdfsf](##review management)
 
 ### Progress Track
 

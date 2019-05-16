@@ -42,15 +42,23 @@ sudo apt install libmysqlclient-dev
 
 ### Installing with comand line tools
 
-```sh
+```
+git clone 
 make install
 ```
 
 ### Installing with docker
 
 ```
-docker-compose up
+docker run Trantrace
 ```
 
+## Start
+
+```
+dfs
+```
+
+## Backup
 
 

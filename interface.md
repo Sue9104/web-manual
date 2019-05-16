@@ -17,8 +17,7 @@ This is master's work. Only the **master** in a project has the permission to ch
 
 ### Progress Track
 
-Master can assign task to translator [Hi](#jump)
-
+Master can assign task to translator 
 ### Import Files
 
 Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and tsv (tab-delimited).
@@ -29,7 +28,7 @@ Just click the "Export" button, and a new version is released. Moreover, all his
 
 ## Translation Management
 
-<span id="jump">Hello World</span>
+
 
 
 

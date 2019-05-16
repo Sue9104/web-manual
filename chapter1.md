@@ -14,34 +14,28 @@ Actual requirements vary heavily based on translation database size and user amo
 ### Software Requirements
 
 1. Apache2
-   ```
-   sudo apt update 
-   sudo apt install apache2
-   sudo a2enmod rewrite
-   sudo a2enmod headers
-   ```
+```
+sudo apt update 
+sudo apt install apache2
+sudo a2enmod rewrite
+sudo a2enmod headers
+```
 2. PHP &gt;= 7.1.3
-
 ```
 sudo add-apt-repository ppa:ondrej/php
 sudo apt update
 sudo apt install php7.2
 ```
-
 3. PHP modules
-
 ```
 sudo apt install php7.2-fpm php7.2-mysql php7.2-curl php7.2-gd php7.2-mbstring php7.2-xml php7.2-xmlrpc php7.2-zip php7.2-opcache
 ```
-
 4. Mysql
-
 ```
 sudo apt-get install mysql-server
 sudo apt isntall mysql-client
 sudo apt install libmysqlclient-dev
 ```
-
 5. Other system requirements
 
 ## Installation

@@ -1,6 +1,6 @@
 # Interface
 
-The interface varies from [system roles](/roles.md) in Trantrace. Root has a unique panel user management, and users all share same interface.
+The interface varies from [system roles](roles.md#system-roles) in Trantrace. Root has a unique panel user management, and users all share same interface.
 
 
 ## User Management <span id='usr-management'></span>

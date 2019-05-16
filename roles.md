@@ -18,7 +18,7 @@ Each user in Trantrace can build own project and assign different permissions to
 | master | assign task to translators, revise project settings, release version | Project Management |
 | translator | translate the assigned items and retranslate the items rejected by reviewers | Translation Management |
 | reviewer | decide whether to accept the translation or not | Review Management |
-| guest | search the released database and subnmit suggestions | Released Versions |
+| guest | search the released database and subnmit suggestions | Released Database |
 
 
 

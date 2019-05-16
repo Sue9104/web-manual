@@ -3,8 +3,9 @@
 The interface varies from [system roles](roles.md#system-roles) in Trantrace. Root has a unique panel user management, and users all share same interface.
 
 
-## User Management <span id='usr-management'></span>
+## User Management 
 
+<span id='usr-management'></span>
 Only root has the permission to add and delete users. Noteably, the record will still exist even if the user has been deleted.
 
 

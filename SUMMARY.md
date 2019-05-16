@@ -3,4 +3,6 @@
 * [Preface](README.md)
 * [Getting Started](chapter1.md)
 * [Interface](interface.md)
+* Workflow
+* FAQs
 

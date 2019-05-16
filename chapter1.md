@@ -53,7 +53,7 @@ make install
 docker run Trantrace
 ```
 
-## Start
+## Setup
 
 ```
 dfs

@@ -4,11 +4,14 @@
 
 1. [root interface](#root)
 2. [user interface](#user)
- * [personal statistics (every user)](#stat)
+ * [personal statistics](#stat)
+ * [Workspace for different roles](#stat)
+  * [project management (master)](#project-management)
 
 
 
- * [project management (master)](#project-management)
+
+ * 
  * [translate management (translator)](#translation-management)
  * [review management (reviewer)](#review-management)
  * [released database (every project members, including guest)](#project-management)

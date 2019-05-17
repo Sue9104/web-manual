@@ -15,10 +15,23 @@
 
 <span id='root'></span>
 
-Only root has the permission to add and delete users. Noteably, the record will still exist even if the user has been deleted.
+Only root has the permission to add and delete users. Noteably, the record will still exist even if the user has been disabled.
 
 ![](/assets/interface.root.png)
 
+### Actions
+
+
+
+1. Add new user: click the "+ New User" Button
+
+2. Search exised user: 
+
+2. Change user settings: Click the "Edit" Button
+
+  - delete user: Unlike the literal 'delete', user is diabled not deleted and all the records are reservered.
+  
+  - reset password: click this button and it will reset user password to "123456".
 
 ## User Interface
 
@@ -27,8 +40,10 @@ Only root has the permission to add and delete users. Noteably, the record will 
 All users share same interface, but have different workspace accoring to the role in project.
  
 ### Personal Statistics
+
 <span id='stat'></span>
 
+All the task will be 
 
 
 ### Workspace for Different Project Role
@@ -42,6 +57,8 @@ All users share same interface, but have different workspace accoring to the rol
 Only the **master** in a project has the permission to change things in this area. Click 'detail' button for more information.
 
 - **Settings**: All the settings can be adjusted according to the progress, such as project name, deadline, priority level, visibility level, source and target languages. 
+
+   Actions:
 
   - **add more project members**: master can easily add a new member from the select. 
   

@@ -2,7 +2,7 @@
 
 ## System roles <span id='system-roles'></span>
 
-There are two roles in the Trantrace system: root and user.
+There are two roles in the Trantrace system: root and user. 
 
 | Role | Permissions | Workspace |
 | :--- | :--- | :--- |
@@ -11,7 +11,7 @@ There are two roles in the Trantrace system: root and user.
 
 ## Project Roles
 
-Each user in Trantrace can build own project and assign different permissions to project members. There are four roles in a specific translation project: master, translator, reviewer, guest.
+Each user in Trantrace share same interface but have different workspace. There are four roles in a specific translation project: master, translator, reviewer, guest.
 
 | Role | Permissions | Workspace |
 | :--- | :--- | :--- |

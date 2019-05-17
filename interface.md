@@ -40,7 +40,7 @@ Only the **master** in a project has the permission to change things in this are
 
 - **Settings**: All the settings can be adjusted according to the progress, such as project name, deadline, priority level, visibility level, source and target languages. 
 
-  - add more project members:  
+  - **add more project members**: master can easily add a new member from the select. 
   
     
 

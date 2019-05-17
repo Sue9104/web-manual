@@ -17,6 +17,8 @@
 
 Only root has the permission to add and delete users. Noteably, the record will still exist even if the user has been deleted.
 
+![](/assets/interface.root.png)
+
 
 ## User Interface
 

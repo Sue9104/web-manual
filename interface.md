@@ -36,9 +36,13 @@ All users share same interface, but have different workspace accoring to the rol
 
 <span id='master'></span>
 
-This is master's work. Only the **master** in a project has the permission to change things in this area. Click 'detail' button for more information.
+Only the **master** in a project has the permission to change things in this area. Click 'detail' button for more information.
 
-- **Settings**: All the settings can be adjusted according to the progress.  
+- **Settings**: All the settings can be adjusted according to the progress, such as project name, deadline, priority level, visibility level, source and target languages. 
+
+  - add more project members:  
+  
+    
 
 - **Progress Track**
 

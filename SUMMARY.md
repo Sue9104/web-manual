@@ -5,6 +5,6 @@
 * [Roles](roles.md)
 * [Interface](interface.md)
 * [Workflow](workflow.md)
-* FAQs
-* Glossary
+* [FAQs](faqs.md)
+* [Glossary](glossary.md)
 

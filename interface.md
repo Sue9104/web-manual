@@ -21,8 +21,6 @@ Only root has the permission to add and delete users. Noteably, the record will 
 
 ### Actions
 
-
-
 1. Add new user: click the "+ New User" Button
 
 2. Search exised user: 
@@ -43,7 +41,7 @@ All users share same interface, but have different workspace accoring to the rol
 
 <span id='stat'></span>
 
-All the task will be 
+All the workload and complete percentage will be listed by project. There are 
 
 
 ### Workspace for Different Project Role

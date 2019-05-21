@@ -6,8 +6,8 @@ There are two roles in the Trantrace system: root and user.
 
 | Role | Permissions | Workspace |
 | :--- | :--- | :--- |
-| root | add or delete users | [root interface](interface.md#root) |
-| user | build own project, other permissions depending on the role in project | [user interface](interface.md#user) |
+| root | add or delete users | [root interface](interface/root-interface.md) |
+| user | build own project, other permissions depending on the role in project | [user interface](interface/user-interface.md) |
 
 ## Project Roles
 
@@ -15,10 +15,10 @@ Each user in Trantrace share same interface but have different workspace. There 
 
 | Role | Permissions | Workspace |
 | :--- | :--- | :--- |
-| master | assign task to translators, revise project settings, release version | [Project Management](interface.md#master) |
-| translator | translate the assigned items and retranslate the items rejected by reviewers | [Translation Management](interface.md#translator) |
-| reviewer | decide whether to accept the translation or not | [Review Management](interface.md#reviewer) |
-| guest | search the released database and submit suggestions | [Released Database](interface.md#guest) |
+| master | assign task to translators, revise project settings, release version | [Project Management](interface/master-project-management.md#master) |
+| translator | translate the assigned items and retranslate the items rejected by reviewers | [Translation Management](interface/translator-translation-management.md#translator) |
+| reviewer | decide whether to accept the translation or not | [Review Management](interface/reviewer-review-management.md#reviewer) |
+| guest | search the released database and submit suggestions | [Released Database](interface/guest-released-database.md#guest) |
 
 
 

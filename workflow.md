@@ -2,8 +2,6 @@
 
 ## Create Translation Project
 
-
-
 ## Translate
 
 ## Review

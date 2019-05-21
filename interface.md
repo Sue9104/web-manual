@@ -21,21 +21,20 @@ Only root has the permission to add and delete users. Noteably, the record will 
 
 ### Actions
 
-1. Add new user: click the "+ New User" Button
+1. Search exised user by email: click 'Search' button 
 
-2. Search exised user: 
+2. Add new user: click the "+ New User" button
 
-2. Change user settings: Click the "Edit" Button
+3. Enable/Disable user: User can login to Trantrace with this button on, otherwise user can not login but their records and operations are still reservered.
+ 
+4. Reset password: this button will reset user password to "123456".
 
-  - delete user: Unlike the literal 'delete', user is diabled not deleted and all the records are reservered.
-  
-  - reset password: click this button and it will reset user password to "123456".
 
 ## User Interface
 
 <span id='user'></span>
 
-All users share same interface, but have different workspace accoring to the role in project.
+All users share same interface, but have different workspace according to the role in project.
  
 ### Personal Statistics
 

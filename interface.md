@@ -62,23 +62,22 @@ Projects created by you are listed here. Priority, deadline, and whether it's co
 
 - **Settings**: All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 
 
-   **Actions:**
+  - If you want to add more people to the project after creation who must be registered first, operation with "add members" panel. 
+   
+   
+- **Progress Schedule**: The project schedule are divided into two categories for display: project stage shedule and member schedule. "" and "" are two quick way to allocate items and handle conflict items.
 
-  - **add more project members**: You want to add more person to the project. 
-  
-    
+- **Import Files**: Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and format can be download through "Format Help" button.
 
-- **Progress Track**
+- **Version Control**: Just click the "Export" button, and a new version is released. Moreover, all histroical versions are listed below the button.
 
-Master can assign task to translator 
+##### Allocation List
 
-- **Import Files**
+Master should allocate 
 
-Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and tsv (tab-delimited).
+##### Conflict List
 
-- **Version Control**
 
-Just click the "Export" button, and a new version is released. Moreover, all histroical versions are listed below the button.
 
 #### Translator: Translation Management
 

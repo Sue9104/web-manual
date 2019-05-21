@@ -6,7 +6,7 @@ All the projects, which user work as a translator, are displayed by project name
 
 ## Translation List
 
-All the items assigned to you are listed here.
+All the items, which need first traslation, are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 

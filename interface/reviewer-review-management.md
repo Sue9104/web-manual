@@ -2,11 +2,11 @@
 
 ## Overview
 
-All the project are displayed by project name, priority, deadline, and item counts to translated, which user work as a translator in project. Double click the project row will jump to these items.
+All the project, which user work as an reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these items.
 
 ## Translation List
 
-All the items assigned to you are listed here.
+All the items to review are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 

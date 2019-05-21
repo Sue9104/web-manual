@@ -28,7 +28,8 @@ All the workload and complete percentage will be listed by project:
 
 ## MyTask
 
-My task real-time display all undone job into five categories: 'unallocated' and 'conflict' for master, **'untranslated'** and **'re-translated'** for translator, **'unreviewed'** for reviewer.
+My task real-time display all undone job into five categories: **'unallocated'** and **'conflict'** for master, **'untranslated'** and **'re-translated'** for translator, **'unreviewed'** for reviewer. Just click these five links and it will jump to the undone jobs.
+
 
 
 

@@ -23,7 +23,7 @@ Projects created by you are listed here. Priority, deadline, and whether it's co
 
 Allocation is the first step of translation process. Master should allocate items to translators after project creation. All the items are list here.
 
-_**Actions:**_
+**Actions:**
 1. allocate one item to one translator
 2. allocate multiple items to one translator
 3. search items by project name, priority, deadline, keyword, status
@@ -32,7 +32,7 @@ _**Actions:**_
 
 Master need quickly reply to the suggestion submited by guests. All the suggestion are listed here.
 
-_**Actions:**_
+**Actions:**
 1. ignore suggestion
 2. accept suggestion and re-assign to one translator
 

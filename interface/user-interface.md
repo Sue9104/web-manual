@@ -40,9 +40,9 @@ My task real-time display all undone job into five categories: **'unallocated'**
 
 3. jump to untranslated items for translator: click 'untranslated' link
 
-4. jump to retranslated items: click 'retranslated' link
+4. jump to retranslated items for translator: click 'retranslated' link
 
-5. jump to unreviewed items: click 'unreviewed' link
+5. jump to unreviewed items for reviewer: click 'unreviewed' link
 
 
 

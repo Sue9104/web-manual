@@ -2,7 +2,7 @@
 
 ## Overview
 
-All the project, which user work as a reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these items.
+All the projects, which user work as a reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these items.
 
 ## Review List
 

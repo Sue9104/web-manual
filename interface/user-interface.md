@@ -32,7 +32,7 @@ All the workload and complete percentage will be listed by project:
 
 My task real-time display all undone job into five categories: **'unallocated'** and **'conflict'** for master, **'untranslated'** and **'re-translated'** for translator, **'unreviewed'** for reviewer. 
 
-Actions:
+**Actions:**
 1. jump to unallocated items for master: click 'unallocated' link
 2. jump to conflict items for master: click 'conflict' link
 3. jump to untranslated items for translator: click 'untranslated' link

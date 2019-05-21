@@ -54,17 +54,17 @@ All the workload and complete percentage will be listed by project:
 
 <span id='master'></span>
 
-##### homepage
+##### Homepage
 
 Projects created by you are listed here. Priority, deadline, and whether it's completed are presented. If you want to know more information, _**Double click**_ will jump to details of the project.
 
+##### Project Detail
 
+- **Settings**: All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 
 
-- **Settings**: All the settings can be adjusted according to the progress, such as project name, deadline, priority level, visibility level, source and target languages. 
+   **Actions:**
 
-   Actions:
-
-  - **add more project members**: master can easily add a new member from the select. 
+  - **add more project members**: You want to add more person to the project. 
   
     
 

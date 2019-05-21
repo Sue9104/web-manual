@@ -1,6 +1,13 @@
 # Translator: Translation Management
 
-<span id='translator'></span>
+## Homepage
+
+
+## Translation List
+
+## Retranslation List
+
+## History
 
 
 

@@ -54,8 +54,11 @@ All the workload and complete percentage will be listed by project:
 
 <span id='master'></span>
 
-1. 
-Click 'detail' button for more information.
+##### homepage
+
+Projects created by you are listed here. Priority, deadline, and whether it's completed are presented. If you want to know more information, _**Double click**_ will jump to details of the project.
+
+
 
 - **Settings**: All the settings can be adjusted according to the progress, such as project name, deadline, priority level, visibility level, source and target languages. 
 

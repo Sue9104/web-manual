@@ -22,12 +22,7 @@ All the workload and complete percentage will be listed by project:
 
 ### [Translator: Translation Management](translator-translation-management.md)
 
-<span id='translator'></span>
-
-
-
-
-#### Review: Review Management
+### [Review: Review Management](reviewer-review-management.md)
 
 <span id='reviewer'></span>
 

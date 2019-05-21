@@ -22,13 +22,13 @@ All the workload and complete percentage will be listed by project:
 
 ### [Translator: Translation Management](translator-translation-management.md)
 
-### [Review: Review Management](reviewer-review-management.md)
+### [Reviewer: Review Management](reviewer-review-management.md)
 
-<span id='reviewer'></span>
+### [Guest: Released Database](guest-released-management.md)
 
+## MyTask
 
-#### Guest: Released Search
-<span id='guest'></span>
+My task real-time display all undone job into five categories: 'unallocated' and 'conflict' for master, **'untranslated'** and **'re-translated'** for translator, **'unreviewed'** for reviewer.
 
 
 

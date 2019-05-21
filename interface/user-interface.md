@@ -18,7 +18,7 @@ All the workload and complete percentage will be listed by project:
 
 <span id='workspace'></span>
 
-### Master: Project Management
+### [Master: Project Management](interface/master-project-management.md)
 
 <span id='master'></span>
 

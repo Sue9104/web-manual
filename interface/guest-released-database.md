@@ -14,7 +14,7 @@ All the entries are listed here.
 
 Actions:
 1. Search by keyword or version
-2. View the translation detail
+2. View the entry's translation
 3. submit the suggestion which only works with latest version
 
 

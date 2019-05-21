@@ -8,8 +8,8 @@
  - [Workspace for different roles](interface/user-interface.md#workspace)
    - [Master: project management](interface/master-project-management.md#master)
    - [Translator: translate management](interface/translator-translation-management.md#translator)
-   - [Reviewer: review management](#reviewer)
-   - [Guest: Released database](#guest)
+   - [Reviewer: review management](interface/reviewer-review-management.md#reviewer)
+   - [Guest: Released database](interface/guest-released-database.md#guest)
 
 
 

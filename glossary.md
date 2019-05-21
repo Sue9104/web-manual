@@ -2,7 +2,7 @@
 
 ## item status
 
-&lt;span id='root'&gt;&lt;/span&gt;
+<span id='status'></span>
 
 | status | before/after version | description | worker | workspace |
 | :--- | :--- | :--- | :--- | :--- |

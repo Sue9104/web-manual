@@ -2,11 +2,11 @@
 
 ## Overview
 
-All the project, which user work as an reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these items.
+All the project, which user work as a reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these items.
 
-## Translation List
+## Review List
 
-All the items to review are listed here.
+All the items to be reviewed are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 
@@ -16,30 +16,15 @@ All the items to review are listed here.
 
 1. Seach items by project name, priority, deadline
 
-2. use "Google Help" to accelerate translation
+2. Aggree translation
 
-3. submit translation
-
-
-## Retranslation List
-
-The items rejected by reviewer are listed here.
-
-> Description of status please see [status](../glossary.md#status)
-
-
-**Actions:**
-
-1. Seach items by project name, priority, deadline
-
-2. use "Google Help" to accelerate translation
-
-3. submit translation
+3. Refuse translation
 
 
 ## History
 
-All the operations by you are listed here, including first translation and re-translation. 
+All the items reviewed by you are listed here.
+ 
 
 > Description of status please see [status](../glossary.md#status)
 

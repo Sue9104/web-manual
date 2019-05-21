@@ -23,7 +23,7 @@ All the items, which need first traslation, are listed here.
 
 ## Retranslation List
 
-The items rejected by reviewer are listed here.
+The items, which are rejected by reviewer and need another translation, are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 
@@ -39,7 +39,7 @@ The items rejected by reviewer are listed here.
 
 ## History
 
-All the operations by you are listed here, including first translation and re-translation. 
+All the operations made by you are listed here, including first translation and re-translation. 
 
 > Description of status please see [status](../glossary.md#status)
 

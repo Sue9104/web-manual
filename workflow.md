@@ -19,7 +19,7 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 - allocate items to translators **(required)**.
 
-- revise the settings or add new members if necessary **(required)**.
+- revise the settings or add new members if necessary **(optional)**.
 
 ## Translation
 

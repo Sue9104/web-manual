@@ -65,7 +65,7 @@ Projects created by you are listed here. Priority, deadline, and whether it's co
   - If you want to add more people to the project after creation who must be registered first, operation with "add members" panel. 
    
    
-- **Progress Schedule**: The project schedule are divided into two categories for display: project stage shedule and member schedule. "" and "" are two quick way to allocate items and handle conflict items.
+- **Progress Schedule**: The project schedule are divided into two categories for display: project stage shedule and member schedule. "Allocate" and "Conflict-handle" button are two quick way to allocate items and handle conflict items.
 
 - **Import Files**: Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and format can be download through "Format Help" button.
 
@@ -73,18 +73,26 @@ Projects created by you are listed here. Priority, deadline, and whether it's co
 
 ##### Allocation List
 
-Master should allocate 
+Allocation is the first step of translation process. Master should allocate items to translators after project creation. All the items are list here.
 
-##### Conflict List
+_**Actions:**_
+1. allocate one item to one translator
+2. allocate multiple items to one translator
+3. search items by project name, priority, deadline, keyword, status
+ 
+##### Conflict Handle
 
+Master need quickly reply to the suggestion submited by guests. All the suggestion are listed here.
 
+_**Actions:**_
+1. ignore suggestion
+2. accept suggestion and re-assign to one translator
 
 #### Translator: Translation Management
 
 <span id='translator'></span>
 
 
-herwrs 
 
 
 #### Review: Review Management

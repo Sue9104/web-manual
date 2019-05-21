@@ -3,11 +3,11 @@
 > The interface varies from [system roles](roles.md#system-roles) in Trantrace. Root has a unique panel user management, and users all share same interface.
 
 + [root interface](interface/root-interface.md#root)
-+ [user interface](#user) 
- - [personal statistics](#stat)
- - [Workspace for different roles](#workspace)
-   - [Master: project management](#master)
-   - [Translator: translate management](#translator)
++ [user interface](interface/user-interface.md#user) 
+ - [personal statistics](interface/user-interface.md#stat)
+ - [Workspace for different roles](interface/user-interface.md#workspace)
+   - [Master: project management](interface/master-project-management.md#master)
+   - [Translator: translate management](interface/translator-translation-management.md#translator)
    - [Reviewer: review management](#reviewer)
    - [Guest: Released database](#guest)
 

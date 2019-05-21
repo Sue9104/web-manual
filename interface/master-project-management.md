@@ -23,6 +23,9 @@ Projects created by you are listed here. Priority, deadline, and whether it's co
 
 Allocation is the first step of translation process. Master should allocate items to translators after project creation. All the items are list here.
 
+> Description of status please see [status](../glossary.md#status)
+
+
 **Actions:**
 1. allocate one item to one translator
 2. allocate multiple items to one translator
@@ -31,6 +34,9 @@ Allocation is the first step of translation process. Master should allocate item
 ## Conflict Handle
 
 Master need quickly reply to the suggestion submited by guests. All the suggestion are listed here.
+
+> Description of status please see [status](../glossary.md#status)
+
 
 **Actions:**
 1. ignore suggestion

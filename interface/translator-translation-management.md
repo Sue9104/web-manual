@@ -8,6 +8,9 @@ All the project are displayed by project name, priority, deadline, and item coun
 
 All the items assigned to you are listed here.
 
+> Description of status please see [status](../glossary.md#status)
+
+
 
 **Actions:**
 
@@ -22,6 +25,8 @@ All the items assigned to you are listed here.
 
 The items rejected by reviewer are listed here.
 
+> Description of status please see [status](../glossary.md#status)
+
 
 **Actions:**
 
@@ -34,17 +39,15 @@ The items rejected by reviewer are listed here.
 
 ## History
 
-All the operations by you are listed here, including first translation and re-translation.
+All the operations by you are listed here, including first translation and re-translation. 
+
+> Description of status please see [status](../glossary.md#status)
 
 Actions:
 
 1. Seach items by project name, priority, deadline
 
-2. 
-
-
-Status:
-- 
+2. view the translation detail
 
 
 

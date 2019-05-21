@@ -2,7 +2,7 @@
 
 ## Overview
 
-All the project are displayed by project name, priority, deadline, and item counts to translated, which user work as a translator in project. Double click the project row will jump to these items.
+All the projects, which user work as a translator, are displayed by project name, priority, deadline and item counts to translate. Double click the project row will jump to these items.
 
 ## Translation List
 

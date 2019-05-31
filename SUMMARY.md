@@ -1,7 +1,7 @@
 # Summary
 
 * [Preface](README.md)
-* [Getting Started](chapter1.md)
+* [Install Trantrace](chapter1.md)
 * [Roles](roles.md)
 * [Interface](interface.md)
   * [root interface](interface/root-interface.md)

@@ -64,7 +64,7 @@ If "OSError: cannot read the file in context: data/ca-key.pem" occurs, just dele
 ```
 make install
 ```
-- uninstall: `make clean`
+- uninstall: `make uninstall`
 
 
 

@@ -10,7 +10,7 @@
 | untranslated | before | need first translate | translator | translation |
 | re-transalted | before | need another translate | translator | re-translation |
 | unreviewed | before | need reivewed | reviewer | review |
-| qualifed | before | is approved | reviewer | review |
+| qualified | before | is approved | reviewer | review |
 | conflict | after | correctness is suspected. | master | conflict handle |
 | error | after | marked wrong | master | conflict handle |
 

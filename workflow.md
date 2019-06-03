@@ -1,4 +1,7 @@
-# Workflow
+# Getting Started
+Trantrace workflow: 
+ 
+![](/assets/Trantrace_workflow.jpg)
 
 Step 1. [**creation:** _master_ create project, upload database and allocate items to translators](#create)
 Step 2. [**translation:** _translators_ continously translate until approved](#translate)
@@ -7,7 +10,7 @@ Step 4. [**release:** _master_ release a version](#release)
 Step 5. [**iteration:** _all members_ cooperate to optimize translation and release a better version](#iterative)
  
 
-## Creation 
+## Step 1: Creation 
 
 <span id='create'></span>
 
@@ -21,7 +24,7 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 - revise the settings or add new members if necessary **(optional)**.
 
-## Translation
+## Step 2: Translation
 
 <span id='translate'></span>
 
@@ -31,14 +34,14 @@ Translators need continous translation until approved by reviewers:
 - re-translate items refused by reviewers.
 
 
-## Review
+## Step 3: Review
 
 <span id='review'></span>
 
 reviewer check the translation and decide whether to approve or not.
 
 
-## Release
+## Step 4: Release
 
 <span id='release'></span>
 
@@ -46,7 +49,7 @@ master release first version.
 
 
 
-## Iteration
+## Step 5: Iteration
 
 <span id='iteration'></span>
 

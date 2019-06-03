@@ -22,7 +22,7 @@ Actual requirements vary heavily based on translation database size and user amo
 
 **It is recommended to use docker-compose to install Trantrace**, which is isolated from dependency and configuration problems and easy to deploy to other servers.
 
-### Recommend: docker-compose
+### Method 1 \(Recommend\): docker-compose
 
 * docker: [Official Guide](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
@@ -56,16 +56,21 @@ If "OSError: cannot read the file in context: data/ca-key.pem" occurs, just dele
 * log: `docker-compose logs`
 * stop: `docker-compose stop`
 * restart: `docker-compost up -d`
-* reinstall: `docker-compose up --force-recreate -d --build `
+* reinstall: `docker-compose up --force-recreate -d --build`
 * uninstall: `docker rmi -f trantrace_web mysql:5.7 php:7.2-apache`
+* custom 
 
-### Make
+### Method 2: Make
+
+Setup myql before installation and grant root all privileges on databases.
+
+Operating System: Ubuntu 16.04
 
 ```
 make install
 ```
-- uninstall: `make uninstall`
 
+* uninstall: `make uninstall`
 
 
 

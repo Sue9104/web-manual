@@ -1,10 +1,10 @@
 # Summary
 
 * [Preface](README.md)
-* [Install Trantrace](chapter1.md)
-* [Configuration](cnofiguration.md)
+* [Install Trantrace](install-trantrace.md)
+* [Configuration](configuration.md)
 * [Roles](roles.md)
-* [Getting started](workflow.md)
+* [Getting started](getting-started.md)
 * [Interface](interface.md)
   * [root interface](interface/root-interface.md)
   * [user interface](interface/user-interface.md)

@@ -55,7 +55,7 @@ If "OSError: cannot read the file in context: data/ca-key.pem" occurs, just dele
 
 * log: `docker-compose logs`
 * stop: `docker-compose stop`
-* restart: `docker-compost up -d`
+* restart: `docker-compose up -d`
 * reinstall: `docker-compose up --force-recreate -d --build`
 * uninstall: `docker rmi -f trantrace_web mysql:5.7 php:7.2-apache`
 * custom 

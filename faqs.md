@@ -7,6 +7,8 @@
 | description | solution |
 | :--- | :--- |
 | OSError: can not read file in context: data/ca-key.pem | It happens when running with "docker-compose up -d --force-recreate". if you want to keep prior operateion record, just delete the arguments "--force-recreate". Otherwise delete the data directroy |
+| listen tcp 0.0.0.0:3307: bind: address already in use | Change "DB\_PORT" in .env |
+| listen tcp 0.0.0.0:8000: bind: address already in use | Change "WEB\_PORT" in .env |
 
 ## permission
 

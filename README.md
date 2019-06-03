@@ -1,7 +1,7 @@
 # Trantrace
 
 Trantrace is an open-source web-based application, which offers a simple and robust solution for large-scale continuous collaborative database translation.
-
+![](/assets/Screenshot from 2019-06-03 14-38-38.png)
 ## Features
 
 * Enable every log-in users to build own translation projects with different permissions

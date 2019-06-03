@@ -20,15 +20,14 @@ Actual requirements vary heavily based on translation database size and user amo
 
 ## Configure
 
-| Service | port | user/password | others |
-| :--- | :--- | :--- | :--- |
-| mysql | 3306 | root/123456 | GLOBAL.sql\_mode='STRICT\_TRANS\_TABLES,ERROR\_FOR\_DIVISION\_BY\_ZERO,NO\_AUTO\_CREATE\_USER,NO\_ENGINE\_SUBSTITUTION' |
-| apache2 | 8000 | root/123456 | - |
+Default Setting:
 
-* Port: revise .env file
-* mysql\_password: **revise .env file before start, or use sql command after start.**
-* apache2 password: login the web, and change password in "My Profile".
-* detail see Configuration.
+| Service | port | user/password |
+| :--- | :--- | :--- |
+| mysql | 3306 | root/123456 |
+| apache2 | 8000 | root/123456 |
+
+* detail see [Configuration](configuration.md).
 
 ## Install Trantrace
 

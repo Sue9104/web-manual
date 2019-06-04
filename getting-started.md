@@ -22,7 +22,11 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 - allocate items to translators **(required)**.
 
+![](/assets/step1_creation.png)
+
 - revise the settings or add new members if necessary **(optional)**.
+
+![](/assets/step1_revise.png)
 
 ## Step 2: Translation
 

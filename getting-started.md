@@ -1,4 +1,4 @@
-![](/assets/step3_review.png)# Getting Started
+![](/assets/step5_upload_new_file.png)![](/assets/step3_review.png)# Getting Started
 Trantrace workflow: 
  
 ![](/assets/Trantrace_workflow.jpg)
@@ -62,23 +62,28 @@ master release first version.
 
 ### Scenarios that trigger iteration
 
-- **negative feedback**: guest submit suggestions to optimization.
+- **negative feedback**: guest submit suggestions to optimize translation, and master accepted and revive the translation.
 
-- **new items**:  master add more items to the project.
+![](/assets/step5_submit_suggestion.png)
 
+- **new items**: master add more items to the project.
+
+![](/assets/step5_upload_new_file.png)
 
 
 ## version iteration procedures
 
-The first two step are slightly different with first release, and others are same.
+The first step is slightly different with first release, and others are same.
 
-1. master decide to accept negative feedback, and re-assigned this item to translator **(negative feedback)**; master assign new items to translators **(new items)**.
+1. master assign job to translators.
+  - **negative feedback**: master accept negative feedback, and re-assigned this item to translator;
+  - **new items**: master assign new items to translators (step1).
 
-3. translator contiously translate until approved.
+3. translator contiously translate until approved (step2).
 
-4. review review the translation.
+4. review review the translation (step3).
 
-5. master release new version.
+5. master release new version (step4).
 
 
 

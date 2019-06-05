@@ -37,12 +37,15 @@ Translators need continous translation until approved by reviewers:
 - first translate items assigned by master.
 - re-translate items refused by reviewers.
 
+![](/assets/step2_translation.png)
+
 
 ## Step 3: Review
 
 <span id='review'></span>
 
 reviewer check the translation and decide whether to approve or not.
+
 
 
 ## Step 4: Release

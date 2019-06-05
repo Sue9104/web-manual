@@ -56,8 +56,6 @@ master release first version.
 
 ![](/assets/step4_release.png)
 
-
-
 ## Step 5: Iteration
 
 <span id='iteration'></span>
@@ -67,6 +65,8 @@ master release first version.
 - **negative feedback**: guest submit suggestions to optimization.
 
 - **new items**:  master add more items to the project.
+
+
 
 ## version iteration procedures
 

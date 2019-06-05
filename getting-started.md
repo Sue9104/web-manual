@@ -1,4 +1,4 @@
-# Getting Started
+![](/assets/step3_review.png)# Getting Started
 Trantrace workflow: 
  
 ![](/assets/Trantrace_workflow.jpg)
@@ -46,13 +46,15 @@ Translators need continous translation until approved by reviewers:
 
 reviewer check the translation and decide whether to approve or not.
 
-
+![](/assets/step3_review.png)
 
 ## Step 4: Release
 
 <span id='release'></span>
 
 master release first version.
+
+![](/assets/step4_release.png)
 
 
 
@@ -61,16 +63,16 @@ master release first version.
 <span id='iteration'></span>
 
 ### Scenarios that trigger iteration
+
 - **negative feedback**: guest submit suggestions to optimization.
+
 - **new items**:  master add more items to the project.
 
 ## version iteration procedures
 
-The first two step are slightly different for those scenarios, and others are same.
+The first two step are slightly different with first release, and others are same.
 
-1. guest submit suggestions **(only for negative feedback)**
-
-2. master decide to accept negative feedback, and re-assigned this item to translator **(negative feedback)**; master assign new items to translators **(new items)**.
+1. master decide to accept negative feedback, and re-assigned this item to translator **(negative feedback)**; master assign new items to translators **(new items)**.
 
 3. translator contiously translate until approved.
 

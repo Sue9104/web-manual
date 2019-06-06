@@ -62,7 +62,7 @@ master release first version.
 
 ### Scenarios that trigger iteration
 
-- **negative feedback**: guest submit suggestions to optimize translation, and master accepted and revive the translation.
+- **guest suggestion**: guest submit suggestions to optimize translation, and master accepted and revive the translation.
 
 ![](/assets/step5_submit_suggestion.png)
 
@@ -76,7 +76,8 @@ master release first version.
 The first step is slightly different with first release, and others are same.
 
 1. master assign job to translators.
-  - **negative feedback**: master accept negative feedback, and re-assigned this item to translator;
+  - **guest suggestion**: master accept negative feedback, and re-assigned this item to translator;
+  ![](/assets/step5_reply_suggestion.png)
   - **new items**: master assign new items to translators (step1).
 
 3. translator contiously translate until approved (step2).

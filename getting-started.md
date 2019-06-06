@@ -16,17 +16,13 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 **Master** initiated the project and fill in the details:
 
-- create project and fill in the form **(required)**.
+- create project and fill in the form
 
-- upload database csv files **(required)**.
+- upload database csv files
 
-- allocate items to translators **(required)**.
+- allocate items to translators
 
 ![](/assets/step1_creation.png)
-
-- revise the settings or add new members if necessary **(optional)**.
-
-![](/assets/step1_revise.png)
 
 ## Step 2: Translation
 

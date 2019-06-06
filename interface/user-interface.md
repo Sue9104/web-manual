@@ -12,7 +12,8 @@ All users share same interface, but have different workspace depending on the ro
 
 ![](/assets/dashboard.png)
 
-All the workload and complete percentage will be listed by project:
+All the workload and complete percentage are listed by project. Click on the blue link and they will take you to the items that have not been finished.
+
 - **assignment**: if you are the owner of one project, total item counts, assigned percentage and unallocated are showed here.
 - **conflict handling**: if you are the owner of one project, suggestion counts, replied and not reply counts are showed here.
 - **translation**: if you are the translator of one project, counts of entry assigned to you, translated percentage and not will show here.

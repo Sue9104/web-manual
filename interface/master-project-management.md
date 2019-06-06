@@ -12,6 +12,8 @@ Projects created by you are listed here. Priority, deadline, and whether it's co
 
 - **Settings**: All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 
 
+
+
   - If you want to add more people to the project after creation who must be registered first, operation with "add members" panel. 
    
    

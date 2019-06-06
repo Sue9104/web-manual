@@ -7,10 +7,9 @@
 Actual requirements vary heavily based on translation database size and user amount, the following is the minimal configuration required:
 
 * CPU: Intel Core or Xeon 3GHz (or Dual Core 2GHz) or equal AMD CPU
-* 
-* **RAM: 4 GB (6 GB recommended)**
-* **Storage: 5GB**
-* **Operating System: Ubuntu 16.04**
+* cores: Single (Dual/Quad Core is recommended)
+* RAM: 4 GB (6 GB recommended)
+* Operating System: Ubuntu 16.04
 
 ### Software Requirements
 

@@ -4,13 +4,15 @@
 
 All the projects, which user work as a translator, are displayed by project name, priority, deadline and item counts to translate. Double click the project row will jump to these items.
 
+![](/assets/translation_management.overview.png)
+
 ## Translation List
 
 All the items, which need first traslation, are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 
-
+![](/assets/translation_management.translation.png)
 
 **Actions:**
 
@@ -27,6 +29,7 @@ The items, which are rejected by reviewer and need another translation, are list
 
 > Description of status please see [status](../glossary.md#status)
 
+![](/assets/translation_management.retranslation.png)
 
 **Actions:**
 

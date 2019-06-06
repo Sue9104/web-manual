@@ -8,7 +8,7 @@ Only root has the permission to add and delete users. Noteably, the record will 
 ![](/assets/root.png)
 
 
-Actions
+Operation:
 
 1. Search exised user by email: click 'Search' button 
 

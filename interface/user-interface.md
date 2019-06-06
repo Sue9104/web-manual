@@ -10,11 +10,13 @@ All users share same interface, but have different workspace depending on the ro
 
 <span id='stat'></span>
 
+![](/assets/dashboard.png)
+
 All the workload and complete percentage will be listed by project:
-- **allocation**: if you are owner of one project, the total item numbers, allocated and unallocated percentage will show here.
-- **conflict handling**: if you are owner of one project, suggestion numbers, processed and unprocessed will show here.
-- **translation**: if you are translator of one project, the item numbers that assigned to you, translated and unretranslated percentage will show here.
-- **review**: if you are reviewer of one project, the item numbers that have been translated, reviewed and unreviewed percentage will show here. **Since the reviewers have not been allocated by master, all reviewers share same progress**.
+- **assignment**: if you are the owner of one project, total item counts, assigned percentage and unallocated are showed here.
+- **conflict handling**: if you are the owner of one project, suggestion counts, replied and not reply counts are showed here.
+- **translation**: if you are the translator of one project, counts of entry assigned to you, translated percentage and not will show here.
+- **review**: if you are the reviewer of one project, counts of entry that have been translated, reviewed percentage and unreviewed counts are showed here. **Since reviewers of each entry have not been allocated by master, all reviewers share same progress**.
 
 ## Workspace for Different Project Role
 

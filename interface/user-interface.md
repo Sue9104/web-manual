@@ -4,15 +4,15 @@
 
 All users share same interface, but have different workspace depending on the role in project.
 
-
+![](/assets/interface.user.png)
  
 ## Dashboard
 
 <span id='stat'></span>
 
-![](/assets/dashboard.png)
-
 All the workload and complete percentage are listed by project. Click on the blue link and they will take you to the items that have not been finished.
+
+![](/assets/dashboard.png)
 
 - **assignment**: if you are the owner of one project, total item counts, assigned percentage and unallocated are showed here.
 - **conflict handling**: if you are the owner of one project, suggestion counts, replied and not reply counts are showed here.

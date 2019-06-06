@@ -47,7 +47,7 @@ Master need quickly reply to the suggestion submited by guests. All the suggesti
 
 > Description of status please see [status](../glossary.md#status)
 
-
+![](/assets/project_management.feedback.png)
 
 **Actions:**
 1. ignore suggestion

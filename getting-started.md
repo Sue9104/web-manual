@@ -45,7 +45,7 @@ Translators need continous translation until approved by reviewers:
 
 reviewer check the translation and decide whether to approve or not.
 
-![](/assets/review_management.review.png)
+![](/assets/step3_review.png)
 
 ## Step 4: Release
 

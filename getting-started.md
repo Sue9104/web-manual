@@ -67,7 +67,7 @@ master release first version.
 
 - **new items**: master add more items to the project.
 
-![](/assets/step5_upload_new_file.png)
+![](/assets/step5_upload.png)
 
 
 ## version iteration procedures
@@ -78,11 +78,11 @@ The first step is slightly different with first release, and others are same.
   
   - **guest suggestion**: master accept negative feedback, and re-assigned this item to translator;
   
-  ![](/assets/step5_reply_suggestion.png)
+![](/assets/project_management.feedback.png)
   
   - **new items**: master assign new items to translators (step1).
   
-  ![](/assets/step5 allocate.png)
+  ![](/assets/project_management.assignment.png)
 
 3. translator contiously translate until approved (step2).
 

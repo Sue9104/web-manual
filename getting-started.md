@@ -35,9 +35,12 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 Translators need continous translation until approved by reviewers:
 
 - first translate items assigned by master.
+
+![](/assets/translation_management.translation.png)
+
 - re-translate items refused by reviewers.
 
-![](/assets/step2_translation.png)
+![](/assets/translation_management.retranslation.png)
 
 
 ## Step 3: Review
@@ -46,7 +49,7 @@ Translators need continous translation until approved by reviewers:
 
 reviewer check the translation and decide whether to approve or not.
 
-![](/assets/step3_review.png)
+![](/assets/review_management.review.png)
 
 ## Step 4: Release
 
@@ -64,7 +67,7 @@ master release first version.
 
 - **guest suggestion**: guest submit suggestions to optimize translation, and master accepted and revive the translation.
 
-![](/assets/step5_submit_suggestion.png)
+![](/assets/suggestion.png)
 
 - **new items**: master add more items to the project.
 

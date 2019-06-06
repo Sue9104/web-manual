@@ -76,9 +76,14 @@ master release first version.
 The first step is slightly different with first release, and others are same.
 
 1. master assign job to translators.
+  
   - **guest suggestion**: master accept negative feedback, and re-assigned this item to translator;
+  
   ![](/assets/step5_reply_suggestion.png)
+  
   - **new items**: master assign new items to translators (step1).
+  
+  ![](/assets/step5 allocate.png)
 
 3. translator contiously translate until approved (step2).
 

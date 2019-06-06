@@ -4,13 +4,15 @@
 
 All the projects, which user work as a reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these items.
 
+![](/assets/review_management.overview.png)
+
 ## Review List
 
 All the items to be reviewed are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 
-
+![](/assets/review_management.review.png)
 
 **Actions:**
 

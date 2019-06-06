@@ -4,9 +4,7 @@
 
 All users share same interface, but have different workspace depending on the role in project.
 
-- [Dashboard](#stat)
 
-![](/assets/user.png)
  
 ## Dashboard
 

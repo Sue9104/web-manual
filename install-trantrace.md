@@ -31,7 +31,7 @@ Default Setting:
 
 ## Install Trantrace
 
-**It is recommended to use docker-compose to install Trantrace**, which is isolated from dependency and configuration problems and easy to deploy to other servers.
+**It is recommended to use docker-compose to install Trantrace**, which is isolated from dependency and configuration problems, and easy to deploy.
 
 ### Method 1 \(Recommend\): docker-compose
 

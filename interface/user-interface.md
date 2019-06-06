@@ -25,7 +25,7 @@ All the workload and complete percentage are listed by project. Click on the blu
 
 <span id='workspace'></span>
 
-### [Master: Project Management](master-project-management.md)
+### [Owner: Project Management](master-project-management.md)
 
 ### [Translator: Translation Management](translator-translation-management.md)
 

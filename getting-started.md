@@ -29,7 +29,7 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 - create project and build translation team
 
-- upload database csv files
+- upload database **csv** files
 
 - assign translation tasks to translators
 

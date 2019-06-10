@@ -29,7 +29,7 @@ Description of table:
 
 <span id='workspace'></span>
 
-### [Owner: Project Management](master-project-management.md)
+### [Owner: Project Management](owner-project-management.md)
 
 ### [Translator: Translation Management](translator-translation-management.md)
 

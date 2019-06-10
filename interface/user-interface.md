@@ -35,7 +35,7 @@ Description of table:
 
 ### [Reviewer: Review Management](reviewer-review-management.md)
 
-### [Guest: Released Database](guest-released-management.md)
+### [Guest: Released Projects](guest-released-projects.md)
 
 ## MyTask
 

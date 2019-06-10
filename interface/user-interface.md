@@ -10,17 +10,20 @@ All users share same interface, but have different workspace depending on the ro
 
 <span id='stat'></span>
 
-All the workload and complete percentage are listed by project. Click on the blue link and they will take you to the items that have not been finished.
+All the workload and complete percentage are listed by project. Click on the blue link in last columns and they will take you to the items that have not been finished.
 
 ![](/assets/dashboard.png)
 
 Description of table:
 
+||project role|total|completed|undone|corresponding undone status in MyTask|
+|--|--|
+|assignment|owner|total item counts|assigned item percentage|unassigned item counts|unassigned|
+|translation|translator|counts of items assigned to you| translated percentage |untranslated and retranslated item counts|untranslated & retranslated|
+|review|reviewer| translated items | reviewed percentage| unreviewed item counts|unreviewed|
+|feedback|owner|counts of items suggested by guests| replied percentage| suggested item counts|suggested|
 
-- **assignment**: if you are the owner of one project, total counts, assigned percentage and unallocated counts are showed here.
-- **conflict handling**: if you are the owner of one project, suggestion counts, replied and not reply counts are showed here.
-- **translation**: if you are the translator of one project, counts of entry assigned to you, translated percentage and not will show here.
-- **review**: if you are the reviewer of one project, counts of entry that have been translated, reviewed percentage and unreviewed counts are showed here. **Since reviewers of each entry have not been allocated by master, all reviewers share same progress**.
+**Since the review of each entry is not assigned, all reviewers share same progress**.
 
 ## Workspace for Different Project Role
 

@@ -23,7 +23,7 @@ Projects created by you are listed here. Priority, deadline, and overall progres
 <span id='detail'></span>
 
 #### Information
-<span id='info'></span>
+<span id='information'></span>
 
 
 All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 

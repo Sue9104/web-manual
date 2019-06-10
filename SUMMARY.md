@@ -8,7 +8,7 @@
 * [Interface](interface.md)
   * [root interface](interface/root-interface.md)
   * [user interface](interface/user-interface.md)
-  * [master: project management](interface/master-project-management.md)
+  * [owner: project management](interface/owner-project-management.md)
   * [translator: translation management](interface/translator-translation-management.md)
   * [reviewer: review management](interface/reviewer-review-management.md)
   * [guest: released database](interface/guest-released-database.md)

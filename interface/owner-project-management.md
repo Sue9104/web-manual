@@ -4,7 +4,7 @@
 
 ## Overview
 
-Projects created by you are listed here. Priority, deadline, and whether it's completed are presented. If you want to know more information, _**Double click**_ will jump to details of the project.
+Projects created by you are listed here. Priority, deadline, and overall progress are presented. If you want to know more information, _**Double click**_ will jump to details of the project.
 
 ![](/assets/project_management.overview.png)
 

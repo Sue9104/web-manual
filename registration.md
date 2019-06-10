@@ -13,8 +13,12 @@ Only support to login with email rather than user name.
 
 ## Operation
 
-1. **change password**
+- **change password**
+
 ![](/assets/user.change_password.png)
-2. **forget password**: contact the adminstrator and reset the password to "123456".
+
+- **forget password**
+
+Please contact the adminstrator and they will reset the password to "123456".
 
 

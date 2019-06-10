@@ -2,16 +2,6 @@
 
 <span id='user'></span>
 
-## Sign Up
-
-
-
-
-
-## Interface
-
-All users share same interface, but have different workspace depending on the role in project.
-
 - [Dashboard](#user)
 - [Workspace for diffent roles](#workspace)
   - [Project Management](owner-project-management.md)
@@ -19,6 +9,10 @@ All users share same interface, but have different workspace depending on the ro
   - [Review Management](reviewer-review-management.md)
   - [Released Projects](guest-released-projects.md)
 - [MyTask](#mytask)   
+
+## Interface
+
+All users share same interface, but have different workspace depending on the role in project.
 
 ![](/assets/interface.user.png)             
                     
@@ -41,7 +35,7 @@ Description of table:
 
 **Since the review of each entry is not assigned, all reviewers share same progress**.
 
-### Workspace for Different Project Role
+### Workspace for Different Project Roles
 
 <span id='workspace'></span>
 
@@ -53,25 +47,17 @@ Description of table:
 
 #### [Guest: Released Projects](guest-released-projects.md)
 
+
+
 ### MyTask
 
 <span id='mytask'></span>
 
-My task real-time display all undone job into five categories: **'unassigned'** and **'suggested'** for master, **'untranslated'** and **'re-translated'** for translator, **'unreviewed'** for reviewer. More detail see [status](../glossary.md#status).
+My task real-time display all undone job into five categories: **'unassigned'** and **'suggested'** for master, **'untranslated'** and **'re-translated'** for translator, **'unreviewed'** for reviewer. Click and it will jump to corresponding workspace. More detail see [status](../glossary.md#status).
 
 ![](/assets/mytask.png)
 
-**Operation:**
 
-1. jump to unallocated items for master: click 'unallocated' link
-
-2. jump to conflict items for master: click 'conflict' link
-
-3. jump to untranslated items for translator: click 'untranslated' link
-
-4. jump to retranslated items for translator: click 'retranslated' link
-
-5. jump to unreviewed items for reviewer: click 'unreviewed' link
 
 
 

@@ -4,15 +4,15 @@
 
 <span id='status'></span>
 
-| status | before/after version | description | worker | workspace |Dashboard|
+| Status | Before/After version | Description | Worker | Workspace in menu |Dashboard|
 | :--- | :--- | :--- | :--- | :--- |:--- |
 | unassigned | before | this item is not assigned | owner | Assignment |Assignment|
-| untranslated | before | this item is not translated | translator | translation |Translation|
-| re-transalted | before | translation is refused by reviewer and need another translation | translator | retranslation |Translation|
+| untranslated | before | this item is not translated | translator | Translation |Translation|
+| re-transalted | before | translation is refused by reviewer and need another translation | translator | Re-translation |Translation|
 | unreviewed | before | translation is not reviewed | reviewer | Review |Review|
-| qualified | before | translation is approved | reviewer | review |
-| suggested | after | guest submit a suggestion for translation | owner | feedback |
-| error | after | owner accepted guest suggestion, and mark this item wrong | owner | feedback |
+| qualified | before | translation is approved | reviewer | Review |Review|
+| suggested | after | guest submit a suggestion for translation | owner | Feedback |Feedback|
+| error | after | owner accepted guest suggestion, and mark this item wrong | owner | Feedback |Feedback|
 
 
 

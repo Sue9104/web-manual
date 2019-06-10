@@ -2,12 +2,12 @@
 
 <span id='user'></span>
 
-- [Dashboard](#user)
-- [Workspace for diffent roles](#workspace)
-  - [Project Management](owner-project-management.md)
-  - [Translation Management](translator-translation-management.md)
-  - [Review Management](reviewer-review-management.md)
-  - [Released Projects](guest-released-projects.md)
+- [Dashboard](#stat)
+- Workspace for diffent roles
+  - [Owner: Project Management](owner-project-management.md)
+  - [Translator: Translation Management](translator-translation-management.md)
+  - [Reviewer: Review Management](reviewer-review-management.md)
+  - [Guest: Released Projects](guest-released-projects.md)
 - [MyTask](#mytask)   
 
 ## Interface
@@ -34,19 +34,6 @@ Description of table:
 |feedback|owner|counts of items suggested by guests| replied percentage| suggested item counts|suggested|
 
 **Since the review of each entry is not assigned, all reviewers share same progress**.
-
-### Workspace for Different Project Roles
-
-<span id='workspace'></span>
-
-#### [Owner: Project Management](owner-project-management.md)
-
-#### [Translator: Translation Management](translator-translation-management.md)
-
-#### [Reviewer: Review Management](reviewer-review-management.md)
-
-#### [Guest: Released Projects](guest-released-projects.md)
-
 
 
 ### MyTask

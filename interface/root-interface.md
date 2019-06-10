@@ -5,6 +5,7 @@ Root is the adminstrator with initial password "123456". Please change password 
 <span id='root'></span>
 
 ![](/assets/root.change-password.png)
+
 ## User Management
 
  Root can do nothing but manage users. Detail translation operations please register a user. 

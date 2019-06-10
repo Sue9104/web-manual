@@ -6,8 +6,9 @@
 
 ## Projects
 
-All the projects are displayed here, which user work as a guest. 
+All the projects, which user works as a guest, are displayed here. 
 
+**How to submit a suggestion (only for the latest version):**
 ![](/assets/suggestion.png)
 
 **Operation:**

@@ -15,7 +15,7 @@
 | Description | Solution |
 | :--- | :--- |
 | user forget password | ask administer to reset password \(default: 123456\) |
-| root forget password | a\) SHELL: execute _**htpasswd -bnBC 10 root new\_password\| cut -f2 -d:**_ to get encrypted\_password;<br>  b\) SQL Operation: **update users set password='encrypted\_password' where name='root'** |
+| root forget password | a\) SHELL: execute **htpasswd -bnBC 10 root new\_password &#124; cut -f2 -d:** to get encrypted\_password;<br>  b\) SQL Operation: **update users set password='encrypted\_password' where name='root'** |
 
 
 

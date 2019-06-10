@@ -77,9 +77,9 @@ owner release first version.
 
 The first step is slightly different with first release, and others are same.
 
-1. master assign job to translators.
+1. owner assign job to translators.
   
-  - **guest suggestion**: master accept negative feedback, and re-assigned this item to translator;
+  - **guest suggestion**: master accept the suggestion, and re-assigned item to translator;
   
 ![](/assets/project_management.feedback.png)
   
@@ -87,11 +87,11 @@ The first step is slightly different with first release, and others are same.
   
   ![](/assets/project_management.assignment.png)
 
-3. translator contiously translate until approved (step2).
+2. translator contiously translate until approved (step2).
 
-4. review review the translation (step3).
+3. review review the translation (step3).
 
-5. master release new version (step4).
+4. owner release new version (step4).
 
 
 

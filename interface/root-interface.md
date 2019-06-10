@@ -1,6 +1,6 @@
 # Root Interface
 
-Root is the adminstrator with initial password is 123456. Please change password immediately after first login.
+Root is the adminstrator with initial password "123456". Please change password immediately after first login.
 
 <span id='root'></span>
 

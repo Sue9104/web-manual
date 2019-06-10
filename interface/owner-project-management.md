@@ -47,7 +47,7 @@ Just click the "Export New Version" button, and a new version is released. Moreo
 
 ## Assignment
 
-Assignment is the first step of translation process. Owner should allocate items to translators after project creation. All the items are list here.
+Assignment is the first step of translation process. Owner should allocate items to translators after project creation.
 
 > Description of status please see [status](../glossary.md#status)
 
@@ -60,7 +60,7 @@ Assignment is the first step of translation process. Owner should allocate items
  
 ## Feedback
 
-Owner need quickly reply to the suggestion submited by guests. All the suggestion are listed here.
+Owner need quickly reply to the suggestion submited by guests. All the suggestion are presented here.
 
 > Description of status please see [status](../glossary.md#status)
 

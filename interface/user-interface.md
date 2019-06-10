@@ -12,7 +12,6 @@
 
 All users share same interface, but have different workspace depending on the role in project.
 
-Features:
 - [Dashboard](#user)
 - [Workspace for diffent roles](#workspace)
   - [Project Management](owner-project-management.md)

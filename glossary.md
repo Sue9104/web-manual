@@ -6,13 +6,13 @@
 
 | status | before/after version | description | worker | workspace |
 | :--- | :--- | :--- | :--- | :--- |
-| unallocated | before | need allocate | master | allocation |
+| unassigned | before | need allocate | owner | assignment |
 | untranslated | before | need first translate | translator | translation |
 | re-transalted | before | need another translate | translator | re-translation |
 | unreviewed | before | need reivewed | reviewer | review |
 | qualified | before | is approved | reviewer | review |
-| conflict | after | correctness is suspected. | master | conflict handle |
-| error | after | marked wrong | master | conflict handle |
+| suggested | after | guest submit a suggestion | owner | feedback |
+| error | after | owner accepted guest suggestion, and mark this item wrong | owner | feedback |
 
 
 

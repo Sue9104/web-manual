@@ -31,11 +31,13 @@ Default Setting:
 
 ## Install Trantrace
 
-**It is recommended to use docker-compose to install Trantrace**, which is isolated from dependency and configuration problems, and easy to deploy.
+**It is recommended to use docker-compose to install Trantrace**, which is isolated from dependency problems, and easy to deploy.
 
 ### Method 1 \(Recommend\): docker-compose
 
-* docker: [Official Guide](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+* docker: 
+  
+  Official Guide: https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 ```
 # for ubuntu
@@ -47,7 +49,9 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 sudo groupadd docker && sudo usermod -aG docker $$(who am i| awk '{print \$1}')
 ```
 
-* docker-compose [Official Guide](https://docs.docker.com/compose/install/)
+* docker-compose 
+
+Official Guide: https://docs.docker.com/compose/install/
 
 ```
 # for Linux
@@ -72,15 +76,20 @@ If "OSError: cannot read the file in context: data/ca-key.pem" occurs, just dele
 
 ### Method 2: Make
 
+- Mysql
+
 Setup myql before installation and grant root all privileges on databases.
 
-Operating System: Ubuntu 16.04
+- Install
+
+make command is specific for Ubuntu 16.04, other systems may have some depencies problems.
 
 ```
+# install
 make install
+# uninstall
+make uninstall
 ```
-
-* uninstall: `make uninstall`
 
 
 

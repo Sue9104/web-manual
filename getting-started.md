@@ -2,6 +2,13 @@
 
 ## Sign Up
 
+open http://192.168.202.174:92/#/register on **Chrome**，fill in form.
+
+If you forgot your password, please contact the adminstrator and reset the password to "123456". Change the password after login. 
+
+**How to change password**: 
+![](/assets/user.change_password.png)
+
 
 ## Workflow
  
@@ -25,7 +32,6 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 - upload database csv files
 
 - assign translation tasks to translators
-
 
 ![](/assets/step1_creation.png)
 

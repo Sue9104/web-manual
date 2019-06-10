@@ -11,7 +11,7 @@
   * [owner: project management](interface/owner-project-management.md)
   * [translator: translation management](interface/translator-translation-management.md)
   * [reviewer: review management](interface/reviewer-review-management.md)
-  * [guest: released database](interface/guest-released-database.md)
+  * [guest: released projects](interface/guest-released-projects.md)
 * [FAQs](faqs.md)
 * [Glossary](glossary.md)
 

@@ -17,13 +17,14 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 **Owner** initiated the project and fill in the details:
 
-- create project and fill in the form
+- create project and build translation team
 
 - upload database csv files
 
-- allocate items to translators
+- assign translation tasks to translators
 
 
+![](/assets/step1_creation.png)
 
 
 ## Step 2: Translation

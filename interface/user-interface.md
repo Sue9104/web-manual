@@ -2,11 +2,19 @@
 
 <span id='user'></span>
 
+## Sign Up
+
+
+
+## Interface
+
 All users share same interface, but have different workspace depending on the role in project.
 
 ![](/assets/interface.user.png)
- 
-## Dashboard
+
+- [Dashboard](#stat)  
+
+### Dashboard
 
 <span id='stat'></span>
 
@@ -25,19 +33,19 @@ Description of table:
 
 **Since the review of each entry is not assigned, all reviewers share same progress**.
 
-## Workspace for Different Project Role
+### Workspace for Different Project Role
 
 <span id='workspace'></span>
 
-### [Owner: Project Management](owner-project-management.md)
+#### [Owner: Project Management](owner-project-management.md)
 
-### [Translator: Translation Management](translator-translation-management.md)
+#### [Translator: Translation Management](translator-translation-management.md)
 
-### [Reviewer: Review Management](reviewer-review-management.md)
+#### [Reviewer: Review Management](reviewer-review-management.md)
 
-### [Guest: Released Projects](guest-released-projects.md)
+#### [Guest: Released Projects](guest-released-projects.md)
 
-## MyTask
+### MyTask
 
 <span id='mytask'></span>
 

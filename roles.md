@@ -4,10 +4,10 @@
 
 There are two roles in the Trantrace system: root and user. 
 
-| Role | Permissions | Workspace |
+| Role | Permissions | Operations |
 | :--- | :--- | :--- |
-| root | add or delete users | [root interface](interface/root-interface.md) |
-| user | build own project, other permissions depending on the role in project | [user interface](interface/user-interface.md) |
+| root | add or delete users | [User Management](interface/root.md) |
+| user | build projects and different operation (assign、translate、review、suggest) depending on the role in project  | [user interface](interface/user.md) |
 
 ## Project Roles
 

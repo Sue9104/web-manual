@@ -1,10 +1,6 @@
 # Summary
 
-* [Preface](README.md)
-* [Install Trantrace](install-trantrace.md)
-* [Getting started](getting-started.md)
-* [Glossary](glossary.md)
-* [FAQs](faqs.md)
+* [Introduction](README.md)
 
 ## Install Trantrace
 
@@ -25,4 +21,9 @@
   * [translator: translation management](interface/translator-translation-management.md)
   * [reviewer: review management](interface/reviewer-review-management.md)
   * [guest: released projects](interface/guest-released-projects.md)
+
+## MISC
+
+* [Glossary](glossary.md)
+* [FAQs](faqs.md)
 

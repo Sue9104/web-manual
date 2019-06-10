@@ -12,7 +12,18 @@ All users share same interface, but have different workspace depending on the ro
 
 ![](/assets/interface.user.png)
 
-- [Dashboard](#stat)  
+- [Dashboard](#user)
+- 
+
+  
+    
+      
+        
+          
+            
+              
+                
+                    
 
 ### Dashboard
 

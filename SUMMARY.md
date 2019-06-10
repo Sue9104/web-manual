@@ -13,8 +13,8 @@
 
 ## Getting Started
 
-* [Roles](roles.md)
 * [Registration](registration.md)
+* [Roles](roles.md)
 * [Workflow](getting-started/workflow.md)
 
 ## Interface

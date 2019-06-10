@@ -41,7 +41,7 @@ Just click the "Upload" button to add or append items. Current support format is
 
 #### Release
 
-Just click the "Export" button, and a new version is released. Moreover, all histroical versions are listed below the button.
+Just click the "Export New Version" button, and a new version is released. Moreover, all histroical versions are showed.
 
 ![](/assets/project_management.release.png)
 

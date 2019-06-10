@@ -7,7 +7,6 @@
 Projects created by you are listed here. Priority, deadline, and whether it's completed are presented. If you want to know more information, _**Double click**_ will jump to details of the project.
 
 ![](/assets/project_management.overview.png)
-![](/assets/project_management.overview.png)
 
 ## Project Detail
 

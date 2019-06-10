@@ -14,7 +14,7 @@ All the projects, which user works as a guest, are displayed here.
 **Operation:**
 1. Search released project by name
 2. List project versions
-3. View the project entry detail
+3. View the entry's translation
 
 
 ## Suggestion

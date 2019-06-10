@@ -4,7 +4,7 @@
 
 All the projects, which user work as a reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these items.
 
-Since the review is not assigned, all reviewers share same workspace.
+Since the review is not assigned, all reviewers share same progress.
 
 ![](/assets/review_management.overview.png)
 

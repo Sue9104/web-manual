@@ -1,9 +1,5 @@
 # Guest: Released Projects
 
-
-
-
-
 ## Projects
 
 All the projects, which user works as a guest, are displayed here. 

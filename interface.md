@@ -4,7 +4,7 @@
 
 + [root interface](interface/root-interface.md)
 + [user interface](interface/user-interface.md) 
- - [personal statistics](interface/user-interface.md#stat)
+ - [Dashboard: overview of personal tasks](interface/user-interface.md#stat)
  - [Workspace for different roles](interface/user-interface.md#workspace)
    - [Owner: project management](interface/owner-project-management.md)
    - [Translator: translate management](interface/translator-translation-management.md)

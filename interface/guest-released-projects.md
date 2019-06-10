@@ -1,10 +1,14 @@
 # Guest: Released Projects
 
-All the projects, which user work as a guest, are displayed here with project . 
 
-![](/assets/suggestion.png)
+
+
 
 ## Projects
+
+All the projects are displayed here, which user work as a guest. 
+
+![](/assets/suggestion.png)
 
 **Operation:**
 1. Search by project name

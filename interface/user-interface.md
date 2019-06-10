@@ -14,6 +14,8 @@ All the workload and complete percentage are listed by project. Click on the blu
 
 ![](/assets/dashboard.png)
 
+Description of table:
+
 
 - **assignment**: if you are the owner of one project, total counts, assigned percentage and unallocated counts are showed here.
 - **conflict handling**: if you are the owner of one project, suggestion counts, replied and not reply counts are showed here.

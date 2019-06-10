@@ -79,10 +79,7 @@ Setup myql before installation and grant root all privileges on databases.
 make command is specific for Ubuntu 16.04, other systems may have some depencies problems.
 
 ```
-# install
 make install
-# uninstall
-make uninstall
 ```
 
 

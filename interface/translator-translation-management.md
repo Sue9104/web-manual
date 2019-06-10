@@ -2,7 +2,7 @@
 
 ## Overview
 
-All the projects, which user work as a translator, are displayed by project name, priority, deadline and item counts to translate. Double click the project row will jump to these items.
+All the projects, which user work as a translator, are displayed with project name, priority, deadline and item counts to translate. Double click the project row will jump to these items.
 
 ![](/assets/translation_management.overview.png)
 
@@ -14,9 +14,9 @@ All the items, which need first traslation, are listed here.
 
 ![](/assets/translation_management.translation.png)
 
-**Actions:**
+**Operation:**
 
-1. Seach items by project name, priority, deadline
+1. Seach items by project name, priority, deadline, keyword
 
 2. use "Google Help" to accelerate translation
 

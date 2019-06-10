@@ -6,7 +6,7 @@ Root is the adminstrator with initial password "123456". Please change password 
 
 ## User Management
 
-Only root has the permission to add and delete users. Noteably, the record will still exist even if the user has been disabled.
+Root can do nothing but manage users. Detail translation operations please register a user account. 
 
 ![](/assets/interface.root.png)
 

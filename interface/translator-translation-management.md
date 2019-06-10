@@ -6,7 +6,7 @@ All the projects, which user work as a translator, are displayed with project na
 
 ![](/assets/translation_management.overview.png)
 
-## Translation List
+## Translation
 
 All the items, which need first traslation, are listed here.
 
@@ -23,7 +23,7 @@ All the items, which need first traslation, are listed here.
 3. submit translation
 
 
-## Retranslation List
+## Re-translation
 
 The items, which are rejected by reviewer and need another translation, are listed here.
 
@@ -31,9 +31,9 @@ The items, which are rejected by reviewer and need another translation, are list
 
 ![](/assets/translation_management.retranslation.png)
 
-**Actions:**
+**Operation:**
 
-1. Seach items by project name, priority, deadline
+1. Seach items by project name, priority, deadline, keyword
 
 2. use "Google Help" to accelerate translation
 

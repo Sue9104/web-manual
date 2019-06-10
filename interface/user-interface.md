@@ -41,11 +41,11 @@ Description of table:
 
 <span id='mytask'></span>
 
-My task real-time display all undone job into five categories: **'unallocated'** and **'suggested'** for master, **'untranslated'** and **'re-translated'** for translator, **'unreviewed'** for reviewer. More detail see [status](../glossary.md#status).
+My task real-time display all undone job into five categories: **'unassigned'** and **'suggested'** for master, **'untranslated'** and **'re-translated'** for translator, **'unreviewed'** for reviewer. More detail see [status](../glossary.md#status).
 
 ![](/assets/mytask.png)
 
-**Actions:**
+**Operation:**
 
 1. jump to unallocated items for master: click 'unallocated' link
 

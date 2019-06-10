@@ -1,4 +1,4 @@
-# Guest: Released Search
+# Guest: Released Projects
 
 All the projects, which user work as a guest, are displayed by project name and description. 
 

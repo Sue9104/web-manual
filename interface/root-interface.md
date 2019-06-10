@@ -1,7 +1,10 @@
 # Root Interface
 
+Root is the adminstrator with default password is 123456. Please change password immediately after first login.
 
 <span id='root'></span>
+
+## User Management
 
 Only root has the permission to add and delete users. Noteably, the record will still exist even if the user has been disabled.
 
@@ -10,13 +13,13 @@ Only root has the permission to add and delete users. Noteably, the record will 
 
 Operation:
 
-1. Search existed user by email: click 'Search' button 
+1. **Search Existed User by Email**: click 'Search' button 
 
-2. Add new user: click the "+ New User" button
+2. **Add New User**: click the "+ New User" button
 
-3. Enable/Disable user: User can login with this button on, otherwise user can not login but their records and operations are still reservered.
+3. **Enable/Disable User**: User can login with this button on, otherwise user can not login but their records and operations are still reservered.
  
-4. Reset password: this button will reset user password to "123456".
+4. **Reset Password**: this button will reset user password to "123456".
 
 
 

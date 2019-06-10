@@ -6,25 +6,23 @@
 
 
 
+
+
 ## Interface
 
 All users share same interface, but have different workspace depending on the role in project.
 
-![](/assets/interface.user.png)
-
+Features:
 - [Dashboard](#user)
-- 
+- [Workspace for diffent roles](#workspace)
+  - [Project Management](owner-project-management.md)
+  - [Translation Management](translator-translation-management.md)
+  - [Review Management](reviewer-review-management.md)
+  - [Released Projects](guest-released-projects.md)
+- [MyTask](#mytask)   
 
-  
-    
-      
-        
-          
-            
-              
-                
+![](/assets/interface.user.png)             
                     
-
 ### Dashboard
 
 <span id='stat'></span>

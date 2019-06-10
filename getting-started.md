@@ -15,7 +15,7 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 <span id='create'></span>
 
-**Owner** initiated the project and fill in the details:
+**Owner** initiated the project:
 
 - create project and build translation team
 
@@ -33,7 +33,7 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 Translators need continous translation until approved by reviewers:
 
-- first translate items assigned by master.
+- first translate items assigned by owner.
 
 ![](/assets/translation_management.translation.png)
 
@@ -54,7 +54,7 @@ reviewer check the translation and decide whether to approve or not.
 
 <span id='release'></span>
 
-master release first version.
+owner release first version.
 
 ![](/assets/step4_release.png)
 
@@ -64,11 +64,11 @@ master release first version.
 
 ### Scenarios that trigger iteration
 
-- **guest suggestion**: guest submit suggestions to optimize translation, and master accepted and revive the translation.
+- **guest suggestion were accepted**: guest can submit suggestions to optimize translation.
 
 ![](/assets/suggestion.png)
 
-- **new items**: master add more items to the project.
+- **new items**: owner add more items to the project.
 
 ![](/assets/step5_upload.png)
 

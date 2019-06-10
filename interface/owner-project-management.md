@@ -1,11 +1,11 @@
 # Owner: Project Management
 
 - [Overview](#overview)
-  - project detail
-    - information
-    - schedule
-    - upload
-    - release
+  - [project detail](#detail)
+    - [information](#information)
+    - [schedule](#schedule)
+    - [upload](#upload)
+    - [release](#release)
 - [Assignment](#assign)
 - [Feedback](#feedback)
 
@@ -19,9 +19,12 @@ Projects created by you are listed here. Priority, deadline, and overall progres
 
 ![](/assets/project_management.overview.png)
 
-### Detail
+### Project Detail
+<span id='detail'></span>
 
 #### Information
+<span id='info'></span>
+
 
 All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 
 
@@ -35,6 +38,8 @@ Operation:
 
       
 #### Schedule
+<span id='schedule'></span>
+
 
 The project schedule are divided into two categories for display: project shedule and member schedule. "Assginment" and "Feedback" button are two quick way to workspace of assignment and feedback of current project.
 
@@ -45,12 +50,14 @@ Operation:
 2. reply to suggestion
 
 #### Upload
+<span id='upload'></span>
 
 Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and click "Download Template" if you don't know the format.
 
 ![](/assets/project_management.upload.png)
 
 #### Release
+<span id='release'></span>
 
 Just click the "Export New Version" button, and a new version is released. Moreover, all histroical versions are showed.
 

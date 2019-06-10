@@ -1,8 +1,19 @@
 # Owner: Project Management
 
-<span id='master'></span>
+- [Overview](#overview)
+  - project detail
+    - information
+    - schedule
+    - upload
+    - release
+- [Assignment](#assign)
+- [Feedback](#feedback)
+
 
 ## Overview
+
+<span id='overview'></span>
+
 
 Projects created by you are listed here. Priority, deadline, and overall progress are presented. If you want to know more information, _**Double click**_ will jump to details of the project.
 
@@ -47,6 +58,8 @@ Just click the "Export New Version" button, and a new version is released. Moreo
 
 ## Assignment
 
+<span id='assign'></span>
+
 Assignment is the first step of translation process. Owner should allocate items to translators after project creation.
 
 > Description of status please see [status](../glossary.md#status)
@@ -59,6 +72,8 @@ Assignment is the first step of translation process. Owner should allocate items
 3. search items by project name, priority, deadline, keyword, status
  
 ## Feedback
+
+<span id='feedback'></span>
 
 Owner need quickly reply to the suggestion submited by guests. All the suggestion are presented here.
 

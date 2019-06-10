@@ -17,20 +17,25 @@ All the settings can be adjusted except creation date, such as project name, dea
 ![](/assets/project_management.overview.information.png)
 
 Operation:
-1. add new members
-2. extend the deadline
+1. **add new members** to project and these members must register first
+2. **extend the deadline** according to schedule.
+4. **change the visibility level**: only support changes from private to public.
+5. change language, project name, priority, and description. 
 
-  - If you want to add more people to the project after creation who must be registered first, operation with "add members" panel. 
       
 #### Schedule
 
-The project schedule are divided into two categories for display: project stage shedule and member schedule. "Allocate" and "Conflict-handle" button are two quick way to allocate items and handle conflict items.
+The project schedule are divided into two categories for display: project shedule and member schedule. "Assginment" and "Feedback" button are two quick way to workspace of assignment and feedback of current project.
 
 ![](/assets/project_management.schedule.png)
 
+Operation:
+1. assign project items
+2. reply to suggestion
+
 #### Upload
 
-Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and format can be download through "Format Help" button.
+Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and click "Download Template" if you don't know the format.
 
 ![](/assets/project_management.upload.png)
 

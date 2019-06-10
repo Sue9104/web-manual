@@ -16,7 +16,7 @@ All the workload and complete percentage are listed by project. Click on the blu
 
 Description of table:
 
-||project role|total|completed|undone|corresponding undone status in MyTask|
+||Worker|total|completed|undone|corresponding undone status in MyTask|
 |--|--|
 |assignment|owner|total item counts|assigned item percentage|unassigned item counts|unassigned|
 |translation|translator|counts of items assigned to you| translated percentage |untranslated and retranslated item counts|untranslated & retranslated|

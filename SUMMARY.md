@@ -18,9 +18,11 @@
 ## Install Trantrace
 
 * [Configure](install-trantrace/configure.md)
-* Install
+* [Install](install-trantrace/install.md)
 
 ## Getting Started
+
+* [Workflow](getting-started/workflow.md)
 
 ## Interface
 

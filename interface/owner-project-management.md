@@ -47,13 +47,13 @@ Just click the "Export" button, and a new version is released. Moreover, all his
 
 ## Assignment
 
-Allocation is the first step of translation process. Master should allocate items to translators after project creation. All the items are list here.
+Assignment is the first step of translation process. Owner should allocate items to translators after project creation. All the items are list here.
 
 > Description of status please see [status](../glossary.md#status)
 
 ![](/assets/project_management.assignment.png)
 
-**Actions:**
+**Operation:**
 1. allocate one item to one translator
 2. allocate multiple items to one translator
 3. search items by project name, priority, deadline, keyword, status

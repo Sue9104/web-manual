@@ -1,12 +1,13 @@
-![](/assets/step5_upload_new_file.png)![](/assets/step3_review.png)# Getting Started
+# Getting Started
+
 Trantrace workflow: 
  
 ![](/assets/Trantrace_workflow.jpg)
 
-Step 1. [**creation:** _master_ create project, upload database and allocate items to translators](#create)
+Step 1. [**creation:** user (_owner_) create project, upload database and assign items to translators](#create)
 Step 2. [**translation:** _translators_ continously translate until approved](#translate)
 Step 3. [**review:** _reviewer_ review translation](#review)
-Step 4. [**release:** _master_ release a version](#release)
+Step 4. [**release:** _owner_ release a version](#release)
 Step 5. [**iteration:** _all members_ cooperate to optimize translation and release a better version](#iterative)
  
 
@@ -14,7 +15,7 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 <span id='create'></span>
 
-**Master** initiated the project and fill in the details:
+**Owner** initiated the project and fill in the details:
 
 - create project and fill in the form
 
@@ -22,7 +23,8 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 - allocate items to translators
 
-![](/assets/step1_creation.png)
+
+
 
 ## Step 2: Translation
 

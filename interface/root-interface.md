@@ -10,7 +10,7 @@ Only root has the permission to add and delete users. Noteably, the record will 
 
 Operation:
 
-1. Search exised user by email: click 'Search' button 
+1. Search existed user by email: click 'Search' button 
 
 2. Add new user: click the "+ New User" button
 

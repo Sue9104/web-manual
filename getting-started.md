@@ -73,7 +73,7 @@ owner release first version.
 ![](/assets/step5_upload.png)
 
 
-## version iteration procedures
+### version iteration procedures
 
 The first step is slightly different with first release, and others are same.
 

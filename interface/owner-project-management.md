@@ -16,6 +16,10 @@ All the settings can be adjusted except creation date, such as project name, dea
 
 ![](/assets/project_management.overview.information.png)
 
+Operation:
+1. add new members
+2. extend the deadline
+
   - If you want to add more people to the project after creation who must be registered first, operation with "add members" panel. 
       
 #### Schedule

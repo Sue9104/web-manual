@@ -35,7 +35,6 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 ![](/assets/step1_creation.png)
 
-
 ### Step 2: Translation
 
 <span id='translate'></span>

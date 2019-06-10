@@ -12,9 +12,9 @@ All the projects, which user works as a guest, are displayed here.
 ![](/assets/suggestion.png)
 
 **Operation:**
-1. Search by project name
-2. list project versions
-3. jump to project entries by double click the row
+1. Search released project by name
+2. List project versions
+3. View the project entry detail
 
 
 ## Suggestion

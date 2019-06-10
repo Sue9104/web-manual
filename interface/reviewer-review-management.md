@@ -4,9 +4,11 @@
 
 All the projects, which user work as a reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these items.
 
+Since the review is not assigned, all reviewers share same workspace.
+
 ![](/assets/review_management.overview.png)
 
-## Review List
+## Review
 
 All the items to be reviewed are listed here.
 
@@ -14,7 +16,7 @@ All the items to be reviewed are listed here.
 
 ![](/assets/review_management.review.png)
 
-**Actions:**
+**Operation:**
 
 1. Seach items by project name, priority, deadline
 

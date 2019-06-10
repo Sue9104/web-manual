@@ -8,27 +8,35 @@ Projects created by you are listed here. Priority, deadline, and overall progres
 
 ![](/assets/project_management.overview.png)
 
-## Project Detail
+### Detail
 
-- **Information**: All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 
+#### Information
+
+All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 
 
 ![](/assets/project_management.overview.information.png)
 
   - If you want to add more people to the project after creation who must be registered first, operation with "add members" panel. 
       
-- **Schedule**: The project schedule are divided into two categories for display: project stage shedule and member schedule. "Allocate" and "Conflict-handle" button are two quick way to allocate items and handle conflict items.
+#### Schedule
+
+The project schedule are divided into two categories for display: project stage shedule and member schedule. "Allocate" and "Conflict-handle" button are two quick way to allocate items and handle conflict items.
 
 ![](/assets/project_management.schedule.png)
 
-- **Import Files**: Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and format can be download through "Format Help" button.
+#### Upload
+
+Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and format can be download through "Format Help" button.
 
 ![](/assets/project_management.upload.png)
 
-- **Version Control**: Just click the "Export" button, and a new version is released. Moreover, all histroical versions are listed below the button.
+#### Release
+
+Just click the "Export" button, and a new version is released. Moreover, all histroical versions are listed below the button.
 
 ![](/assets/project_management.release.png)
 
-## Allocate
+## Assignment
 
 Allocation is the first step of translation process. Master should allocate items to translators after project creation. All the items are list here.
 
@@ -41,9 +49,9 @@ Allocation is the first step of translation process. Master should allocate item
 2. allocate multiple items to one translator
 3. search items by project name, priority, deadline, keyword, status
  
-## Conflict Handle
+## Feedback
 
-Master need quickly reply to the suggestion submited by guests. All the suggestion are listed here.
+Owner need quickly reply to the suggestion submited by guests. All the suggestion are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 

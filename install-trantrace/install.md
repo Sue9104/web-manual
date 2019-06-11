@@ -27,7 +27,7 @@ Default Setting:
 | mysql | 3306 | root/123456 |
 | apache2 | 8000 | root/123456 |
 
-* detail see [Configuration](configuration.md).
+* detail see [Configuration](configure.md).
 
 ## Install Trantrace
 

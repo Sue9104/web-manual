@@ -2,7 +2,7 @@
 
 ## Sign Up
 
-open http://192.168.202.174:92/#/register on **Chrome**，and fill in form.
+open http://192.168.202.117:8000/#/register on **Chrome**，and fill in form.
 
 ![](/assets/Screenshot from 2019-06-10 18-35-02.png)
 

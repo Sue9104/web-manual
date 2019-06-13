@@ -4,7 +4,7 @@
 
 ### Hardware 
 
-Actual requirements vary heavily based on translation database size and user amount, the following is the minimal configuration required:
+Actual requirements vary heavily based on translation database size and user amount, the following is the minimal configuration:
 
 * CPU: Intel Core or Xeon 3GHz (or Dual Core 2GHz) or equal AMD CPU
 * cores: Single (Dual/Quad Core is recommended)

@@ -15,7 +15,7 @@ Only support to login with email rather than user name.
 
 - **change password**
 
-<span id='change-password'></span>
+<span id='change_password'></span>
 
 ![](/assets/user.change_password.png)
 

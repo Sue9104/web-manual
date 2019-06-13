@@ -1,6 +1,8 @@
 # Roles
 
-## System roles <span id='system-roles'></span>
+## System roles 
+
+<span id='system-roles'></span>
 
 There are two roles in the Trantrace system: root and user. 
 

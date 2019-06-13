@@ -2,16 +2,16 @@
 
 ## Prerequisites
 
-### Hardware 
+### Hardware
 
 Actual requirements vary heavily based on translation database size and user amount, the following is the minimal configuration:
 
-* CPU: Intel Core or Xeon 3GHz (or Dual Core 2GHz) or equal AMD CPU
-* cores: Single (Dual/Quad Core is recommended)
-* RAM: 4 GB (6 GB recommended)
+* CPU: Intel Core or Xeon 3GHz \(or Dual Core 2GHz\) or equal AMD CPU
+* cores: Single \(Dual/Quad Core is recommended\)
+* RAM: 4 GB \(6 GB recommended\)
 * Operating System: Ubuntu 16.04
 
-### Software 
+### Software
 
 1. Apache2
 2. PHP &gt;= 7.1.3
@@ -20,8 +20,7 @@ Actual requirements vary heavily based on translation database size and user amo
 
 ### Browser
 
-- Chrome
-
+* Chrome
 
 ## Configure
 
@@ -40,9 +39,9 @@ Default Setting:
 
 ### Method 1 \(Recommend\): docker-compose
 
-* docker: 
-  
-  Official Guide: https://docs.docker.com/install/linux/docker-ce/ubuntu/
+* docker:
+
+  Official Guide: [https://docs.docker.com/install/linux/docker-ce/ubuntu/](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
 ```
 # for ubuntu
@@ -56,7 +55,7 @@ sudo groupadd docker && sudo usermod -aG docker $(who am i| awk '{print $1}')
 
 * docker-compose 
 
-Official Guide: https://docs.docker.com/compose/install/
+Official Guide: [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
 
 ```
 # for Linux
@@ -75,11 +74,11 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 ### Method 2: Make
 
-- Mysql
+* Mysql
 
 Setup myql before installation and grant root all privileges on databases.
 
-- Install
+* Trantrace
 
 make command is specific for Ubuntu 16.04, other systems may have some depencies problems.
 

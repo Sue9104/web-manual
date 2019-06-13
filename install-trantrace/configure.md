@@ -19,7 +19,7 @@ If you want to change the default setting of Mysql, please do as the following:
 | Setting | How to change |
 | :--- | :--- |
 | port | revise "WEB\_PORT" in .env |
-| root password | loggin with initialize accout\(root/123456\), and [change password in GUI](../getting-started/registration.md#change-password) |
+| root password | loggin with initialize accout\(root/123456\), and [change password in GUI](../getting-started/registration.md#change_password) |
 
 
 

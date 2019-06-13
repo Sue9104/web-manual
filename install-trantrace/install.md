@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-### Hardware Requirements
+### Hardware 
 
 Actual requirements vary heavily based on translation database size and user amount, the following is the minimal configuration required:
 
@@ -11,12 +11,17 @@ Actual requirements vary heavily based on translation database size and user amo
 * RAM: 4 GB (6 GB recommended)
 * Operating System: Ubuntu 16.04
 
-### Software Requirements
+### Software 
 
 1. Apache2
 2. PHP &gt;= 7.1.3
 3. PHP modules: bcmath curl igbinary imap ldap mbstring memcached msgpack mysql xml xmlrpc zip
 4. Mysql 5.7
+
+### Browser
+
+- Chrome
+
 
 ## Configure
 

@@ -8,7 +8,7 @@ Step 2. [**translation:** _translators_ continously translate until approved](#t
 
 Step 3. [**review:** _reviewer_ review translation](#review)
 
-Step 4. [**release:** _owner_ release a version](#release)
+Step 4. [**release:** _owner_ release first version](#release)
 
 Step 5. [**iteration:** _all members_ cooperate to optimize translation and release a better version](#iterative)
  

@@ -46,7 +46,7 @@ Translators need continous translation until approved by reviewers:
 
 <span id='review'></span>
 
-reviewer check the translation and decide whether to approve or not.
+Reviewer check the translation and decide whether to approve or not.
 
 ![](/assets/step3_review.png)
 
@@ -54,7 +54,7 @@ reviewer check the translation and decide whether to approve or not.
 
 <span id='release'></span>
 
-owner release first version.
+Owner release first version.
 
 ![](/assets/step4_release.png)
 
@@ -62,7 +62,7 @@ owner release first version.
 
 <span id='iteration'></span>
 
-### Scenarios that trigger iteration
+### Scenarios
 
 - **guest suggestion were accepted**: guest can submit suggestions to optimize translation.
 

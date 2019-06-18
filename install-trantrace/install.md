@@ -9,7 +9,9 @@ Actual requirements vary heavily based on translation database size and user amo
 * CPU: Intel Core or Xeon 3GHz \(or Dual Core 2GHz\) or equal AMD CPU
 * cores: Single \(Dual/Quad Core is recommended\)
 * RAM: 4 GB \(6 GB recommended\)
-* Operating System: Ubuntu 16.04
+
+### Operating System
+- Ubuntu 16.04 for [Make]()
 
 ### Software
 
@@ -73,6 +75,8 @@ sudo chmod +x /usr/local/bin/docker-compose
   ```
 
 ### Method 2: Make
+<span id='make'></span>
+
 
 * Mysql
 

@@ -11,7 +11,10 @@ Actual requirements vary heavily based on translation database size and user amo
 * RAM: 4 GB \(6 GB recommended\)
 
 ### Operating System
-- Ubuntu 16.04 for [Make]()
+
+- Ubuntu 16.04 for [Make](#make)
+- Other System please use [docker-compose](#compose)
+
 
 ### Software
 
@@ -40,6 +43,11 @@ Default Setting:
 **It is recommended to use docker-compose to install Trantrace**, which is isolated from dependency problems, and easy to deploy.
 
 ### Method 1 \(Recommend\): docker-compose
+
+<span id='compose'></span>
+
+
+
 
 * docker:
 
@@ -75,6 +83,7 @@ sudo chmod +x /usr/local/bin/docker-compose
   ```
 
 ### Method 2: Make
+
 <span id='make'></span>
 
 

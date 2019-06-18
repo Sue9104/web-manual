@@ -1,3 +1,12 @@
 {
-  "plugins": ["-sharing", "sharing-plus", "prism"]
+  "plugins": ["sharing", "prism", "fancybox"],
+  "pluginsConfig": {
+    "sharing": {
+      "facebook": true,
+      "google": true,
+      "twitter": true,
+      "weibo": true,
+      "all": ["facebook", "google", "twitter", "weibo"]
+    }
+  }
 }

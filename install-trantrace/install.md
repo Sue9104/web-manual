@@ -53,8 +53,6 @@ docker-compose build
 docker-compost up -d
 ```
 
-
-
 ### Method 2: Make
 
 <span id='make'></span>
@@ -63,6 +61,7 @@ docker-compost up -d
 * Mysql
 
 Setup myql before installation and grant root all privileges on databases.
+
 
 * Trantrace
 

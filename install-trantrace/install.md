@@ -1,5 +1,8 @@
 # Install
 
+
+
+
 ## Requirements
 
 ### Operating Systems
@@ -57,26 +60,9 @@ docker-compost up -d
 
 <span id='make'></span>
 
+1. Mysql: Setup and grant root all privileges on databases.
+2. Apache2: ```make apache2```
+3. PHP and PHP modules: ```make php php-modules```
+4. Install Trantrace: ```make install```
 
-* Mysql
-
-Setup myql before installation and grant root all privileges on databases.
-
-
-* Trantrace
-
-make command is specific for Ubuntu 16.04, other systems may have some depencies problems.
-
-```
-make install
-```
-
-
-
-### Software
-
-1. Apache2
-2. PHP &gt;= 7.1.3
-3. PHP modules: bcmath curl igbinary imap ldap mbstring memcached msgpack mysql xml xmlrpc zip
-4. Mysql 5.7
 

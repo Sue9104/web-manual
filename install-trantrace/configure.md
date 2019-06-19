@@ -7,11 +7,9 @@
 | mysql | 3306 | root | 123456 |
 | Trantrace | 90 | root | 123456 |
 
-## Change Setting
+## How to Change
 
 ### Mysql
-
-If you want to change the default setting of Mysql, please do as the following:
 
 | Setting | How to change |
 | :--- | :--- |

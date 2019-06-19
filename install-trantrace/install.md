@@ -4,19 +4,15 @@
   - [Operating systems](#system)
   - [Hardware](#hardware)
 - [Install Trantrace](#install)
-  - [Configure](#config)
-  - [Install with Docker-compose](#docker)
+  - [Install with Docker-compose (Recommend)](#docker)
   - [Install from Source](#make)
-
-
 
 ## Requirements
 
 ### Operating Systems
 
-
-- Ubuntu 16.04 using [Make](#make)
-- Other System please use [docker-compose](#docker)
+- [install with docker-compose](#docker): Even though there are lots of operating systems supported by docker-compose, **Linux or Mac** is recommended.
+- [install from source](#make): **Ubuntu 16.04** is recommended.
 
 ### Hardware
 
@@ -27,31 +23,18 @@ Actual requirements vary heavily based on translation database size and user amo
 * RAM: 4 GB \(6 GB recommended\)
 
 
-
 ## Install Trantrace
 <span id='install'></span>
 
-**It is recommended to use docker-compose to install Trantrace**, which is isolated from dependency problems, and easy to deploy.
+**It is recommended to install Trantrace with docker-compose**, which is isolated from dependency problems, and easy to deploy.
 
-## Configure
-<span id='config'></span>
-
-Default Setting:
-
-| Service | port | user/password |
-| :--- | :--- | :--- |
-| mysql | 3306 | root/123456 |
-| apache2 | 8000 | root/123456 |
-
-* If you want revise default setting, please see [Configure](configure.md).
-
-
-### Method 1 \(Recommend\): docker-compose
+### Install with Docker-compose \(Recommend\)
 <span id='docker'></span>
 
-1. docker is required for docker-compose: [Official Guide](https://docs.docker.com/install/)
+1. docker: [Official Guide](https://docs.docker.com/install/)
 2. docker-compose: [Official Guide](https://docs.docker.com/compose/install/)  
-3. install and start trantrace 
+3. Configure: We stongly recommend you to change [default setting](configure.md#default) in .env, please see [Configure](configure.md).
+4. install trantrace 
 
 ```
 # build
@@ -60,13 +43,18 @@ docker-compose build
 docker-compost up -d
 ```
 
-### Method 2: Make
+### Install from source
 
 <span id='make'></span>
 
-1. Mysql: Setup and grant root all privileges on databases.
-2. Apache2: ```make apache2```
-3. PHP and PHP modules: ```make php php-modules```
-4. Install Trantrace: ```make install```
+If you are using Ubuntu 16.04, we strongly recommend to change [default setting](configure.md#default), then install using ```make install```.
+ 
+Otherwise, you should manually install **mysql, apache2, php and related modules** first, then copy source code folder ('src/') to corresponding folder, lastly activate the webiste and restart apache2.
+
+Software Dependencies:
+1. Mysql: install mysql-server(mysql>=5.7) and start mysql service, then grant root all privileges.
+2. Apace2
+3. PHP >= 7.1.3
+4. PHP-modules: bcmath, curl, igbinary, imap, ldap, mbstring, memcached, msgpack, mysql, xml, xmlrpc, zip
 
 

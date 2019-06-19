@@ -1,5 +1,14 @@
 # Configure
 
+## Default Setting
+
+| Service | port | user/password |
+| :--- | :--- | :--- |
+| mysql | 3306 | root/123456 |
+| apache2 | 8000 | root/123456 |
+
+
+
 ## Mysql
 
 If you want to change the default setting of Mysql, please do as the following:

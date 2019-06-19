@@ -1,5 +1,12 @@
 # Install
 
+- [Requirements](#require)
+  - [Operating Systems](#system)
+  - [Hardware](#hardware)
+- [Install Trantrace](#install)
+  - [Configure](#config)
+  - [Install using docker-compose](#docker)
+  - [Install using make](#make)
 
 
 
@@ -7,13 +14,9 @@
 
 ### Operating Systems
 
-- Ubuntu 16.04 for [Make](#make)
-- Other System please use [docker-compose](#compose)
 
-### Browser
-
-* **Chrome:** https://chromereleases.googleblog.com/
-
+- Ubuntu 16.04 using [Make](#make)
+- Other System please use [docker-compose](#docker)
 
 ### Hardware
 
@@ -26,10 +29,12 @@ Actual requirements vary heavily based on translation database size and user amo
 
 
 ## Install Trantrace
+<span id='install'></span>
 
 **It is recommended to use docker-compose to install Trantrace**, which is isolated from dependency problems, and easy to deploy.
 
 ## Configure
+<span id='config'></span>
 
 Default Setting:
 
@@ -42,12 +47,11 @@ Default Setting:
 
 
 ### Method 1 \(Recommend\): docker-compose
-
-<span id='compose'></span>
+<span id='docker'></span>
 
 1. docker is required for docker-compose: [Official Guide](https://docs.docker.com/install/)
 2. docker-compose: [Official Guide](https://docs.docker.com/compose/install/)  
-3. install trantrace using trantrace
+3. install and start trantrace 
 
 ```
 # build

@@ -5,8 +5,8 @@
   - [Hardware](#hardware)
 - [Install Trantrace](#install)
   - [Configure](#config)
-  - [Install using docker-compose](#docker)
-  - [Install using make](#make)
+  - [Install with Docker-compose](#docker)
+  - [Install from Source](#make)
 
 
 

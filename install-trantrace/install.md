@@ -1,7 +1,7 @@
 # Install
 
 - [Requirements](#require)
-  - [Operating Systems](#system)
+  - [Operating systems](#system)
   - [Hardware](#hardware)
 - [Install Trantrace](#install)
   - [Configure](#config)
@@ -43,7 +43,7 @@ Default Setting:
 | mysql | 3306 | root/123456 |
 | apache2 | 8000 | root/123456 |
 
-* If you want revise this setting, please see [Configure](configure.md).
+* If you want revise default setting, please see [Configure](configure.md).
 
 
 ### Method 1 \(Recommend\): docker-compose

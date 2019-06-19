@@ -2,14 +2,14 @@
 
 ## Default Setting
 
-| Service | port | user/password |
-| :--- | :--- | :--- |
-| mysql | 3306 | root/123456 |
-| apache2 | 8000 | root/123456 |
+|  | Service | adminstrator | administrator password |
+| :--- | :--- | :--- | :--- |
+| mysql | 3306 | root | 123456 |
+| Trantrace | 90 | root | 123456 |
 
+## Change Setting
 
-
-## Mysql
+### Mysql
 
 If you want to change the default setting of Mysql, please do as the following:
 
@@ -23,7 +23,7 @@ If you want to change the default setting of Mysql, please do as the following:
 * Once the  website is started, you need restart after edit.
 * More SQL operation, please see MySQL Official Guide: [https://dev.mysql.com/doc/refman/5.7/en/](https://dev.mysql.com/doc/refman/5.7/en/)
 
-## Apache2
+### Trantrace
 
 | Setting | How to change |
 | :--- | :--- |

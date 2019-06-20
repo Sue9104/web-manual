@@ -7,7 +7,9 @@ Trantrace is an open-source web-based application, which offers a simple and rob
 ## Features
 
 * Enable every log-in users to build own translation projects with different permissions
+
 * Version control for your translation
+
 * Real-time task management
 
 ## License

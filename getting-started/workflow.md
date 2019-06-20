@@ -72,9 +72,9 @@ Owner release versions according to progress.
 - procedures
 
   1. owner assign job to translators. 
-    - **guest suggestion**: owner revived the translation, and re-assigned item to translator;
+    - **guest suggestion**: owner revive the translation, and re-assign item to translator;
     ![](/assets/project_management.feedback.png)
-    - **new items**: master assign new items to translators (step1).
+    - **new items**: owner assigns new items to translators (step1).
     ![](/assets/project_management.assignment.png)
   2. translator contiously translate until approved (step2)
   3. review review the translation (step3).

@@ -49,17 +49,15 @@ Reviewer check the translation and decide whether to approve or not.
 
 ## Step 4. Version Interation: all project members cooperate to optimize translation until all are in good quality.
 
-### Release version
+<span id='iteration'></span>
 
-<span id='release'></span>
+### Release version
 
 Owner release versions according to progress.
 
 ![](/assets/step4_release.png)
 
 ### Iteration
-
-<span id='iteration'></span>
 
 #### Scenarios
 
@@ -70,7 +68,6 @@ Owner release versions according to progress.
 - **new items**: owner add more items to the project.
 
 ![](/assets/step5_upload.png)
-
 
 #### procedures
 

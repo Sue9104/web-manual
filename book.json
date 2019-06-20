@@ -1,5 +1,5 @@
 {
-  "plugins": ["sharing", "prism", "fancybox"],
+  "plugins": ["sharing", "prism", "fancybox", "-highlight", "prism", "prism-themes"],
   "pluginsConfig": {
     "sharing": {
       "facebook": true,
@@ -7,6 +7,12 @@
       "twitter": true,
       "weibo": true,
       "all": ["facebook", "google", "twitter", "weibo"]
+    },
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-dracula.css"
+      ]
     }
+
   }
 }

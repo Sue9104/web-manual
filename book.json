@@ -1,5 +1,6 @@
 {
-  "plugins": ["fancybox", "-highlight", "prism", "prism-themes", "copy-code-button", "emphasize"],
+  "plugins": ["fancybox", "-highlight", "prism", "prism-themes",
+    "copy-code-button", "emphasize", "splitter", "simple-page-toc"],
   "pluginsConfig": {
     "sharing": {
       "facebook": true,

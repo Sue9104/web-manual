@@ -14,8 +14,6 @@ Trantrace is an open-source web-based application, which offers a simple and rob
 
 > **[info] Trantrace is a free and open source software with [MIT license](https://opensource.org/licenses/MIT).**
 
->
-
 > **[danger] This is danger**
 
 > **[warning] This is warning **

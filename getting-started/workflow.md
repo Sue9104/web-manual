@@ -6,7 +6,7 @@ Step 1. [**creation:** user (_owner_) create project, upload files and assign ta
 
 Step 2. [**translation:** _translators_ continously translate until approved](#translate)
 
-Step 3. [**review:** _reviewer_ review translations ](#review)
+Step 3. [**review:** _reviewer_ decide whether to let translations pass or fail ](#review)
 
 Step 4. [**version iteration:** _all members_ cooperate to optimize translation until all are in good quality](#iteration)
  

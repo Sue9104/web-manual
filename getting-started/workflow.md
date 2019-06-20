@@ -8,7 +8,7 @@ Step 2. [**translation:** _translators_ continously translate until approved](#t
 
 Step 3. [**review:** _reviewer_ decide whether to let translations pass or fail ](#review)
 
-Step 4. [**version iteration:** _all members_ cooperate to optimize translation until all are in good quality](#iteration)
+Step 4. [**version iteration:** _all members_ cooperate to optimize translations until all are in good quality](#iteration)
  
 ## Step 1. Creation: user (_owner_) create project, upload files and assign tasks to translators
 

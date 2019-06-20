@@ -20,10 +20,15 @@ If default trantrace website port (90) is occupied, please change 90 to other av
   grant all PRIVILEGES on *.* to root@'%' identified by 'WelcomeSGI1' with grant option;
   flush privileges;
   ```
+  
   2. Install **apache2**.
+  
   3. Install **PHP (>=7.1.3)** and **related PHP modules** (bcmath, curl, igbinary, imap, ldap, mbstring, memcached, msgpack, mysql, xml, xmlrpc, zip).
+  
   4. If you want to **change trantrace website port (default: 90)**, edit port number in conf/trantrace.apache.conf.
+  
   5. Copy source code (src/) and apache2 configure file (conf/trantrace.apache.conf) to corresponding folder.
+  
   6. Activate website and restart apache2.
   
 

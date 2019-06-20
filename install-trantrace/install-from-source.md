@@ -17,6 +17,7 @@ If default trantrace website port (90) is occupied, please change 90 to other av
 
   1. Install **mysql-server (>=5.7)**, grant root all privileges with root password and restart mysql service.
   ```sql
+  # grant privileges
   grant all PRIVILEGES on *.* to root@'%' identified by 'WelcomeSGI1' with grant option;
   flush privileges;
   ```

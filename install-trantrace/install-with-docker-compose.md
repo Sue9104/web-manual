@@ -54,7 +54,7 @@ open Trantrace website on Chrome, login as root with initial password 123456, an
 | :--- | :--- |
 | port | revise "DB\_PORT" in .env |
 | root password | revise "DB\_PASSWORD" in .env |
-| sql\_mode | revise "--sql-mode" in docker-compose.yaml |
+
 
 * Once the  website is started, you need restart after edit.
 * More SQL operation, please see MySQL Official Guide: [https://dev.mysql.com/doc/refman/5.7/en/](https://dev.mysql.com/doc/refman/5.7/en/)

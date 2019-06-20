@@ -34,7 +34,7 @@ Translators need continous translation until approved by reviewers:
 
 ![](/assets/translation_management.translation.png)
 
-- re-translate items refused by reviewers.
+- re-translate entries refused by reviewers.
 
 ![](/assets/translation_management.retranslation.png)
 

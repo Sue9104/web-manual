@@ -30,7 +30,7 @@ docker-compose build
 docker-compost up -d
 ```
 
-Please see [docker-compose offical guide](https://docs.docker.com/compose/reference/overview/) for more operation.
+Please see [docker-compose offical guide](https://docs.docker.com/compose/reference/overview/) for more operations.
 
 ## Setup
 

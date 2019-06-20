@@ -10,7 +10,7 @@
     },
     "prism": {
       "css": [
-        "prismjs/themes/prism-dracula.css"
+        "prism-themes/themes/prism-darcula.css"
       ]
     }
 

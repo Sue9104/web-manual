@@ -8,6 +8,7 @@
 <span id='docker'></span>
 
 1. docker: [Official Guide](https://docs.docker.com/install/)
+
 2. docker-compose: [Official Guide](https://docs.docker.com/compose/install/)  
 
 
@@ -20,7 +21,6 @@ We stongly recommend you to change default setting in ".env" file for security.
 
 
 ## Install Trantrace
-4. install trantrace 
 
 ```
 # build
@@ -28,6 +28,8 @@ docker-compose build
 # start
 docker-compost up -d
 ```
+
+Please see docker-compose offical Guide for more operation.
 
 ## Setup
 

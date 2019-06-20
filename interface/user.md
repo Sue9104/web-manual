@@ -16,7 +16,7 @@ All users share same interface, but have different workspace depending on the ro
 
 <span id='stat'></span>
 
-All the workload, complete percentage and unfinished counts are listed by project. Click on the blue link in last columns and they will take you to the items that have not been finished.
+Task summary table, including workload, complete percentage and unfinished counts, is arranged by task categories. Click on the blue link in last columns and they will take you to the items that have not been finished.
 
 ![](/assets/dashboard.png)
 

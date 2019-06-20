@@ -47,7 +47,8 @@ docker-compost up -d
 
 <span id='make'></span>
 
-If you are using Ubuntu 16.04, we strongly recommend to change [default setting](configure.md#default), then install using ```make install```.
+If you are using Ubuntu 16.04, we strongly recommend to install using 
+```make install MYSQL_ROOT_PASSWORD=your_mysql_root_password MYSQL_HOST=your_mysql_host MYSQL_PORT=your_mysql_port```.
  
 Otherwise, you should manually install **mysql, apache2, php and related modules** first, then copy source code folder ('src/') to corresponding folder, lastly activate the webiste and restart apache2.
 

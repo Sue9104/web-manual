@@ -13,7 +13,7 @@ Step 4. [**release:** _owner_ release first version](#release)
 Step 5. [**iteration:** _all members_ cooperate to optimize translation and release a better version](#iterative)
  
 
-## Step 1: Creation 
+## Step 1: Creation: user create project, upload files and assign tasks to translators
 
 <span id='create'></span>
 

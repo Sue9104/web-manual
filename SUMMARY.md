@@ -5,7 +5,7 @@
 ## Install Trantrace
 
 * [Requirements](install-trantrace/requirements.md)
-* [Install with Docker-compose \(Recommend\)](install-trantrace/install-with-docker-compose.md)
+* [Install with Docker-compose](install-trantrace/install-with-docker-compose.md)
 * [Install from Source](install-trantrace/install-from-source.md)
 
 ## Getting Started

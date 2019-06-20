@@ -1,4 +1,4 @@
-# Install Trantrace with Docker-compose \(Recommend\)
+# Install Trantrace with Docker-compose
 
 <!-- toc -->
 

@@ -1,10 +1,13 @@
 # Install Trantrace with Docker-compose
 
-<!-- toc -->
-
 **It is recommended to install Trantrace with docker-compose**, which is isolated from dependency problems, and easy to deploy.
 
+<!-- toc -->
+
+
 ## Prerequisites
+
+Docker is required for docker-compose, please make sure both are installed.
 
 1. docker: [Official Guide](https://docs.docker.com/install/)
 

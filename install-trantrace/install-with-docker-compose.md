@@ -6,7 +6,7 @@
 
 ## Install docker-compose
 
-<span id='docker'></span>
+D
 
 1. docker: [Official Guide](https://docs.docker.com/install/)
 

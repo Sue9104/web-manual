@@ -21,7 +21,7 @@ We stongly recommend you to change default root password in ".env" file for secu
 | Mysql | port | 3307 | edit "DB\_PORT" in .env |
 | Trantrace | port | 90 | edit "WEB\_PORT" in .env |
 
-## Install Trantrace
+## Install
 
 ```sh 
 # install

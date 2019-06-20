@@ -61,5 +61,5 @@ Software Dependencies:
 
 ## Setup
 
-open Trantrace website on Chrome, login as root with initial password 123456, and  change the password in GUI.
+open Trantrace website on Chrome, login as root with initial password 123456, and  [change password in GUI](../getting-started/registration.md#change-password) .
 

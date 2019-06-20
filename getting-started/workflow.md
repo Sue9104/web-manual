@@ -65,7 +65,7 @@ Owner release versions according to progress.
 
     ![](/assets/suggestion.png)
 
-  - **new items**: owner added more items to the project.
+  - **new entries**: owner added more entries to the project.
 
     ![](/assets/step5_upload.png)
 
@@ -74,7 +74,7 @@ Owner release versions according to progress.
   1. owner assign job to translators. 
     - **guest suggestion**: owner revive the translation, and re-assign item to translator;
     ![](/assets/project_management.feedback.png)
-    - **new items**: owner assigns new items to translators (step1).
+    - **new entries**: owner assigns new entries to translators (step1).
     ![](/assets/project_management.assignment.png)
   2. translator contiously translate until approved (step2)
   3. review review the translation (step3).

@@ -20,7 +20,7 @@ Task summary table, including workload, complete percentage and unfinished count
 
 ![](/assets/dashboard.png)
 
-Description of table:
+Description of summary table:
 
 ||Worker|total|completed|undone|corresponding undone status in MyTask|
 |--|--|

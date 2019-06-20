@@ -61,7 +61,7 @@ Owner release versions according to progress.
 
 ![](/assets/step4_release.png)
 
-## Iteration
+### Iteration
 
 <span id='iteration'></span>
 
@@ -76,7 +76,7 @@ Owner release versions according to progress.
 ![](/assets/step5_upload.png)
 
 
-### version iteration procedures
+## procedures
 
 The first step is slightly different with first release, and others are same.
 

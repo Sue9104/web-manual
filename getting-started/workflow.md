@@ -2,15 +2,13 @@
  
 ![](/assets/Trantrace_workflow.jpg)
 
-Step 1. [**creation:** user (_owner_) create project, upload database and assign items to translators](#create)
+Step 1. [**creation:** user (_owner_) create project, upload files and assign tasks to translators](#create)
 
 Step 2. [**translation:** _translators_ continously translate until approved](#translate)
 
-Step 3. [**review:** _reviewer_ review translation](#review)
+Step 3. [**review:** _reviewer_ review translations ](#review)
 
-Step 4. [**release:** _owner_ release first version](#release)
-
-Step 5. [**iteration:** _all members_ cooperate to optimize translation and release a better version](#iterative)
+Step 4. [**version iteration:** _all members_ cooperate to optimize translation until all are in good quality](#iterative)
  
 <!-- toc -->
 

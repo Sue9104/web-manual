@@ -12,8 +12,9 @@ Step 4. [**release:** _owner_ release first version](#release)
 
 Step 5. [**iteration:** _all members_ cooperate to optimize translation and release a better version](#iterative)
  
+<!-- toc -->
 
-## Step 1: Creation: user create project, upload files and assign tasks to translators
+## Step 1: Creation: user (_owner_) create project, upload files and assign tasks to translators
 
 <span id='create'></span>
 
@@ -27,7 +28,7 @@ Step 5. [**iteration:** _all members_ cooperate to optimize translation and rele
 
 ![](/assets/step1_creation.png)
 
-## Step 2: Translation
+## Step 2: Translation: translators continously translate until approved
 
 <span id='translate'></span>
 
@@ -42,7 +43,7 @@ Translators need continous translation until approved by reviewers:
 ![](/assets/translation_management.retranslation.png)
 
 
-## Step 3: Review
+## Step 3: Review: reviewer review the translations
 
 <span id='review'></span>
 
@@ -50,15 +51,17 @@ Reviewer check the translation and decide whether to approve or not.
 
 ![](/assets/step3_review.png)
 
-## Step 4: Release
+## Step 4: Version Interation: all project members cooperate to optimize translation until all are in good quality.
+
+### Release version
 
 <span id='release'></span>
 
-Owner release first version.
+Owner release versions according to progress.
 
 ![](/assets/step4_release.png)
 
-## Step 5: Iteration
+## Iteration
 
 <span id='iteration'></span>
 

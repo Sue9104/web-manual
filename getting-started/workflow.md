@@ -30,7 +30,7 @@ Step 4. [**version iteration:** _all members_ cooperate to optimize translations
 
 Translators need continous translation until approved by reviewers:
 
-- first translate items assigned by owner.
+- translate entries assigned by owner.
 
 ![](/assets/translation_management.translation.png)
 

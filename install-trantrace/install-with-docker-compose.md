@@ -13,7 +13,13 @@
 
 ## Configure
 
-We stongly recommend you to change default setting in ".env" file for security.
+We stongly recommend you to change default root password in ".env" file for security.
+
+| Service | Setting | Default | How to change |
+| :--- | :--- | :--- | :--- |
+| Mysql | root password | 123456 | edit "DB\_PASSWORD" in .env |
+| Mysql | port | 3307 | edit "DB\_PORT" in .env |
+| Trantrace | port | 90 | edit "WEB\_PORT" in .env |
 
 
 

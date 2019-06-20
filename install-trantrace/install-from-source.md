@@ -4,7 +4,7 @@
 
 ## Ubuntu 16.04
 
-If {% em %}default trantrace website port (90) is occupied{% endem %}, please change 90 to other available port in conf/trantrace.apache.conf.
+If default trantrace website port (90) is occupied, please change 90 to other available port in conf/trantrace.apache.conf.
 
 ```sh
 make install \

@@ -4,6 +4,7 @@
 
 ## Install Trantrace
 
+* [requirements](install-trantrace/requirements.md)
 * [Install](install-trantrace/install.md)
 * [Configure](install-trantrace/configure.md)
 

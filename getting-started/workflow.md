@@ -61,7 +61,7 @@ Owner release versions according to progress.
 
 - Scenarios
 
-  - **guest suggestion were accepted**: guest open an issue, and owner agree with guest.
+  - **guest suggestion were accepted**: guest open an issue to submit suggestion for translation, and owner agreed and revive the translation.
 
     ![](/assets/suggestion.png)
 

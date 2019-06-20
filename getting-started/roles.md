@@ -20,7 +20,7 @@ Each user in Trantrace shares same interface but has different workspace. There 
 | owner | change settings, upload files, assign tasks to translators and release versions | [Project Management](../interface/owner-project-management.md) |
 | translator | **translate** assigned tasks from owner and **retranslate** failed items from reviewers | [Translation Management](../interface/translator-translation-management.md) |
 | reviewer | decide whether to let the translation pass or fail | [Review Management](../interface/reviewer-review-management.md) |
-| guest | search the released databases and submit suggestions | [Released Projects](../interface/guest-released-projects.md) |
+| guest | search the released databases and comment if the translations is error or improper | [Released Projects](../interface/guest-released-projects.md) |
 
 
 

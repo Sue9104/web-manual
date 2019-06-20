@@ -59,28 +59,26 @@ Owner release versions according to progress.
 
 ### Iteration
 
-#### Scenarios
+- Scenarios
 
-- **guest suggestion were accepted**: guest can submit suggestions to optimize translation.
+  - **guest suggestion were accepted**: guest can submit suggestions to optimize translation.
 
-![](/assets/suggestion.png)
+    ![](/assets/suggestion.png)
 
-- **new items**: owner add more items to the project.
+  - **new items**: owner add more items to the project.
 
-![](/assets/step5_upload.png)
+    ![](/assets/step5_upload.png)
 
-#### procedures
+- procedures
 
-The first step is slightly different with first release, and others are same.
-
-1. owner assign job to translators. 
-  - **guest suggestion**: master accept the suggestion, and re-assigned item to translator;
-![](/assets/project_management.feedback.png)
-  - **new items**: master assign new items to translators (step1).
-  ![](/assets/project_management.assignment.png)
-2. translator contiously translate until approved (step2)
-3. review review the translation (step3).
-4. owner release new version (step4).
+  1. owner assign job to translators. 
+    - **guest suggestion**: master accept the suggestion, and re-assigned item to translator;
+    ![](/assets/project_management.feedback.png)
+    - **new items**: master assign new items to translators (step1).
+    ![](/assets/project_management.assignment.png)
+  2. translator contiously translate until approved (step2)
+  3. review review the translation (step3).
+  4. owner release new version (step4).
 
 
 

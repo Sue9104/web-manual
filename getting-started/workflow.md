@@ -72,7 +72,7 @@ Owner release versions according to progress.
 - procedures
 
   1. owner assign job to translators. 
-    - **guest suggestion**: master accept the suggestion, and re-assigned item to translator;
+    - **guest suggestion**: owner accept the suggestion, and re-assigned item to translator;
     ![](/assets/project_management.feedback.png)
     - **new items**: master assign new items to translators (step1).
     ![](/assets/project_management.assignment.png)

@@ -16,7 +16,7 @@ All users share same interface, but have different workspace depending on the ro
 
 <span id='stat'></span>
 
-Task summary table, including workload, complete percentage and unfinished counts, is  divided into four parts by task categories (assignment, translation, review, issues). Click on blue unfinished numbers in the last column and they will take you to the items that have not been finished.
+Task summary table, including workload, complete percentage and unfinished counts, is  divided into four parts by task categories (assignment, translation, review, issues). Click on blue unfinished numbers in the last column and it will take you to the items that have not been finished.
 
 ![](/assets/dashboard.png)
 

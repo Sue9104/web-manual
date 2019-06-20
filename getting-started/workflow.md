@@ -43,7 +43,7 @@ Translators need continous translation until approved by reviewers:
 
 <span id='review'></span>
 
-Reviewer check the translation and decide whether to approve or not.
+Reviewer check the translations and decide whether to let it pass or fail.
 
 ![](/assets/step3_review.png)
 

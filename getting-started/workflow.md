@@ -78,7 +78,7 @@ Owner release versions according to progress.
     ![](/assets/project_management.assignment.png)
   2. translator contiously translate until approved (step2)
   3. review review the translation (step3).
-  4. owner release new version (step4).
+  4. owner release versions.
 
 
 

@@ -10,17 +10,13 @@ All users share same interface, but have different workspace depending on the ro
   - [Guest: Released Projects](guest-released-projects.md)
 - [MyTask](#mytask)   
 
-
-
-
-
 ![](/assets/interface.user.png)             
                     
-### Dashboard
+## Dashboard
 
 <span id='stat'></span>
 
-All the workload and complete percentage are listed by project. Click on the blue link in last columns and they will take you to the items that have not been finished.
+All the workload, complete percentage and unfinished counts  are listed by project. Click on the blue link in last columns and they will take you to the items that have not been finished.
 
 ![](/assets/dashboard.png)
 
@@ -36,7 +32,7 @@ Description of table:
 **Since the review of each entry is not assigned, all reviewers share same progress**.
 
 
-### MyTask
+## MyTask
 
 <span id='mytask'></span>
 

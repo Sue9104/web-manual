@@ -1,6 +1,6 @@
 # User Interface
 
-<span id='user'></span>
+All users share same interface, but have different workspace depending on the role in project. The user interface is comprised of three parts:
 
 - [Dashboard](#stat)
 - Workspace for diffent roles
@@ -10,9 +10,9 @@
   - [Guest: Released Projects](guest-released-projects.md)
 - [MyTask](#mytask)   
 
-## Interface
 
-All users share same interface, but have different workspace depending on the role in project.
+
+
 
 ![](/assets/interface.user.png)             
                     

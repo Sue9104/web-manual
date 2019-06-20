@@ -77,7 +77,7 @@ Owner release versions according to progress.
     - **new entries**: owner assigns new entries to translators (step1).
     ![](/assets/project_management.assignment.png)
   2. translator contiously translate until approved (step2)
-  3. review review the translation (step3).
+  3. review review the translations (step3).
   4. owner release versions.
 
 

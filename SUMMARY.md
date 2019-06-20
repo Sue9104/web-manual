@@ -7,7 +7,6 @@
 * [Requirements](install-trantrace/requirements.md)
 * [Install with Docker-compose](install-trantrace/install-with-docker-compose.md)
 * [Install from Source](install-trantrace/install-from-source.md)
-* [aa](install-trantrace/aa.md)
 
 ## Getting Started
 

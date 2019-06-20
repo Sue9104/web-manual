@@ -13,7 +13,7 @@ Docker is required for docker-compose, please make sure both are installed.
 
 ## Configure
 
-We stongly recommend you to change default root password in ".env" file for security.
+We stongly recommend you to change default mysql root password in ".env" file for security.
 
 | Service | Setting | Default | How to change |
 | :--- | :--- | :--- | :--- |

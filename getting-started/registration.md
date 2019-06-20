@@ -24,6 +24,6 @@ open http://192.168.202.117:8000/#/register on **Chrome**，and fill in form.
 
 - **forget password**
 
-Please contact the adminstrator and they will reset the password to "123456".
+Please contact the adminstrator to reset your password (default: 123456).
 
 

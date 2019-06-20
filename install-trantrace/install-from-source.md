@@ -13,7 +13,7 @@ MYSQL_HOST=your_mysql_host \
 MYSQL_PORT=your_mysql_port
 ```
 
-## Other Linux distribution and Mac
+## Other Linux distributions and Mac
 
   1. Install **mysql-server (>=5.7)**, and grant root all privilege with root password.
   2. Install **apache2**.

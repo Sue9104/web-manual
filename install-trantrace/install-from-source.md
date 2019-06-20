@@ -18,7 +18,7 @@ MYSQL_PORT=your_mysql_port
   1. Install **mysql-server (>=5.7)**, and grant root all privilege with root password.
   2. Install **apache2**.
   3. Install **PHP (>=7.1.3)** and **related PHP modules** (bcmath, curl, igbinary, imap, ldap, mbstring, memcached, msgpack, mysql, xml, xmlrpc, zip).
-  4. If you want to **change trantrace website port (default: 90)**, change port number in conf/trantrace.apache.conf.
+  4. If you want to **change trantrace website port (default: 90)**, edit port number in conf/trantrace.apache.conf.
   5. Copy source code (src/) and apache2 configure file (conf/trantrace.apache.conf) to corresponding folder.
   6. Activate website and restart apache2.
   

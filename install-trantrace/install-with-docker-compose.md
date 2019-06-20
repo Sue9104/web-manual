@@ -6,8 +6,6 @@
 
 ## Install docker-compose
 
-D
-
 1. docker: [Official Guide](https://docs.docker.com/install/)
 
 2. docker-compose: [Official Guide](https://docs.docker.com/compose/install/)  

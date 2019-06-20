@@ -13,7 +13,7 @@ There are two roles in the Trantrace system: root and user.
 
 ## Project Roles
 
-Each user in Trantrace shares same interface but has different workspace. There are four roles in oneproject: owner, translator, reviewer, guest.
+Each user in Trantrace shares same interface but has different workspace. There are four roles in one project: owner, translator, reviewer, guest.
 
 | Role | Permissions | Workspace |
 | :--- | :--- | :--- |

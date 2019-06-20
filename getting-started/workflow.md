@@ -65,7 +65,7 @@ Owner release versions according to progress.
 
 <span id='iteration'></span>
 
-### Scenarios
+#### Scenarios
 
 - **guest suggestion were accepted**: guest can submit suggestions to optimize translation.
 
@@ -76,7 +76,7 @@ Owner release versions according to progress.
 ![](/assets/step5_upload.png)
 
 
-## procedures
+#### procedures
 
 The first step is slightly different with first release, and others are same.
 

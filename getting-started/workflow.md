@@ -65,7 +65,7 @@ Owner release versions according to progress.
 
     ![](/assets/suggestion.png)
 
-  - **new items**: owner add more items to the project.
+  - **new items**: owner added more items to the project.
 
     ![](/assets/step5_upload.png)
 

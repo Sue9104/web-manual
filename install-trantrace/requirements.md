@@ -2,10 +2,12 @@
 
 ## Hardware
 
-Actual requirements vary heavily based on translation database size and user amount, the following is the minimal configuration:
+The necessary hardware largely depend on the size of databases you want to translate and users online at the same time. Following is the minimal requirements:
 
 * CPU: Intel Core or Xeon 3GHz \(or Dual Core 2GHz\) or equal AMD CPU
+
 * cores: Single \(Dual/Quad Core is recommended\)
+
 * RAM: 4 GB \(6 GB recommended\)
 
 ## Operating Systems

@@ -15,7 +15,6 @@
 | :--- | :--- |
 | port | revise "DB\_PORT" in .env |
 | root password | revise "DB\_PASSWORD" in .env |
-| databasename | revise "DB\_DATABASE" in .env |
 | sql\_mode | revise "--sql-mode" in docker-compose.yaml |
 
 * Once the  website is started, you need restart after edit.

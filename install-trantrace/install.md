@@ -6,6 +6,7 @@
 - [Install Trantrace](#install)
   - [Install with Docker-compose (Recommend)](#docker)
   - [Install from Source](#make)
+- [Setup](#set)
 
 ## Requirements
 
@@ -47,8 +48,8 @@ docker-compost up -d
 
 <span id='make'></span>
 
-If you are using Ubuntu 16.04, we strongly recommend to install using 
-```make install MYSQL_ROOT_PASSWORD=your_mysql_root_password MYSQL_HOST=your_mysql_host MYSQL_PORT=your_mysql_port```.
+- Ubuntu 16.04
+```make install MYSQL_ROOT_PASSWORD=your_mysql_root_password MYSQL_HOST=your_mysql_host MYSQL_PORT=your_mysql_port```
  
 Otherwise, you should manually install **mysql, apache2, php and related modules** first, then copy source code folder ('src/') to corresponding folder, lastly activate the webiste and restart apache2.
 
@@ -58,4 +59,7 @@ Software Dependencies:
 3. PHP >= 7.1.3
 4. PHP-modules: bcmath, curl, igbinary, imap, ldap, mbstring, memcached, msgpack, mysql, xml, xmlrpc, zip
 
+## Setup
+
+open Trantrace website on Chrome, login as root with initial password 123456, and  change the password in GUI.
 

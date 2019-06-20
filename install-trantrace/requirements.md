@@ -13,5 +13,6 @@ The necessary hardware largely depend on the size of databases you want to trans
 ## Operating Systems
 
 - [install with docker-compose](#docker): Even though there are lots of operating systems supported by docker-compose, **Linux or Mac** is recommended.
+
 - [install from source](#make): **Ubuntu 16.04** is recommended.
 

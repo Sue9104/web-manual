@@ -1,6 +1,6 @@
 # Glossary
 
-## item status
+## Entry status
 
 <span id='status'></span>
 

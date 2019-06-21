@@ -27,7 +27,7 @@ Description of summary table:
 |assignment|owner|total item counts|assigned item percentage|unassigned item counts|unassigned|
 |translation|translator|counts of items assigned to you| translated percentage |untranslated and retranslated item counts|untranslated & retranslated|
 |review|reviewer| translated items | reviewed percentage| unreviewed item counts|unreviewed|
-|feedback|owner|counts of items suggested by guests| replied percentage| suggested item counts|suggested|
+|Issues|owner|counts of items suggested by guests| replied percentage| suggested item counts|suggested|
 
 **Since the review of each entry is not assigned, all reviewers share same progress**.
 

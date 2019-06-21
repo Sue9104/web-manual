@@ -51,8 +51,7 @@ Member Schedule:
 | Reviewer | counts\_of\_entries\_reviewed\_by\_you / counts\_of\_all\_translated\_entries |
 
 
-
- "Assginment" and "Feedback" button are two quick way to workspace of assignment and feedback of current project.
+Assginment and Reply is the obligation of owner. Click and it will jump there.
 
 ![](/assets/project_management.schedule.png)
 

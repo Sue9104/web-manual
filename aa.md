@@ -20,19 +20,27 @@
 | Unretranslated | Translation | Translator | Entry is rejected by reviewer and needs to be retranslated. |
 | Unreviewed | Review | Reviewer | Entry is translated and needs to be reviewed. |
 | Qualified | - | - | Entry's translation is good enought and can't be modified before version release. |
-| Error | - | - | Entry's translation is error \(Guest suspected the accuary and owner agreed on that\). |
-
-
+| Error | - | - | Entry's translation is error \(Guest suspected the accuary and owner agreed and revive the translation\). |
 
 Issue status:
 
-Once guest opened an issue when he found entry's translation is wrong, owner need to recheck the translation and reply it as soon as possible.
+Once guest opened an issue about entry's wrong translation, owner need to recheck the translation and reply it as soon as possible.
 
-| Status | Menu | Dashboard | Worker | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| Unreplied | Reply & Issues | Issues | Owner | Owner has not replied the issue yet. |
-| Agreed | Reply & Issues | - | - | Owner agreed with guest and revive the translation. |
-| Error | Reply & Issues | - | - | Owner disagreed with guest  |
+| Status | Dashboard | Worker | Description |
+| :--- | :--- | :--- | :--- |
+| Unreplied | Issues | Owner | Owner has not replied the issue yet. |
+| Agreed | - | - | Owner agreed with guest and revived the translation. |
+| Ignored | - | - | Owner disagreed with guest and ignored it. |
+
+
+
+Translation history and review history:
+
+| Status | Description |
+| :--- | :--- |
+| Pass | This translation passed the review of reviewer. |
+| Fail | This translation did not pass the review of reviewer. |
+| Error | This translation is considered to be error by owner and guest. |
 
 
 

@@ -15,7 +15,7 @@
 <span id='overview'></span>
 
 
-Projects created by you are listed here. Priority, deadline, and overall progress are presented. If you want to know more information, _**Double click**_ will jump to details of the project.
+The projects you created are displayed here. If you want to know more information about one project, _**Double click**_ the row of your interested project and it will jump to the detail.
 
 ![](/assets/project_management.overview.png)
 

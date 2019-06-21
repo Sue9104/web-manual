@@ -19,10 +19,10 @@ Projects created by you are listed here. Priority, deadline, and overall progres
 
 ![](/assets/project_management.overview.png)
 
-### Project Detail
+### Detail
 <span id='detail'></span>
 
-#### Information
+#### Setting
 <span id='information'></span>
 
 

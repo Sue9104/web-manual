@@ -1,7 +1,7 @@
 # Owner: Project Management
 
 - [Overview](#overview)
-  - [project detail](#detail)
+  - [Detail](#detail)
     - [information](#information)
     - [schedule](#schedule)
     - [upload](#upload)

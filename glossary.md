@@ -31,7 +31,7 @@ Once guest opened an issue about entry's wrong translation, owner need to rechec
 | :--- | :--- |
 | Pass | This translation passed the review of reviewer. |
 | Fail | This translation did not pass the review of reviewer. |
-| Error | This translation is considered to be error by owner and guest. |
+| Error | This translation was considered to be error by owner and guest. |
 
 
 

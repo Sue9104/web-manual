@@ -10,8 +10,8 @@
 | Untranslated | Translation | Translator | Entry is assigned to you and needs to be translated. |
 | Unretranslated | Translation | Translator | Entry is rejected by reviewer and needs to be retranslated. |
 | Unreviewed | Review | Reviewer | Entry is translated and needs to be reviewed. |
-| Qualified | - | - | Entry's translation is good enought and can't be modified before version release. |
-| Error | - | - | Entry's translation is error \(Guest suspected the accuary and owner agreed and revive the translation\). |
+| Qualified | - | - | Entry's translation is good enough and can't be modified before version release. |
+
 
 ## Issue status:
 <span id='issue-status'></span>

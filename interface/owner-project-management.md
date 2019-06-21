@@ -86,7 +86,7 @@ Assignment is the first step of translation process. Owner should allocate items
 2. allocate multiple items to one translator
 3. search items by project name, priority, deadline, keyword, status
  
-## Feedback
+## Reply
 
 <span id='feedback'></span>
 

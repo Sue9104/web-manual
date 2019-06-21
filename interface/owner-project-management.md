@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
   - [Detail](#detail)
-    - [information](#information)
+    - [Setting](#setting)
     - [schedule](#schedule)
     - [upload](#upload)
     - [release](#release)
@@ -23,7 +23,7 @@ The projects you created are displayed here. If you want to know more informatio
 <span id='detail'></span>
 
 #### Setting
-<span id='information'></span>
+<span id='setting'></span>
 
 
 All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 

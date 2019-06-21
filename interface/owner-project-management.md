@@ -32,13 +32,31 @@ All settings are here, and you can edit them except creation date. However, visi
 #### Schedule
 <span id='schedule'></span>
 
-The schedule is divided into two categories: project shedule and member schedule. "Assginment" and "Feedback" button are two quick way to workspace of assignment and feedback of current project.
+The schedule is divided into two categories: project shedule and member schedule. Project schedule summaries the progress of project stages (assignment, translation and review), and member schedule calculates the complete percentage of each project member. 
+
+Project Schedule:
+
+|Stage|Percentage|
+|--|--|
+|Assignment| counts\_of\_assigned_entries / total\_number\_of\_project_entries |
+|Translation | counts\_of\_translated\_entries / total\_number\_of\_project_entries |
+|Review| counts\_of\_entries\_passed\_review / total\_number\_of\_project_entries |
+
+Member Schedule:
+
+|Role| Percentage |
+|--|--|
+|Owner | counts\_of\_assigned_entries / total\_number\_of\_project_entries |
+| Translator | counts\_of\_entries\_translated\_by\_you / ( counts_of_entries_assigned_to_you + counts_of_your_entries_failed_review ) |
+| Reviewer | counts\_of\_entries\_reviewed\_by\_you / counts\_of\_all\_translated\_entries |
+
+
+
+ "Assginment" and "Feedback" button are two quick way to workspace of assignment and feedback of current project.
 
 ![](/assets/project_management.schedule.png)
 
-Operation:
-1. assign project items
-2. reply to suggestion
+
 
 #### Upload
 <span id='upload'></span>

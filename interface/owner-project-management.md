@@ -15,7 +15,7 @@
 <span id='overview'></span>
 
 
-The projects you created are displayed here. If you want to know more information about one project, _**Double click**_ the row of your interested project and it will jump to the detail.
+The projects you created are displayed here. If you want to know more information about one project, _**Double click**_ the row of your interested project, and it will jump to the detail.
 
 ![](/assets/project_management.overview.png)
 
@@ -25,13 +25,12 @@ The projects you created are displayed here. If you want to know more informatio
 #### Setting
 <span id='setting'></span>
 
-
-All the settings can be adjusted except creation date, such as project name, deadline, priority level, visibility level, source and target languages. 
+All settings are here, and you can edit them except creation date. However, visibility level is only allowed to change from private to public. You can easily adjust the deadline according to project schedule. If more people want to join in, you can add them in "Add Member" panel.
 
 ![](/assets/project_management.overview.information.png)
 
 Operation:
-1. **add new members** to project and these members must register first
+1. **add new members** to project and these members must register first.
 2. **extend the deadline** according to schedule.
 4. **change the visibility level**: only support changes from private to public.
 5. change language, project name, priority, and description. 

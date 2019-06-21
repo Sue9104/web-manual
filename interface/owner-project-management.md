@@ -32,8 +32,7 @@ All settings are here, and you can edit them except creation date. However, visi
 #### Schedule
 <span id='schedule'></span>
 
-
-The project schedule are divided into two categories for display: project shedule and member schedule. "Assginment" and "Feedback" button are two quick way to workspace of assignment and feedback of current project.
+The schedule is divided into two categories: project shedule and member schedule. "Assginment" and "Feedback" button are two quick way to workspace of assignment and feedback of current project.
 
 ![](/assets/project_management.schedule.png)
 

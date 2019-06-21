@@ -25,7 +25,7 @@ Description of summary table:
 ||Worker|Total|Completed|Not Finished|corresponding status in MyTask|
 |--|--|
 |Assignment|owner|total number of project entries |percentage of assigned entries|counts of unassigned entries|Unassigned|
-|Translation|translator|counts of items assigned by owner and failed from reviewer| translated percentage |Untranslated and nretranslated item counts|untranslated & retranslated|
+|Translation|translator|counts of items assigned by owner and failed by reviewer| translated percentage |Untranslated and nretranslated item counts|untranslated & retranslated|
 |Review|reviewer| translated items | reviewed percentage| unreviewed item counts|unreviewed|
 |Issues|owner|counts of items suggested by guests| replied percentage| suggested item counts|suggested|
 

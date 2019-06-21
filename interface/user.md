@@ -36,7 +36,13 @@ Description of summary table:
 
 <span id='mytask'></span>
 
-My task summaries unfinished tasks and updates every minute. These unfinished tasks are divide into five categories: **'Unassigned'** and **'Unreplied'** for owner, **'Untranslated'** and **'Unretranslated'** for translator, **'Unreviewed'** for reviewer. Click and it will jump to these unfinished tasks. More detail see [status](../glossary.md#status).
+My task summaries unfinished tasks and updates every minute. These unfinished tasks are divide into five categories: 
+
+- **'Unassigned'** and **'Unreplied'** for owner
+- **'Untranslated'** and **'Unretranslated'** for translator
+- **'Unreviewed'** for reviewer. 
+
+Click and it will jump to these unfinished tasks. More detail see [status](../glossary.md).
 
 ![](/assets/mytask.png)
 

@@ -29,7 +29,7 @@ Description of summary table:
 |Review|reviewer| counts of all translated entries | percentage of reviewed entries | counts of unreviewed entries |Unreviewed|
 |Issues|owner|counts of issues opened by guest| percentage of replied issues| counts of unreplied issues|Unreplied|
 
-**Since translation review is not assigned, all reviewers share same workload but have actual completed tasks**.
+**Since translation review is not assigned, all reviewers share same workload but have different actual completed tasks**.
 
 
 ## MyTask

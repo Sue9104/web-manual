@@ -8,7 +8,7 @@ Root is the adminstrator with initial password "123456". Please change password 
 
 ## User Management
 
- Root can do nothing but manage users. If you want translation related operations, please register a general user. 
+Root can do nothing but manage users. If you want translation related operations, please register a general user. 
 
 ![](/assets/interface.root.png)
 

@@ -22,7 +22,7 @@ Task summary table, including workload, complete percentage and unfinished count
 
 Description of summary table:
 
-||Worker|total|completed|undone|corresponding undone status in MyTask|
+||Worker|Total|Completed|Not Finished|corresponding undone status in MyTask|
 |--|--|
 |Assignment|owner|total item counts|assigned item percentage|unassigned item counts|unassigned|
 |Translation|translator|counts of items assigned to you| translated percentage |untranslated and retranslated item counts|untranslated & retranslated|

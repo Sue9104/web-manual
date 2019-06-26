@@ -2,21 +2,21 @@
 
 ## Overview
 
-All the projects, which user work as a translator, are displayed with project name, priority, deadline and item counts to translate. Double click the project row will jump to these items.
+All the projects, which user work as a translator, are displayed with project name, priority, deadline and item counts to translate. Double click the project row will jump to these entries.
 
 ![](/assets/translation_management.overview.png)
 
 ## Translation
 
-All the items, which need first traslation, are listed here.
+All the entries, which need first traslation, are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 
 ![](/assets/translation_management.translation.png)
 
-**Operation:**
+**Operations:**
 
-1. Seach items by project name, priority, deadline, keyword
+1. Seach entries by project name, priority, deadline, keyword
 
 2. use "Google Help" to accelerate translation
 
@@ -25,15 +25,15 @@ All the items, which need first traslation, are listed here.
 
 ## Re-translation
 
-The items, which are rejected by reviewer and need another translation, are listed here.
+The entries, which are rejected by reviewer and need another translation, are listed here.
 
 > Description of status please see [status](../glossary.md#status)
 
 ![](/assets/translation_management.retranslation.png)
 
-**Operation:**
+**Operations:**
 
-1. Seach items by project name, priority, deadline, keyword
+1. Seach entries by project name, priority, deadline, keyword
 
 2. use "Google Help" to accelerate translation
 
@@ -46,9 +46,9 @@ All the operations made by you are listed here, including first translation and 
 
 > Description of status please see [status](../glossary.md#status)
 
-Actions:
+Operations:
 
-1. Seach items by project name, priority, deadline
+1. Seach entries by project name, priority, deadline
 
 2. view the translation detail
 

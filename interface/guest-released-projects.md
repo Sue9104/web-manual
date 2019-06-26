@@ -4,7 +4,7 @@
 
 All the projects, which user works as a guest, are displayed here. 
 
-**Operation:**
+**Operations:**
 1. Search released project by name
 2. List project versions
 3. View the entry's translation
@@ -17,7 +17,7 @@ All the projects, which user works as a guest, are displayed here.
 
 All the suggestion submitted by you are listed here.
 
-**Operation:**
+**Operations:**
 1. Search by keyword or version
 2. View the entry's translation
 

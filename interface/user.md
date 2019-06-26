@@ -16,7 +16,7 @@ All users share same interface, but have different workspace depending on the ro
 
 <span id='stat'></span>
 
-Task summary table, including workload, complete percentage and unfinished counts, is  divided into four parts by task categories (assignment, translation, review, issues). Click on blue unfinished numbers in the last column and it will jump to these unfinished tasks.
+Dashboard summaries user's workload, complete percentage and unfinished counts in four panel by categories (assignment, translation, review and issues). Click on blue text in last column and it will jump to unfinished tasks.
 
 ![](/assets/dashboard.png)
 
@@ -25,18 +25,18 @@ Description of summary table:
 ||Worker|Total|Completed|Not Finished|corresponding status in MyTask|
 |--|--|
 |Assignment|owner|total number of project entries |percentage of assigned entries|counts of unassigned entries|Unassigned|
-|Translation|translator|counts of entries assigned by owner and failed by reviewer| percentage of translated entries | counts of untranslated entries from owner and unretranslated item from reviewer|Untranslated & Unretranslated|
+|Translation|translator|counts of entries assigned to you| percentage of translated entries | counts of untranslated entries from owner and unretranslated entries from reviewer|Untranslated & Unretranslated|
 |Review|reviewer| counts of all translated entries | percentage of reviewed entries | counts of unreviewed entries |Unreviewed|
 |Issues|owner|counts of issues opened by guest| percentage of replied issues| counts of unreplied issues|Unreplied|
 
-**Since translation review is not assigned, all reviewers share same workload but have different actual completed tasks**.
+**Since translation review is not assigned, all reviewers share same number in Total, which equal to counts of all translated entries, but have different complete percentage ( counts of entries reviewed by you divide counts of all translatd entries) **.
 
 
 ## MyTask
 
 <span id='mytask'></span>
 
-My task summaries unfinished tasks and updates every minute. These unfinished tasks are divide into five categories: 
+My task summaries unfinished tasks and updates every minute. These unfinished tasks are divided into five categories: 
 
 - **'Unassigned'** and **'Unreplied'** for owner
 - **'Untranslated'** and **'Unretranslated'** for translator

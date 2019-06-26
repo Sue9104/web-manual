@@ -2,58 +2,58 @@
  
 ![](/assets/Trantrace_workflow.jpg)
 
-Step 1. [**creation:** user (_owner_) create project, upload files and assign tasks to translators](#create)
+Step 1. [**creation:** user (_owner_) create project, upload files and assign entries' translation to translator](#create)
 
-Step 2. [**translation:** _translators_ continously translate until approved](#translate)
+Step 2. [**translation:** _translator_ continously translates until approved by reviewer](#translate)
 
-Step 3. [**review:** _reviewer_ decide whether to let translations pass or fail ](#review)
+Step 3. [**review:** _reviewer_ reviews translation ](#review)
 
 Step 4. [**version iteration:** _all members_ cooperate to optimize translations until all are in good quality](#iteration)
  
-## Step 1. Creation: user (_owner_) create project, upload files and assign tasks to translators
+## Step 1. Creation: user (_owner_) creates project, uploads files and assigns entries' translation to translator
 
 <span id='create'></span>
 
-**Owner** initiated the project:
+**Owner** initiates the project:
 
-- create project and build translation team
+- Create a project: specifies source and target languages, deadline, priority, visibility and description, and designate project members (translator, reviewer and guest)
 
-- upload database **csv** files
+- Upload database **csv** files: only support csv file and max filesize 10Mb.
 
-- assign translation tasks to translators
+- Assign translation of entries to translators
 
 ![](/assets/step1_creation.png)
 
-## Step 2. Translation: translators continously translate until approved
+## Step 2. Translation: translator continously translates until approved by reviewer
 
 <span id='translate'></span>
 
-Translators need continous translation until approved by reviewers:
+Translator need continous translation until approved by reviewer:
 
 - translate entries assigned by owner.
 
 ![](/assets/translation_management.translation.png)
 
-- re-translate entries refused by reviewers.
+- retranslate entries rejected by reviewer.
 
 ![](/assets/translation_management.retranslation.png)
 
 
-## Step 3. Review: reviewer review the translations
+## Step 3. Review: reviewer reviews translation
 
 <span id='review'></span>
 
-Reviewer check the translations one by one and decide whether to let it pass or fail.
+Reviewer check translations one by one and decide whether to let it pass or fail.
 
 ![](/assets/step3_review.png)
 
-## Step 4. Version Interation: all project members cooperate to optimize translation until all are in good quality.
+## Step 4. Version Interation: all members cooperate to optimize translations until all are in good quality.
 
 <span id='iteration'></span>
 
 ### Release version
 
-Owner release versions according to progress.
+Owner releases version according to progress.
 
 ![](/assets/step4_release.png)
 
@@ -61,24 +61,24 @@ Owner release versions according to progress.
 
 - Scenarios
 
-  - **guest suggestion were accepted**: guest opened an issue to submit suggestion or point out the error, and owner agreed and revived the translation.
+  - **wrong translation**: guest opens an issue to point out the error, and owner agrees on that and revives the translation.
 
-    ![](/assets/suggestion.png)
+    ![](/assets/open_issue.png)
 
-  - **new entries**: owner added more entries to the project.
+  - **more entries**: owner adds more entries to the project.
 
-    ![](/assets/step5_upload.png)
+    ![](/assets/upload.png)
 
 - procedures
 
-  1. owner assign job to translators. 
-    - **guest suggestion**: owner revive the translation, and re-assign item to translator;
-    ![](/assets/project_management.feedback.png)
-    - **new entries**: owner assigns new entries to translators (step1).
+  1. owner assigns job to translator. 
+    - **wrong translation**: owner replies guest's issue and reassigns entry's translation to translator;
+    ![](/assets/project_management.reply.png)
+    - **more entries**: owner assigns the translation of new entries to translator (step1).
     ![](/assets/project_management.assignment.png)
-  2. translator contiously translate until approved (step2)
-  3. review reviews the translations (step3).
-  4. owner releases versions.
+  2. translator contiously translates until approved by reviewer (step2)
+  3. review reviews translation (step3).
+  4. owner releases version.
 
 
 

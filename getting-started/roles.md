@@ -1,23 +1,23 @@
 # Roles
 
-## System roles 
+## User role 
 
 <span id='system-roles'></span>
 
-There are two roles in the Trantrace system: root and user. 
+There are two roles in Trantrace: root and regular user.
 
-| Role | Permissions | Workspace |
+| Role | Permission | Workspace |
 | :--- | :--- | :--- |
-| root | add or delete users | [Root Interface](../interface/root.md) |
-| user | manage projects and others (assign、translate、review) depending on the role in project | [User Interface](../interface/user.md) |
+| root | add new user and reset user password | [Root Interface](../interface/root.md) |
+| regular user | create projects and others (assign, translate, review and search) depending on the role in project | [User Interface](../interface/user.md) |
 
-## Project Roles
+## Project role
 
-Each user in Trantrace shares same interface but has different workspace. There are four roles in one project: owner, translator, reviewer, guest.
+Each user in Trantrace shares same interface but has different workspace. There are four roles in one project: owner, translator, reviewer and guest.
 
-| Role | Permissions | Workspace |
+| Role | Permission | Workspace |
 | :--- | :--- | :--- |
-| owner | change settings, upload files, assign project entries to translators and release versions | [Project Management](../interface/owner-project-management.md) |
+| owner | change settings, upload files, assign project entries to translator and release versions | [Project Management](../interface/owner-project-management.md) |
 | translator | **translate** assigned entries from owner and **retranslate** failed entries from reviewers | [Translation Management](../interface/translator-translation-management.md) |
 | reviewer | decide whether to let the translation pass or fail | [Review Management](../interface/reviewer-review-management.md) |
 | guest | search released projects and open an issue if the translation is error | [Released Projects](../interface/guest-released-projects.md) |

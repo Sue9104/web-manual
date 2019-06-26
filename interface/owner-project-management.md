@@ -15,7 +15,11 @@
 <span id='overview'></span>
 
 
-The projects you created are displayed here. If you want to know more information about one project, _**Double click**_ the row of your interested project, and it will jump to the detail.
+The projects you created are here. "Total" is the counts of project entries, and "Completed" is the percentage of entries with qualified translation. 
+
+- If you want to know more information about one project, _**Double click**_ the row or click "Detail".
+
+- If you want to add new project, click "New Project" button.
 
 ![](/assets/project_management.overview.png)
 
@@ -25,14 +29,20 @@ The projects you created are displayed here. If you want to know more informatio
 #### Setting
 <span id='setting'></span>
 
-All settings are here, and you can edit them except creation date. However, visibility level is only allowed to change from private to public. You can easily adjust the deadline according to project schedule. If more people want to join in, you can add them in "Add Member" panel.
+All settings are editable except owner and creation date. Furthermore, visibility level is only allowed to change from private to public. 
 
-![](/assets/project_management.overview.information.png)
+- If more people want to join in, click "Edit" in "Add Member" panel. It is forbidden to delete member for record traceability now.
+
+![](/assets/project_management.overview.setting.png)
       
 #### Schedule
 <span id='schedule'></span>
 
-The schedule is divided into two categories: project shedule and member schedule. Project schedule summaries the progress of project stages (assignment, translation and review), and member schedule calculates the complete percentage of each project member. 
+Schedule is divided into two categories: project shedule and member schedule.
+
+- Project schedule summaries the progress of project stages (assignment, translation and review).
+
+- Member schedule calculates the complete percentage of each project member. 
 
 Project Schedule:
 
@@ -47,27 +57,26 @@ Member Schedule:
 |Role| Percentage |
 |--|--|
 |Owner | counts\_of\_assigned_entries / total\_number\_of\_project_entries |
-| Translator | counts\_of\_entries\_translated\_by\_you / ( counts_of_entries_assigned_to_you + counts_of_your_entries_failed_review ) |
+| Translator | counts\_of\_entries\_with\_qualified\_translation / counts_of_entries_assigned_to_you  |
 | Reviewer | counts\_of\_entries\_reviewed\_by\_you / counts\_of\_all\_translated\_entries |
 
 
-Assginment and Reply is the obligation of owner. Click and it will jump there.
-
 ![](/assets/project_management.schedule.png)
 
-
+Furthermore, there is a shortcut for owner's task: translation assignment ("Assignment") and issue reply ("Reply").
 
 #### Upload
+
 <span id='upload'></span>
 
-Just click the "Upload" button to add or append items. Current support format is csv (comma-delimited) and click "Download Template" if you don't know the format.
+Click "Upload File" to add or append entries. Current support format is csv, which is delimted by comma (,) and enclosed by quote ("). Click "Download Template" if you don't know the format.
 
 ![](/assets/project_management.upload.png)
 
 #### Release
 <span id='release'></span>
 
-Just click the "Export New Version" button, and a new version is released. Moreover, all histroical versions are showed.
+A new version is published with version id by clicking "Release New Version". Moreover, all histroical versions are listed below.
 
 ![](/assets/project_management.release.png)
 
@@ -75,28 +84,32 @@ Just click the "Export New Version" button, and a new version is released. Moreo
 
 <span id='assign'></span>
 
-Assignment is the first step of translation process. Owner should allocate items to translators after project creation.
+Assignment is the first step of the translation process. Owner should assign entries to translator after creation.
 
 > Description of status please see [status](../glossary.md#status)
 
 ![](/assets/project_management.assignment.png)
 
-**Operation:**
-1. allocate one item to one translator
-2. allocate multiple items to one translator
-3. search items by project name, priority, deadline, keyword, status
+**Operations:**
+
+1. Assign one entry to one translator: fill in translator and click "Assign".
+
+2. Assign multiple entries to one translator: select entries in current page or "Search" results, click "Batch Allocate".
+
+3. Search entries by project name, keyword and status
  
 ## Reply
 
 <span id='feedback'></span>
 
-Owner need quickly reply to the suggestion submited by guests. All the suggestion are presented here.
+Owner need quick reply to guest's issues.
 
 > Description of status please see [status](../glossary.md#status)
 
-![](/assets/project_management.feedback.png)
+![](/assets/project_management.reply.png)
 
-**Actions:**
-1. ignore suggestion
-2. accept suggestion and re-assign to one translator
+**Operations:**
 
+- Revive translation: click "Agree"
+
+- Do not retranslation: click "Ignore"

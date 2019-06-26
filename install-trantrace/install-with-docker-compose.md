@@ -1,6 +1,6 @@
 # Install Trantrace with Docker-compose
 
-**It is recommended to install Trantrace with docker-compose**, which is isolated from dependency problems, and easy to deploy.
+**It is recommended to install Trantrace with docker-compose**, which is isolated from dependency problems and easy to deploy.
 
 ## Prerequisites
 
@@ -34,4 +34,4 @@ Please see [docker-compose offical guide](https://docs.docker.com/compose/refere
 
 ## Setup
 
-open Trantrace website on Chrome, login as root with initial password 123456, and  [change password in GUI](../getting-started/registration.md#change-password).
+Open Trantrace on Chrome, login as root with initial password 123456, and [change password in GUI](../getting-started/registration.md#change-password).

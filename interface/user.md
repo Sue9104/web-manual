@@ -8,7 +8,7 @@ All users share same interface, but have different workspace depending on the ro
   - [Translator: Translation Management](translator-translation-management.md)
   - [Reviewer: Review Management](reviewer-review-management.md)
   - [Guest: Released Projects](guest-released-projects.md)
-- [MyTask](#mytask)   
+- [My Task](#mytask)   
 
 ![](/assets/interface.user.png)             
                     
@@ -32,7 +32,7 @@ Description of summary table:
 **Since translation review is not assigned, all reviewers share same number in Total, which equal to counts of all translated entries, but have different complete percentage ( counts of entries reviewed by you divide counts of all translatd entries) **.
 
 
-## MyTask
+## My Task
 
 <span id='mytask'></span>
 
@@ -42,7 +42,7 @@ My task summaries unfinished tasks and updates every minute. These unfinished ta
 - **'Untranslated'** and **'Unretranslated'** for translator
 - **'Unreviewed'** for reviewer. 
 
-Click and it will jump to these unfinished tasks. More detail see [status](../glossary.md).
+Click and it will jump to these unfinished tasks. For more detail, see [entry status and issue status](../glossary.md).
 
 ![](/assets/mytask.png)
 

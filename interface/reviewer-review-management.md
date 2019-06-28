@@ -2,41 +2,41 @@
 
 ## Overview
 
-All the projects, which user work as a reviewer, are displayed by project name, priority, deadline, and item counts to approval. Double click the project row will jump to these entries.
+Projects, which user works as a reviewer, are displayed with project name, language, priority, deadline and counts of unreviewed entries. Click the blow in last column and it will jump to these unreviewed entries.
 
-Since the review is not assigned, all reviewers share same progress.
+Since review is not assigned, all reviewers share same counts of unreviewed entries.
 
 ![](/assets/review_management.overview.png)
 
 ## Review
 
-All the entries to be reviewed are listed here.
-
-> Description of status please see [status](../glossary.md#status)
+Entries that have not been reviewed are listed here.
 
 ![](/assets/review_management.review.png)
 
 **Operations:**
 
-1. Seach entries by project name, priority, deadline
+1. Seach entries by project name, priority, deadline and keyword
 
-2. Aggree translation
+2. Approve translation: click "Pass"
 
-3. Refuse translation
+3. Reject translation: click "Fail"
 
 
 ## History
 
-All the entries reviewed by you are listed here.
+Translation reviewed by you are listed here.
  
 
-> Description of status please see [status](../glossary.md#status)
+> Description of status please see [translation status](../glossary.md#translation-status)
 
-Operations:
+![](/assets/review_management.history.png)
 
-1. Seach entries by project name, priority, deadline
+**Operations:**
 
-2. view the translation detail
+1. Seach entries by project name, keyword and status
+
+2. View translation
 
 
 

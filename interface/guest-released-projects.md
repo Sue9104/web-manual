@@ -2,32 +2,30 @@
 
 ## Projects
 
-All the projects, which user works as a guest, are displayed here. 
+Projects, which user works as a guest, are displayed here. 
 
 **Operations:**
-1. Search released project by name
-2. List project versions
-3. View the entry's translation
 
+1. Search released project by project name
 
-**How to submit a suggestion (only for the latest version):**
-![](/assets/suggestion.png)
+2. List project versions: click "View" in "Versions" column
 
-## Suggestion
+3. View entry's translation: click "Entries" to detail, then click "View" to see entry's translation.
 
-All the suggestion submitted by you are listed here.
+4. Open an issue if found error: click "Open Issue", and issue is only available for lastest version.
+
+![](/assets/released_projects.projects.png)
+
+## Issues
+
+Issues opened by you are listed here.
+
+> Description of status please see [issue status](../glossary.md#issue-status)
+
+![](/assets/released_projects.issues.png)
 
 **Operations:**
-1. Search by keyword or version
-2. View the entry's translation
 
+1. Search by project, keyword and status
 
-
-
-
-
-
-
-
-
-
+2. View translation: click "View"

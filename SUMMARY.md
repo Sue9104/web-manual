@@ -4,14 +4,14 @@
 
 ## Install Trantrace
 
-* [Requirements](install-trantrace/requirements.md)
+* [Requirement](install-trantrace/requirements.md)
 * [Install with Docker-compose](install-trantrace/install-with-docker-compose.md)
 * [Install from Source](install-trantrace/install-from-source.md)
 
 ## Getting Started
 
 * [Registration](getting-started/registration.md)
-* [Roles](getting-started/roles.md)
+* [Role](getting-started/roles.md)
 * [Workflow](getting-started/workflow.md)
 
 ## Interface

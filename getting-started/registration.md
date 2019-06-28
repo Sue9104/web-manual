@@ -4,13 +4,13 @@
 
 Open http://192.168.202.117:8000/#/register on **Chrome** and fill in form.
 
-> **[info] user name only support letters (A-Za-z), numbers (0-9), dot (.), hyphen (-) and underscore (_).**
+> **[info] User name only support letters (A-Za-z), numbers (0-9), dot (.), hyphen (-) and underscore (_).**
 
 ![](/assets/signup.png)
 
 ## Sign In
 
-> **[info] Only support to login with email rather than user name.**
+> **[info] Only support to sign in with email rather than user name.**
 
 ![](/assets/signin.png)
 

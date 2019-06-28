@@ -86,7 +86,7 @@ A new version is published with version id by clicking "Release New Version". Mo
 
 Assignment is the first step of the translation process. Owner should assign entries to translator after creation.
 
-> Description of status please see [status](../glossary.md#status)
+> Description of status please see [entry status](../glossary.md#entry-status)
 
 ![](/assets/project_management.assignment.png)
 
@@ -104,7 +104,7 @@ Assignment is the first step of the translation process. Owner should assign ent
 
 Owner need quick reply to guest's issues.
 
-> Description of status please see [status](../glossary.md#status)
+> Description of status please see [issue status](../glossary.md#issue-status)
 
 ![](/assets/project_management.reply.png)
 

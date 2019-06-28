@@ -4,6 +4,13 @@ Root is the adminstrator with initial password "123456". Please change password 
 
 <span id='root'></span>
 
+**How to change root password:**
+<span id='change-password'></span>
+
+1. Click "Profile" in upper right corner of interface.
+2. Click "Change Password".
+3. Fill in the form.
+
 ![](/assets/root.change-password.png)
 
 ## User Management

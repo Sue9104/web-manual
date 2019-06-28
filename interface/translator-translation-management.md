@@ -10,8 +10,6 @@ All the projects, which user work as a translator, are displayed with project na
 
 All the entries, which need first traslation, are listed here.
 
-> Description of status please see [status](../glossary.md#status)
-
 ![](/assets/translation_management.translation.png)
 
 **Operations:**
@@ -23,11 +21,9 @@ All the entries, which need first traslation, are listed here.
 3. submit translation
 
 
-## Re-translation
+## Retranslation
 
 The entries, which are rejected by reviewer and need another translation, are listed here.
-
-> Description of status please see [status](../glossary.md#status)
 
 ![](/assets/translation_management.retranslation.png)
 
@@ -35,22 +31,22 @@ The entries, which are rejected by reviewer and need another translation, are li
 
 1. Seach entries by project name, priority, deadline, keyword
 
-2. use "Google Help" to accelerate translation
+2. Use "Google Help" to accelerate translation: click "Google"
 
-3. submit translation
+3. Submit translation
 
 
 ## History
 
-All the operations made by you are listed here, including first translation and re-translation. 
+All your operations are listed here, including first translation and retranslation. 
 
-> Description of status please see [status](../glossary.md#status)
+> Description of status please see [translation status](../glossary.md#translation-status)
 
-Operations:
+**Operations:**
 
 1. Seach entries by project name, priority, deadline
 
-2. view the translation detail
+2. View the translation detail
 
 
 

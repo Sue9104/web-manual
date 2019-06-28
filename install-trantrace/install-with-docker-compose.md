@@ -13,7 +13,7 @@ Docker is required for docker-compose, please make sure both are installed.
 
 ## Configure
 
-We stongly recommend you to change default mysql root password in ".env" file for security.
+{% em %} We stongly recommend you to change default mysql root password in ".env" file for security. {% endem %}
 
 | Service | Setting | Default | How to change |
 | :--- | :--- | :--- | :--- |
@@ -23,15 +23,16 @@ We stongly recommend you to change default mysql root password in ".env" file fo
 
 ## Install
 
-```sh 
-# install
-docker-compose build
-# start
-docker-compost up -d
+```
+**[terminal]
+# Build Trantrace
+**[prompt sgidrylab@ubuntu]**[path ~]**[delimiter  $ ]**[command docker-compose build]
+# Start Trantrace
+**[prompt sgidrylab@ubuntu]**[path ~]**[delimiter  $ ]**[command docker-compose up -d]
 ```
 
-Please see [docker-compose offical guide](https://docs.docker.com/compose/reference/overview/) for more operations.
+For more operations, please see [docker-compose offical guide](https://docs.docker.com/compose/reference/overview/).
 
 ## Setup
 
-Open Trantrace on Chrome, login as root with initial password 123456, and [change password in GUI](../getting-started/registration.md#change-password).
+Open Trantrace on Chrome, login as root with initial password 123456, and [change password in GUI](../interface/root.md#change-password).

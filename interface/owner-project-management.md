@@ -15,7 +15,7 @@
 <span id='overview'></span>
 
 
-The projects you created are here. "Total" is the counts of project entries, and "Completed" is the percentage of entries with qualified translation. 
+The projects created by you are here. "Total" is the total counts of project entries, and "Completed" is the percentage of entries with qualified translation. 
 
 - If you want to know more information about one project, _**Double click**_ the row or click "Detail".
 
@@ -26,15 +26,19 @@ The projects you created are here. "Total" is the counts of project entries, and
 ### Detail
 <span id='detail'></span>
 
+User can easily manage a project from four aspects: "Setting", "Schedule", "Upload" and "Release".
+
 #### Setting
 <span id='setting'></span>
 
-All settings are editable except owner and creation date. Furthermore, visibility level is only allowed to change from private to public. 
+Setting shows configurations when you create the project.
 
-- If more people want to join in, click "Edit" in "Add Member" panel. It is forbidden to delete member for record traceability now.
+- All settings are editable except owner and creation date. Furthermore, visibility level is only allowed to change from private to public. 
 
-![](/assets/project_management.overview.setting.png)
-      
+- If more people want to join in, click **Add Member > Edit**. It is forbidden to delete member for record traceability now.
+
+![](/assets/project_management.setting.png)
+
 #### Schedule
 <span id='schedule'></span>
 
@@ -48,17 +52,17 @@ Project Schedule:
 
 |Stage|Percentage|
 |--|--|
-|Assignment| counts\_of\_assigned_entries / total\_number\_of\_project_entries |
-|Translation | counts\_of\_translated\_entries / total\_number\_of\_project_entries |
-|Review| counts\_of\_entries\_passed\_review / total\_number\_of\_project_entries |
+|Assignment| counts\_of\_assigned_entries / total\_counts\_of\_project_entries |
+|Translation | counts\_of\_translated\_entries / total\_counts\_of\_project_entries |
+|Review| counts\_of\_entries\_with\_qualified\_translation / total\_counts\_of\_project_entries |
 
 Member Schedule:
 
 |Role| Percentage |
 |--|--|
-|Owner | counts\_of\_assigned_entries / total\_number\_of\_project_entries |
+|Owner | counts\_of\_assigned_entries / total\_counts\_of\_project_entries |
 | Translator | counts\_of\_entries\_with\_qualified\_translation / counts_of_entries_assigned_to_you  |
-| Reviewer | counts\_of\_entries\_reviewed\_by\_you / counts\_of\_all\_translated\_entries |
+| Reviewer | counts\_of\_entries\_with\_qualified\_translation\_and\_reviewed\_by\_you / counts\_of\_all\_translated\_entries |
 
 
 ![](/assets/project_management.schedule.png)
@@ -76,7 +80,7 @@ Click "Upload File" to add or append entries. Current support format is csv, whi
 #### Release
 <span id='release'></span>
 
-A new version is published with version id by clicking "Release New Version". Moreover, all histroical versions are listed below.
+A new version is published with version id by clicking "New Version". Moreover, all histroical versions are listed below.
 
 ![](/assets/project_management.release.png)
 
@@ -84,19 +88,19 @@ A new version is published with version id by clicking "Release New Version". Mo
 
 <span id='assign'></span>
 
-Assignment is the first step of the translation process. Owner should assign entries to translator after creation.
+Assignment is the first step of translation cooperation in Trantrace. Owner should assign entries to translator once the project is created.
 
-> Description of status please see [entry status](../glossary.md#entry-status)
+> Please see [entry status](../glossary.md#entry-status) for description of status.
 
 ![](/assets/project_management.assignment.png)
 
 **Operations:**
 
-1. Assign one entry to one translator: fill in translator and click "Assign".
+1. **Assign one entry to one translator**: fill in translator and click "Assign".
 
-2. Assign multiple entries to one translator: select entries in current page or "Search" results, click "Batch Allocate".
+2. **Assign multiple entries to one translator**: select entries in current page or "Search" results, then click "Batch Allocation".
 
-3. Search entries by project name, keyword and status
+3. **Search entries by project name, keyword and status**
  
 ## Reply
 
@@ -104,12 +108,12 @@ Assignment is the first step of the translation process. Owner should assign ent
 
 Owner need quick reply to guest's issues.
 
-> Description of status please see [issue status](../glossary.md#issue-status)
+> Please see [issue status](../glossary.md#issue-status) for description of status.
 
 ![](/assets/project_management.reply.png)
 
 **Operations:**
 
-- Revive translation: click "Agree"
+- **Agree on issue and revive entry's translation**: click "Agree"
 
-- Do not retranslation: click "Ignore"
+- **Disagree on issue and translation is good enough**: click "Ignore"

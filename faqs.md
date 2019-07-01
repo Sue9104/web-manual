@@ -29,26 +29,22 @@ Solution:
 ### Bind: address aleady in use
 
 - 3307 is aleady in use
-
 ```
 **[terminal]
 **[prompt sgidrylab@ubuntu]**[path ~]**[delimiter  $ ]**[command docker-compose up -d]
 **[error listen tcp 0.0.0.0:3307: bind: address already in use]
 ```
-
- - Solution:
-    - Change 3307 (DB_PORT) to other available port in .env file
+    - Solution:
+        - Change 3307 (DB_PORT) to other available port in .env file
 
 - 90 is aleady in use
-
 ```
 **[terminal]
 **[prompt sgidrylab@ubuntu]**[path ~]**[delimiter  $ ]**[command docker-compose up -d]
 **[error listen tcp 0.0.0.0:90: bind: address already in use]
 ```
-
- - Solution:
-    - Change 90 (WEB_PORT) to other available port in .env file
+    - Solution:
+        - Change 90 (WEB_PORT) to other available port in .env file
 
 ### Couldn't connect to Docker daemon
 
@@ -66,33 +62,33 @@ Solution:
 
 - If you are a regular user,
 
-  please concat administer to reset your password to 123456.
+    please concat administer to reset your password to 123456.
 
 - If you are root,
 
-  Encrypt your new password with bcrypt, and update the encrypted password to mysql table.
+    Encrypt your new password with bcrypt, and update the encrypted password to mysql table.
 
-Example:
+    **Example:**
 
-You are root and forgot password, and you want to change it to "root_123456".
+    You are root and forgot password, and you want to change it to "root_123456".
 
-```
-**[terminal]
-**[prompt sgidrylab@ubuntu]**[path ~]**[delimiter  $ ]**[command htpasswd -bnBC 10 root root_123456 | cut -d: -f2 ]
-$2y$10$qvhB5CgNssUFkHIAE5bn0.1.MIVZ5SFEawRbPd/MMit9RHOFk.lFy
+    ```
+    **[terminal]
+    **[prompt sgidrylab@ubuntu]**[path ~]**[delimiter  $ ]**[command htpasswd -bnBC 10 root root_123456 | cut -d: -f2 ]
+    $2y$10$qvhB5CgNssUFkHIAE5bn0.1.MIVZ5SFEawRbPd/MMit9RHOFk.lFy
 
-**[prompt sgidrylab@ubuntu]**[path ~]**[delimiter  $ ]**[command mysql -P 3307 -u root -p  ]
-Enter password:
-Welcome to the MySQL monitor.  Commands end with ; or \g.
-Your MySQL connection id is 84975
-Server version: 5.7.24-0ubuntu0.16.04.1 (Ubuntu)
-Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
-mysql> use translate_01;
-Database changed
+    **[prompt sgidrylab@ubuntu]**[path ~]**[delimiter  $ ]**[command mysql -P 3307 -u root -p  ]
+    Enter password:
+    Welcome to the MySQL monitor.  Commands end with ; or \g.
+    Your MySQL connection id is 84975
+    Server version: 5.7.24-0ubuntu0.16.04.1 (Ubuntu)
+    Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+    **[warning mysql> use translate_01;]
+    Database changed
 
-mysql> update users set password = '$2y$10$qvhB5CgNssUFkHIAE5bn0.1.MIVZ5SFEawRbPd/MMit9RHOFk.lFy' where name = 'root';
-Query OK, 1 row affected (0.00 sec)
-Rows matched: 1  Changed: 1  Warnings: 0
+    **[warning mysql> update users set password = '$2y$10$qvhB5CgNssUFkHIAE5bn0.1.MIVZ5SFEawRbPd/MMit9RHOFk.lFy' where name = 'root';]
+    Query OK, 1 row affected (0.00 sec)
+    Rows matched: 1  Changed: 1  Warnings: 0
 
-mysql> ^DBye
-```
+    mysql> ^DBye
+    ```

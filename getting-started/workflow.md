@@ -20,7 +20,7 @@ Step 4. [**release:** _all members_ cooperate to optimize translations until all
 
 - Upload database files: only support **csv** file and max filesize 10Mb.
 
-- Assign translation of entries to translators
+- Assign entries to translator
 
 ![](/assets/step1_creation.png)
 

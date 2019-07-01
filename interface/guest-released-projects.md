@@ -2,30 +2,30 @@
 
 ## Projects
 
-Projects, which user works as a guest, are displayed here. 
+Projects that user works as a guest are displayed here. 
 
 **Operations:**
 
-1. Search released project by project name
+1. **Search released project by project name**
 
-2. List project versions: click "View" in "Versions" column
+2. **List project versions: click "View" in "Versions" column**
 
-3. View entry's translation: click "Entries" to detail, then click "View" to see entry's translation.
+3. **View entry's translation: click "Entries" to detail, then click "View" to see entry's translation.**
 
-4. Open an issue if found error: click "Open Issue", and issue is only available for lastest version.
+4. **Open an issue if found error: click "Open Issue", and issue is only available for lastest version.**
 
 ![](/assets/released_projects.projects.png)
 
 ## Issues
 
-Issues opened by you are listed here.
+Issues that opened by you are listed here.
 
-> Description of status please see [issue status](../glossary.md#issue-status)
+> Please see [issue status](../glossary.md#issue-status) for description of status.
 
 ![](/assets/released_projects.issues.png)
 
 **Operations:**
 
-1. Search by project, keyword and status
+1. **Search by project, keyword and status**
 
-2. View translation: click "View"
+2. **View translation**

@@ -6,10 +6,10 @@
 
 | Status | Dashboard | Worker | Description |
 | :--- | :--- | :--- | :--- |
-| Unassigned | Assignment | Owner | Entry is not assigned to translator. |
-| Untranslated | Translation | Translator | Entry is assigned to you and needs to be translated. |
-| Unretranslated | Translation | Translator | Entry is rejected by reviewer and needs to be retranslated. |
-| Unreviewed | Review | Reviewer | Entry is translated and needs to be reviewed. |
+| Unassigned | Assignment | Owner | Entry has not been assigned to translator. |
+| Untranslated | Translation | Translator | Entry is assigned to you and has not been translated. |
+| Unretranslated | Translation | Translator | Entry is rejected by reviewer and has not been retranslated. |
+| Unreviewed | Review | Reviewer | Entry is translated and has not been reviewed. |
 | Qualified | - | - | Entry has been well translated and the translation can't be modified before version release. |
 
 
@@ -29,6 +29,7 @@ Once guest opened an issue about entry's wrong translation, owner need to rechec
 
 | Status | Description |
 | :--- | :--- |
+| Unreviewed | This translation has not been reviewed. |
 | Pass | This translation passed the review of reviewer. |
 | Fail | This translation did not pass the review of reviewer. |
 | Error | This translation was considered to be error by owner and guest. |

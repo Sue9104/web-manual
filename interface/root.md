@@ -22,13 +22,13 @@ Root can do nothing but manage users. If you want translation related operations
 
 Operations:
 
-- **Search Existed User by Email**: click 'Search' button 
-
-- **Add New User**: click "New User" button
+- **Add New User without Registration**: click "New User".
 
 - **Activate/Deactivate User**: User can login with this button on. Otherwise user can not login, but their records and operations are still reservered.
  
 - **Reset Password**: this button will reset user password to "123456".
+
+- **Search Existed User by Email**.
 
 
 

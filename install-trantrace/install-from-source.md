@@ -29,10 +29,10 @@ If default port (90) for Trantrace website is occupied, please change 90 to othe
   Server version: 5.7.24-0ubuntu0.16.04.1 (Ubuntu)
   Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
 
-  mysql> grant all PRIVILEGES on *.* to root@'%' identified by 'your_mysql_root_password' with grant option;
+  [warning mysql> grant all PRIVILEGES on *.* to root@'%' identified by 'your_mysql_root_password' with grant option;]
   Query OK, 0 rows affected, 1 warning (0.00 sec)
 
-  mysql> flush privileges;
+  [warning mysql> flush privileges;]
   Query OK, 0 row affected (0.00 sec)
 
   mysql> ^DBye

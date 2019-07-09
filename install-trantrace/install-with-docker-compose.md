@@ -13,7 +13,7 @@ Docker is required for docker-compose, please make sure both are installed.
 
 ## Configure
 
-{% em %} We stongly recommend you to change default mysql root password in ".env" file for security. {% endem %}
+> **[warning] Please change default mysql root password in ".env" file for security. **
 
 | Service | Setting | Default | How to change |
 | :--- | :--- | :--- | :--- |
@@ -35,4 +35,4 @@ For more operations, please see [docker-compose offical guide](https://docs.dock
 
 ## Setup
 
-Open Trantrace on Chrome, login as root with initial password 123456, and [change password in GUI](../interface/root.md#change-password).
+Login Trantrace as root with initial password 123456, and [change password in GUI](../interface/root.md#change-password).

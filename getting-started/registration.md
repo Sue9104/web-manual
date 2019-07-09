@@ -2,27 +2,27 @@
 
 ## Sign Up
 
-Open http://192.168.202.117:8000/#/register on **Chrome** and fill in form.
+Open http://192.168.202.117:8000/#/register and fill in form.
 
-> **[info] User name only support letters (A-Za-z), numbers (0-9), dot (.), hyphen (-) and underscore (_).**
+> **[warning] User name only support letters (A-Za-z), numbers (0-9), dot (.), hyphen (-) and underscore (\_). Maximum length is 50 characters.**
 
 ![](/assets/signup.png)
 
 ## Sign In
 
-> **[info] Only support to sign in with email rather than user name.**
+> **[warning] Only support to sign in with email rather than user name.**
 
 ![](/assets/signin.png)
 
 ## Password
 
-- **How to change password**
+- **Change password**
 
 <span id='change-password'></span>
 
 ![](/assets/user.change_password.png)
 
-- **If you forgot password**
+- **Forgot password**
 
 Please contact the adminstrator to reset your password (default: 123456).
 

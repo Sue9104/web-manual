@@ -70,7 +70,7 @@ Solution:
 
     **Example:**
 
-    You are root and forgot password, and you want to change it to "root_123456".
+    You are root and want to change it to "root_123456".
 
     ```
     **[terminal]
@@ -83,12 +83,13 @@ Solution:
     Your MySQL connection id is 84975
     Server version: 5.7.24-0ubuntu0.16.04.1 (Ubuntu)
     Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
-    **[warning mysql> use translate_01;]
+    **[prompt mysql>]**[command use translate_01;]
     Database changed
 
-    **[warning mysql> update users set password = '$2y$10$qvhB5CgNssUFkHIAE5bn0.1.MIVZ5SFEawRbPd/MMit9RHOFk.lFy' where name = 'root';]
+    **[prompt mysql>]**[command update users set password = '$2y$10$qvhB5CgNssUFkHIAE5bn0.1.MIVZ5SFEawRbPd/MMit9RHOFk.lFy' where name = 'root';]
     Query OK, 1 row affected (0.00 sec)
     Rows matched: 1  Changed: 1  Warnings: 0
 
-    mysql> ^DBye
+    **[prompt mysql>]**[command quit]
+    Bye
     ```

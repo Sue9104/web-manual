@@ -22,6 +22,12 @@ Dashboard summaries user's workload, complete percentage and unfinished counts i
 
 Description of summary table:
 
+> **[info] Since review is not assigned, all reviewers share same number in "Total" and have different "Completed".**
+> 
+> Total: counts of all translated entries
+>
+> Completed: counts of qualified entries reviewed by you divide counts of all translatd entries
+
 ||Worker|Total|Completed|Not Finished|corresponding status in MyTask|
 |--|--|
 |Assignment|owner|total counts of project entries |percentage of assigned entries|counts of unassigned entries|Unassigned|
@@ -29,7 +35,6 @@ Description of summary table:
 |Review|reviewer| counts of all translated entries | percentage of entries with qualified translation reviewed by you | counts of unreviewed entries |Unreviewed|
 |Issues|owner|counts of issues opened by guest| percentage of replied issues| counts of unreplied issues|Unreplied|
 
-> Since review is not assigned, all reviewers share same number in "Total" ( counts of all translated entries ), and have different "Completed" ( counts of qualified entries reviewed by you divide counts of all translatd entries).
 
 
 ## My Task

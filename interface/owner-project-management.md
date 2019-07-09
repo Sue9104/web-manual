@@ -19,7 +19,7 @@ The projects created by you are here. "Total" is the total counts of project ent
 
 - If you want to know more information about one project, _**Double click**_ the row or click "Detail".
 
-- If you want to add new project, click "New Project" button.
+- If you want to add new project, click "New Project".
 
 ![](/assets/project_management.overview.png)
 
@@ -62,7 +62,7 @@ Member Schedule:
 |--|--|
 |Owner | counts\_of\_assigned_entries / total\_counts\_of\_project_entries |
 | Translator | counts\_of\_entries\_with\_qualified\_translation / counts_of_entries_assigned_to_you  |
-| Reviewer | counts\_of\_entries\_with\_qualified\_translation\_and\_reviewed\_by\_you / counts\_of\_all\_translated\_entries |
+| Reviewer | counts\_of\_entries\_with\_qualified\_translation\_reviewed\_by\_you / counts\_of\_all\_translated\_entries |
 
 
 ![](/assets/project_management.schedule.png)
@@ -73,7 +73,11 @@ Furthermore, there is a shortcut for owner's task: translation assignment ("Assi
 
 <span id='upload'></span>
 
-Click "Upload File" to add or append entries. Current support format is csv, which is delimted by comma (,) and enclosed by quote ("). Click "Download Template" if you don't know the format.
+Click "Upload File" to add or append entries. 
+
+> **[warning] Only support tab-delimited or comma-delimited text file.**
+>
+> Click "Download Template" if you don't know the format.
 
 ![](/assets/project_management.upload.png)
 

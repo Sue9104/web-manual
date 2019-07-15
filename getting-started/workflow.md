@@ -18,7 +18,7 @@ Step 4. [**release:** _all members_ cooperate to optimize translation until all 
 
 - Create a project: specify a source and target languages, deadline, priority, visibility and description, and designate project members (translator, reviewer and guest).
 
-- Upload database files: only support tab-delimited or comma-delimited text file and max file size 10Mb.
+- Upload database files: only support csv (.csv) or single-page spreadsheet (.xls or .xlsx) from Microsoft Excel and max file size 10MB.
 
 - Assign entries to translator.
 

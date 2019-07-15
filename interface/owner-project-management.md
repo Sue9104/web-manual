@@ -73,11 +73,19 @@ Furthermore, there is a shortcut for owner's task: translation assignment ("Assi
 
 <span id='upload'></span>
 
-Click "Upload File" to add or append entries. 
+"Upload File" is the only way to add or append database entries in Trantrace. It has a specific requirement for the file.
 
-> **[warning] Only support tab-delimited or comma-delimited text file.**
->
-> Click "Download Template" if you don't know the format.
+1. Support file types:
+  - CSV (.csv).
+  - Single-page spreadsheet (.xls or .xlsx) from Microsoft Excel.
+2. File name:
+  - Only support  letters (A-Za-z), numbers (0-9), dot (.), hypen (-), and underscore (\_).
+  - Make sure the extension is correct.
+3. File size:
+  - 10MB or less.
+4. Content:
+  - The first row must be the header.
+  - The first column must be unique.
 
 ![](/assets/project_management.upload.png)
 

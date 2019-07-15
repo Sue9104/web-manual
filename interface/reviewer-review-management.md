@@ -2,7 +2,7 @@
 
 ## Overview
 
-Projects that user works as a reviewer are displayed with project name, language, priority, deadline and counts of unreviewed entries. Click the blow in last column and it will jump to these unreviewed entries.
+Projects that user works as a reviewer are displayed with project name, language, priority, deadline, and counts of unreviewed entries. Click the blow in the last column and it will jump to these unreviewed entries.
 
 ![](/assets/review_management.overview.png)
 
@@ -32,11 +32,6 @@ Translation reviewed by you are listed here.
 
 **Operations:**
 
-1. **Seach entries by project name, keyword and status**
+1. **Seach entries by project name, keyword, and status**
 
 2. **View translation**
-
-
-
-
-

@@ -4,7 +4,7 @@
 
 Open http://192.168.202.117:8000/#/register and fill in form.
 
-> **[warning] User name only support letters (A-Za-z), numbers (0-9), dot (.), hyphen (-) and underscore (\_). Maximum length is 50 characters.**
+> **[warning] User name only supports letters (A-Za-z), numbers (0-9), dot (.), hyphen (-) and underscore (\_). The maximum length is 50 characters.**
 
 ![](/assets/signup.png)
 
@@ -24,6 +24,6 @@ Open http://192.168.202.117:8000/#/register and fill in form.
 
 - **Forgot password**
 
-Please contact the adminstrator to reset your password (default: 123456).
+Please contact the administrator to reset your password (default: 123456).
 
 

@@ -42,7 +42,7 @@ Setting shows configurations when you create the project.
 #### Schedule
 <span id='schedule'></span>
 
-Schedule is divided into two categories: project shedule and member schedule.
+Schedule is divided into two categories: project schedule and member schedule.
 
 - Project schedule summaries the progress of project stages (assignment, translation and review).
 
@@ -84,7 +84,7 @@ Click "Upload File" to add or append entries.
 #### Release
 <span id='release'></span>
 
-A new version is published with version id by clicking "New Version". Moreover, all histroical versions are listed below.
+A new version is published with version id by clicking "New Version". Moreover, all historical versions are listed below.
 
 ![](/assets/project_management.release.png)
 
@@ -110,7 +110,7 @@ Assignment is the first step of translation cooperation in Trantrace. Owner shou
 
 <span id='feedback'></span>
 
-Owner need quick reply to guest's issues.
+Owner needs a quick reply to guest's issues.
 
 > Please see [issue status](../glossary.md#issue-status) for description of status.
 
@@ -118,6 +118,6 @@ Owner need quick reply to guest's issues.
 
 **Operations:**
 
-- **Agree on issue and revive entry's translation**: click "Agree"
+- **Agree on the issue and revive entry's translation**: click "Agree"
 
 - **Disagree on issue and translation is good enough**: click "Ignore"

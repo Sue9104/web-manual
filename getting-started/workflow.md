@@ -2,9 +2,9 @@
  
 ![](/assets/workflow.png)
 
-Step 1. [**creation:** user (_owner_) creates project, uploads file and assigns entries' translation to translator](#create)
+Step 1. [**creation:** user (_owner_) creates a project, uploads file and assigns entries' translation to translator](#create)
 
-Step 2. [**translation:** _translator_ continously translates until approved by reviewer](#translate)
+Step 2. [**translation:** _translator_ continuously translates until approved by reviewer](#translate)
 
 Step 3. [**review:** _reviewer_ reviews translation ](#review)
 
@@ -16,20 +16,20 @@ Step 4. [**release:** _all members_ cooperate to optimize translation until all 
 
 **Owner** initiates the project:
 
-- Create a project: specify source and target languages, deadline, priority, visibility and description, and designate project members (translator, reviewer and guest).
+- Create a project: specify a source and target languages, deadline, priority, visibility and description, and designate project members (translator, reviewer and guest).
 
-- Upload database files: only support tab-delimited or comma-delimited text file and max filesize 10Mb.
+- Upload database files: only support tab-delimited or comma-delimited text file and max file size 10Mb.
 
 - Assign entries to translator.
 
 ![](/assets/step1_creation.png)
 
 
-## Step 2. Translation: translator continously translates until approved by reviewer
+## Step 2. Translation: translator continuously translates until approved by reviewer
 
 <span id='translate'></span>
 
-Translator need continous translation until approved by reviewer:
+Translator need continuous translation until approved by reviewer:
 
 - Translate entries assigned by owner.
 
@@ -49,7 +49,7 @@ Reviewer checks translation one by one and decides whether to let it pass or fai
 ![](/assets/step3_review.png)
 
 
-## Step 4. Relase: all members cooperate to optimize translation until all are in good quality.
+## Step 4. Release: all members cooperate to optimize translation until all are in good quality.
 
 <span id='iteration'></span>
 
@@ -78,7 +78,7 @@ Owner releases version according to progress.
     ![](/assets/project_management.reply.png)
     - **More entries**: owner assigns the translation of new entries to translator (repeat step1).
     ![](/assets/project_management.assignment.png)
-  2. Translator contiously translates until approved by reviewer (repeat step2)
+  2. Translator continuously translates until approved by reviewer (repeat step2)
   3. Review reviews translation (repeat step3).
   4. Owner releases version.
 

@@ -19,14 +19,14 @@ Traceback (most recent call last):
 ```
 
 Cause:
-  - There is a data folder under command execution directory, and you don't have permission to read it.
+  - There is a data folder under the command execution directory, and you don't have permission to read it.
   - The data folder was automatically generated when you had started this service.
 
 Solution:
   - If you want to keep previous records, skip this step and run "docker-compose up -d".
-  - Delete data folder, and rerun it.
+  - Delete the data folder, and rerun it.
 
-### Bind: address aleady in use
+### Bind: address already in use
 
 - 3307 is aleady in use
 ```
@@ -56,13 +56,13 @@ Solution:
 
 Solution:
   - Check docker status: if you haven't start docker, run ```sudo service docker start```
-  - Permission: if you are not in docker group, run ```sudo usermod -aG docker $(who am i| awk '{print $1}') ```
+  - Permission: if you are not in the docker group, run ```sudo usermod -aG docker $(who am i| awk '{print $1}') ```
 
 ## Forgot Password
 
 - If you are a regular user,
 
-    please concat administer to reset your password to 123456.
+    please contact administer to reset your password to 123456.
 
 - If you are root,
 

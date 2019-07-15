@@ -1,6 +1,6 @@
 # User Interface
 
-All users share same interface, but have different workspace depending on the role in project. User interface is comprised of "Dashboard", workspace and "My Task".
+All users share same interface but have different workspace depending on the role in a project. User interface is comprised of "Dashboard", workspace and "My Task".
 
 - [Dashboard](#stat)
 - Workspace for different roles
@@ -16,7 +16,7 @@ All users share same interface, but have different workspace depending on the ro
 
 <span id='stat'></span>
 
-Dashboard summaries user's workload, complete percentage and unfinished counts in four panel (Assignment, Translation, Review and Issues). Click on the blue text in last column and it will jump to unfinished tasks.
+Dashboard summaries user's workload, complete percentage and unfinished counts in four panel (Assignment, Translation, Review and Issues). Click on the blue text in the last column and it will jump to unfinished tasks.
 
 ![](/assets/dashboard.png)
 
@@ -26,7 +26,7 @@ Description of summary table:
 > 
 > Total: counts of all translated entries
 >
-> Completed: counts of qualified entries reviewed by you divide counts of all translatd entries
+> Completed: counts of qualified entries reviewed by you divide counts of all translated entries
 
 ||Worker|Total|Completed|Not Finished|corresponding status in MyTask|
 |--|--|

@@ -2,7 +2,7 @@
 
 <span id='make'></span>
 
-Ubuntu 16.04 is recommended and installation of dependencies and Trantrace is intergrated. However, we still provide recommend procedures for users with other Linux distributions and Mac.
+Ubuntu 16.04 is recommended and the installation of dependencies and Trantrace is integrated. However, we still provide recommend procedures for users with other Linux distributions and Mac.
 
 ## Ubuntu 16.04
 
@@ -14,11 +14,11 @@ Ubuntu 16.04 is recommended and installation of dependencies and Trantrace is in
   MYSQL_PORT=your_mysql_port]
 ```
 
-If default port (90) for Trantrace is occupied, please change 90 to other available port in conf/trantrace.apache.conf.
+If the default port (90) for Trantrace is occupied, please change 90 to other available port in conf/trantrace.apache.conf.
 
 ## Other Linux distributions and Mac
 
-  1. Install **mysql-server (>=5.7)**, grant root (mysql administrator) all privileges with root password and restart mysql service.
+  1. Install **mysql-server (>=5.7)**, and grant root (mysql administrator) all privileges with root password. Then restart mysql service.
 
   ```
   **[terminal]

@@ -12,7 +12,7 @@ Necessary hardware largely depends on the size of translation databases and user
 
 ## Operating System
 
-> **[info] We highly recommand to install Trantrace with docker-compose.**
+> **[info] We highly recommend to install Trantrace with docker-compose.**
 
 - [install with docker-compose](install-with-docker-compose.md): Even though lots of operating systems are supported by docker-compose and docker, **Linux or Mac** is recommended.
 
@@ -21,7 +21,7 @@ Necessary hardware largely depends on the size of translation databases and user
 
 ## Browser
 
-We have only tested Trantrace on four browsers with lastest stable version, so others may have incompatiblity issues.
+We have only tested Trantrace on four browsers with latest stable version, so others may have incompatibility issues.
 
 
 Supported browser:

@@ -1,8 +1,8 @@
-# Guest: Released Projects
+# All Members: Released Projects
 
 ## Projects
 
-Projects that user works as a guest are displayed here. 
+Released translations in which project project you joined are displayed here. 
 
 **Operations:**
 
@@ -18,14 +18,14 @@ Projects that user works as a guest are displayed here.
 
 ## Issues
 
-Issues that opened by you are listed here.
+Issues of joined projects are listed here. Only owner has the right to resolve these issues.
 
 > Please see [issue status](../glossary.md#issue-status) for description of status.
 
-![](/assets/released_projects.issues.png)
+![](/assets/project_management.reply.png)
 
 **Operations:**
 
 1. **Search by project, keyword, and status**
 
-2. **View translation**
+2. **Resolve the issue**: owner click "View" of unresolved issues, and click "Agree" to revive entry's translation or "Ignore" to close the issue if you thought the translation was good enough.

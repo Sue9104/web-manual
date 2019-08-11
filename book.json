@@ -1,7 +1,7 @@
 {
   "plugins": [
     "fancybox", "-highlight", "prism", "prism-themes", "alerts", "terminal",
-    "emphasize", "splitter", "simple-page-toc"
+    "emphasize", "splitter", "simple-page-toc", "katex"
   ],
   "pluginsConfig": {
     "sharing": {

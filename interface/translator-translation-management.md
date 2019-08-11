@@ -2,7 +2,8 @@
 
 ## Overview
 
-Projects that user works as a translator are displayed with project name, language, priority, deadline, and counts of entries that have not been translated. Click the blue text in the last column and it will jump to these unfinished entries.
+Projects that user works as a translator are displayed here, and postponed projects are highlighted in pink. 
+Click the blue text in the last column ("Not Finished") and it will jump to these unfinished entries.
 
 ![](/assets/translation_management.overview.png)
 

@@ -12,35 +12,106 @@
 
 <span id='entry-status'></span>
 
-| Status | Dashboard | Worker | Description |
-| :--- | :--- | :--- | :--- |
-| Unassigned | Assignment | Owner | Entry has not been assigned to translator. |
-| Untranslated | Translation | Translator | Entry is assigned to you and has not been translated. |
-| Unretranslated | Translation | Translator | Entry is rejected by reviewer and has not been retranslated. |
-| Unreviewed | Review | Reviewer | Entry is translated and has not been reviewed. |
-| Qualified | - | - | Entry has been well translated and the translation can't be modified before a version release. |
+An entry has five states: unassigned, untranslated, unretranslated, unreviewed and qualified.
+Therefore, the sum of entry counts with five status equals to total counts of project entries.
 
+$$ Total = $$
+$$ \sum unassigned + \sum untranslated + \sum unretranslated + \sum unreviewed + \sum qualified $$
+
+![](/assets/entry_status.png)
+
+<table>
+  <tr>
+    <th>Entry Status</th>
+    <th>Dashboard</th>
+    <th>Workspace</th>
+    <th>Worker</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>unassigned</td>
+    <td>Assignment</td>
+    <td>Project Management &gt; <b>Assignment</b></td>
+    <td>Owner</td>
+    <td>Entry has not been assigned to translator.</td>
+  </tr>
+  <tr>
+    <td>untranslated</td>
+    <td rowspan="2">Translation</td>
+    <td>Translation Management &gt; <b>Translation</b></td>
+    <td rowspan="2">Translator</td>
+    <td>Entry is assigned to you and has not been translated.</td>
+  </tr>
+  <tr>
+    <td>unretranslated</td>
+    <td>Translation Management &gt; <b>Retranslation</b></td>
+    <td>Entry's latest translation is rejected by reviewer and has not been retranslated.</td>
+  </tr>
+  <tr>
+    <td>unreviewed</td>
+    <td>Review</td>
+    <td>Review Management &gt; <b>Review</b> </td>
+    <td>Reviewer</td>
+    <td>Entry is translated and has not been reviewed. </td>
+  </tr>
+  <tr>
+    <td>qualified</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Entry has been well translated and the translation can't be modified before version release.</td>
+  </tr>
+</table>
 
 ## Issue status:
 <span id='issue-status'></span>
 
-Once guest opened an issue about entry's wrong translation, owner need to recheck the translation and reply it as soon as possible.
+If one project member opened an issue about entry's wrong translation, owner need to recheck the translation and reply it as soon as possible.
 
-| Status | Dashboard | Worker | Description |
-| :--- | :--- | :--- | :--- |
-| Unreplied | Issues | Owner | Owner has not replied to the issue yet. |
-| Agreed | - | - | Owner agreed with guest and revived the translation. |
-| Ignored | - | - | Owner disagreed with guest and ignored it. |
+![](/assets/issue_status.png)
 
-## Translation status in history
+Once the issue was agreed, the translation status changed to "Error".
+
+<table>
+  <tr>
+    <th>Issue Status</th>
+    <th>Dashboard</th>
+    <th>Workspace</th>
+    <th>Worker</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>unresolved</td>
+    <td>Issues</td>
+    <td rowspan="3">Released Projects &gt; <b>Issues</b> </td>
+    <td rowspan="3">Owner</td>
+    <td>Owner has not replied to the issue yet.</td>
+  </tr>
+  <tr>
+    <td>agreed</td>
+    <td rowspan="2">-</td>
+    <td>Owner agreed with the issue and revived the translation.</td>
+  </tr>
+  <tr>
+    <td>ignored</td>
+    <td>Owner disagreed with the issue and ignored it.</td>
+  </tr>
+</table>
+
+## Entry's translation status in translation and review history
 <span id='translation-status'></span>
+
+![](/assets/translation_status.png)
 
 | Status | Description |
 | :--- | :--- |
 | Unreviewed | This translation has not been reviewed. |
-| Pass | This translation passed the review of reviewer. |
-| Fail | This translation did not pass the review of reviewer. |
-| Error | This translation was considered to be an error by owner and guest. |
+| Passed | This translation passed the review of reviewer. |
+| Failed | This translation did not pass the review of reviewer. |
+| Error | This translation was released in a version, but someone thought it was wrong and owner agreed. |
+
+## Calculation of completed percentage 
+
 
 
 

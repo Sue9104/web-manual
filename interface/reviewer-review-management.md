@@ -2,7 +2,8 @@
 
 ## Overview
 
-Projects that user works as a reviewer are displayed with project name, language, priority, deadline, and counts of unreviewed entries. Click the blow in the last column and it will jump to these unreviewed entries.
+Projects that user works as a reviewer are displayed with project name, language, priority, deadline, and counts of unreviewed entries. 
+Click the blue text in the last column ("Not Finished") and it will jump to these unreviewed entries.
 
 ![](/assets/review_management.overview.png)
 

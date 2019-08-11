@@ -1,8 +1,8 @@
 # Administration Interface
 
-Root is the administrator with initial password "123456". 
+The administrator account does not need to be registered. Just log in with the initial email (root) and password (123456). 
 
-> **[warning] Please change password immediately after login.**
+> **[warning] Please change the password immediately after log in.**
 
 <span id='root'></span>
 
@@ -30,7 +30,7 @@ Operations:
  
 - **Reset Password**: this button will reset user password to "123456".
 
-- **Search Existed User by Email**.
+- **Search Existed User by Email and User Name**.
 
 
 

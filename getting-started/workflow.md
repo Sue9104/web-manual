@@ -2,13 +2,13 @@
  
 ![](/assets/workflow.png)
 
-Step 1. [**creation:** user (_owner_) creates a project, uploads file and assigns entries' translation to translator](#create)
+Step 1. [**creation:** user (_owner_) creates a project, uploads file and assigns entries' translation to translator.](#create)
 
-Step 2. [**translation:** _translator_ continuously translates until approved by reviewer](#translate)
+Step 2. [**translation:** _translator_ continuously translates until approved by reviewer.](#translate)
 
-Step 3. [**review:** _reviewer_ reviews translation ](#review)
+Step 3. [**review:** _reviewer_ reviews translation.](#review)
 
-Step 4. [**release:** _all members_ cooperate to optimize translation until all are in good quality](#iteration)
+Step 4. [**release:** _all members_ cooperate to optimize translations until all are in good quality.](#iteration)
  
 ## Step 1. Creation: user (_owner_) creates project, uploads file and assigns entries' translation to translator
 
@@ -16,9 +16,9 @@ Step 4. [**release:** _all members_ cooperate to optimize translation until all 
 
 **Owner** initiates the project:
 
-- Create a project: specify a source and target languages, deadline, priority, visibility and description, and designate project members (translator, reviewer and guest).
+- Create a project: specify a source and target languages, deadline, priority, visibility and description, and designate project members (translator, reviewer, and guest).
 
-- Upload database files: only support csv (.csv) or single-page spreadsheet (.xls or .xlsx) from Microsoft Excel and max file size 10MB.
+- Upload database files: only support comma-delimited (.csv) or tab-delimited (.tsv) text file and single-page spreadsheet (.xls or .xlsx) from Microsoft Excel.
 
 - Assign entries to translator.
 
@@ -31,11 +31,11 @@ Step 4. [**release:** _all members_ cooperate to optimize translation until all 
 
 Translator need continuous translation until approved by reviewer:
 
-- Translate entries assigned by owner.
+- Translate assigned entries from owner.
 
 ![](/assets/translation_management.translation.png)
 
-- Retranslate entries rejected by reviewer.
+- Retranslate failed entries from reviewer.
 
 ![](/assets/translation_management.retranslation.png)
 
@@ -49,7 +49,7 @@ Reviewer checks translation one by one and decides whether to let it pass or fai
 ![](/assets/step3_review.png)
 
 
-## Step 4. Release: all members cooperate to optimize translation until all are in good quality.
+## Step 4. Release: all members cooperate to optimize translations until all are in good quality.
 
 <span id='iteration'></span>
 
@@ -59,11 +59,11 @@ Owner releases version according to progress.
 
 ![](/assets/step4_release.png)
 
-### Iteration
+### Version iteration
 
 - Scenarios
 
-  - **Wrong translation**: guest opens an issue to point out the error, then owner agrees on that and revives the translation.
+  - **Wrong translation**: one project member opens an issue to point out the error of released translations.
 
     ![](/assets/open_issue.png)
 
@@ -74,7 +74,7 @@ Owner releases version according to progress.
 - Procedures
 
   1. Owner assigns entries to translator. 
-    - **Wrong translation**: owner replies guest's issue and reassigns entry's translation to translator;
+    - **Wrong translation**: owner agrees on the issue and reassigns entry's translation to translator;
     ![](/assets/project_management.reply.png)
     - **More entries**: owner assigns the translation of new entries to translator (repeat step1).
     ![](/assets/project_management.assignment.png)

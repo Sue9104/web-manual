@@ -46,7 +46,7 @@ Translator needs continuous translation until approved by reviewer:
 
 Reviewer checks translation one by one and decides whether to let it pass or fail.
 
-![](/assets/step3_review.png)
+![](/assets/review_management.review.png)
 
 
 ## Step 4. Release: all members cooperate to optimize translations until all are in good quality.

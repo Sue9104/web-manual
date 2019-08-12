@@ -1,11 +1,13 @@
 # Glossary
 
-## Visibility of project
+<!-- toc -->
+
+## Visibility level
 
 |Level|Description|
 | :--- | :--- |
 |private|This project is only visible for project members (owner, translator, reviewer, and guest). |
-|public|This project is visible for any logged in user. |
+|public|This project is visible for any logged-in user. |
 
 
 ## Entry status
@@ -63,10 +65,11 @@ $$ \sum unassigned + \sum untranslated + \sum unretranslated + \sum unreviewed +
   </tr>
 </table>
 
-## Issue status:
+## Issue status
+
 <span id='issue-status'></span>
 
-If one project member opened an issue about entry's wrong translation, owner need to recheck the translation and reply it as soon as possible.
+If one project member opened an issue about entry's wrong translation, the owner need to recheck the translation and reply it as soon as possible.
 
 ![](/assets/issue_status.png)
 
@@ -98,7 +101,8 @@ Once the issue was agreed, the translation status changed to "Error".
   </tr>
 </table>
 
-## Entry's translation status in translation and review history
+## Translation status
+
 <span id='translation-status'></span>
 
 ![](/assets/translation_status.png)
@@ -106,15 +110,7 @@ Once the issue was agreed, the translation status changed to "Error".
 | Status | Description |
 | :--- | :--- |
 | Unreviewed | This translation has not been reviewed. |
-| Passed | This translation passed the review of reviewer. |
-| Failed | This translation did not pass the review of reviewer. |
-| Error | This translation was released in a version, but someone thought it was wrong and owner agreed. |
-
-## Calculation of completed percentage 
-
-
-
-
-
-
+| Passed | This translation passed the review. |
+| Failed | This translation did not pass the review. |
+| Error | This translation was released in a version, but someone thought it was wrong and the owner agreed. |
 

@@ -18,7 +18,7 @@ If the default port (90) for Trantrace is occupied, please change 90 to other av
 
 ## Other Linux distributions and Mac
 
-  1. Install **mysql-server (>=5.7)**, and grant root (mysql administrator) all privileges with root password. Then restart mysql service.
+  1. Install **mysql-server (>=5.7)**, and grant root (MySQL administrator) all privileges with root password. Then restart MySQL.
 
   ```
   **[terminal]
@@ -47,7 +47,7 @@ If the default port (90) for Trantrace is occupied, please change 90 to other av
   
   5. Copy source code (src/) and configuration file (conf/trantrace.apache.conf) to corresponding folder.
   
-  6. Activate website and restart apache2.
+  6. Activate the website and restart apache2.
   
 
 ## Setup

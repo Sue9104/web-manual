@@ -21,7 +21,7 @@ Necessary hardware largely depends on the size of translation databases and user
 
 ## Browser
 
-We have only tested Trantrace on four browsers with latest stable version, so others may have incompatibility issues.
+We have only tested Trantrace on four browsers with the latest stable version, so others may have incompatibility issues.
 
 
 Supported browser:

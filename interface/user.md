@@ -1,6 +1,6 @@
 # User Interface
 
-All users except administrator share same interface but have different permissions on different panels according to project roles. 
+All users except administrator share the same interface but have different permissions on different panels according to project roles. 
 
 - Summary of unfinished tasks for every user
   - [Dashboard](#stat)
@@ -11,7 +11,7 @@ All users except administrator share same interface but have different permissio
   - [Reviewer: Review Management](reviewer-review-management.md)
   - [All Members: Released Projects](guest-released-projects.md)
 
-Though all project members can search released translation and open issues in "Released Projects", only owner has the right to resolve issues. 
+Though all project members can search released translation and open issues in "Released Projects", only the owner has the right to resolve issues. 
 
 ![](/assets/interface.user.png)             
 
@@ -22,7 +22,7 @@ Though all project members can search released translation and open issues in "R
 
 <span id='stat'></span>
 
-Dashboard counts user's workload, complete percentage and unfinished numbers according to task categories (Assignment, Translation, Review and Issues) and project name. 
+Dashboard counts the user's workload, complete percentage and unfinished numbers according to task categories (Assignment, Translation, Review and Issues) and project name. 
 Click on the blue text in the last column and it will jump to unfinished tasks.
 
 ![](/assets/dashboard.png)

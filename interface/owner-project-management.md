@@ -1,13 +1,6 @@
 # Owner: Project Management
 
-- [Overview](#overview)
-  - [Project Detail](#detail)
-    - [Setting](#setting)
-    - [Schedule](#schedule)
-    - [Upload](#upload)
-    - [Release](#release)
-- [Assignment](#assign)
-
+<!-- toc -->
 
 ## Overview
 
@@ -18,31 +11,29 @@ The projects created by you are listed here. "Total" is the total counts of proj
 
 - If you want to know more information about one project, _**Double click**_ the row or click "Detail".
 
-- If you want to add new project, click "New Project".
+- If you want to add a new project, click "New Project".
 
 - If the project is highlighted in pink, it means the project has not finished before the deadline.
 
 ![](/assets/project_management.overview.png)
 
-### Project Detail
-<span id='detail'></span>
 
-User can easily manage a project from four aspects: "Setting", "Schedule", "Upload" and "Release".
+Users can easily manage a project from four aspects: "Setting", "Schedule", "Upload" and "Release".
 
-#### Setting
+### Setting
 <span id='setting'></span>
 
 Setting shows the configuration when you created the project.
 
-- All settings are editable except owner and creation date. Furthermore, visibility level is only allowed to change from private to public. 
+- All settings are editable except the owner and creation date. Furthermore, the visibility level is only allowed to change from private to public. 
 
 - Delete the project is only allowed when nothing has been uploaded.
 
-- If more people want to join in, click **Add Member > Edit**. It is forbidden to delete member for record traceability now.
+- If more people want to join in, click **Add Member > Edit**. It is forbidden to delete members for record traceability now.
 
 ![](/assets/project_management.setting.png)
 
-#### Schedule
+### Schedule
 <span id='schedule'></span>
 
 Schedule is divided into two categories: project schedule and member schedule.
@@ -53,13 +44,13 @@ Schedule is divided into two categories: project schedule and member schedule.
 
 ![](/assets/project_management.schedule.png)
 
-> Only owner is in charge of assignment, so owner's task equals to total counts of project entries (10).
+> Only owner is in charge of assignment, so the owner's task equals total counts of project entries (10).
 >
 > Since translation review is not assigned, so the total reviewers' task equals to total counts of **translated entries** (5\*80% + 2\*100% = 6).
 
-Furthermore, there is a shortcut for owner's task: translation assignment ("Assignment") and issue resolvement ("Issues").
+Furthermore, there is a shortcut for the owner's task: translation assignment ("Assignment") and issue resolvent ("Issues").
 
-#### Upload
+### Upload
 
 <span id='upload'></span>
 
@@ -79,7 +70,7 @@ Furthermore, there is a shortcut for owner's task: translation assignment ("Assi
 
 ![](/assets/project_management.upload.png)
 
-#### Release
+### Release
 <span id='release'></span>
 
 A new version is published with version id by clicking "New Version". Moreover, all historical versions are listed below.
@@ -100,6 +91,6 @@ Assignment is the first step of task-based translation cooperation. Owner should
 
 1. **Assign one entry to one translator**: fill in translator and click "Assign".
 
-2. **Assign multiple entries to one translator**: select entries in current page or "Search" results, then click "Batch Allocation".
+2. **Assign multiple entries to one translator**: select entries in the current page or "Search" results, then click "Batch Allocation".
 
 3. **Search entries by project name, keyword and status**

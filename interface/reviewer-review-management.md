@@ -1,5 +1,7 @@
 # Reviewer: Review Management
 
+<!-- toc -->
+
 ## Overview
 
 Projects that user works as a reviewer are displayed with project name, language, priority, deadline, and counts of unreviewed entries. 
@@ -24,7 +26,7 @@ Entries that have not been reviewed are listed here.
 
 ## History
 
-Translation reviewed by you are listed here.
+Translations reviewed by you are listed here.
  
 
 > Please see [translation status](../glossary.md#translation-status) for description of status.

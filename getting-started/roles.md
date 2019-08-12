@@ -4,7 +4,7 @@
 
 <span id='system-roles'></span>
 
-There are two roles in Trantrace: root (administrator) and general user.
+There are two roles in Trantrace: administrator and general user.
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ There are two roles in Trantrace: root (administrator) and general user.
 
 ## Project role
 
-General users all share same interface but have different workspace depending on the project role. There are four roles in one project: owner, translator, reviewer and guest (optional).
+General users all share the same interface but have different workspace depending on the project role. There are four roles in one project: owner, translator, reviewer and guest (optional).
 
 Once the project visibility is set to public, every logged in user is the project guest and they all can search released translation and open issues.
 
@@ -65,7 +65,7 @@ Once the project visibility is set to public, every logged in user is the projec
     <td>
       <li><b>Translate assigned entries</b> from owner.</li>
       <li><b>Retranslate failed entries</b> from reviewer.</li>
-     and </td>
+    </td>
     <td><a href="../interface/translator-translation-management.md">Translation Management</a></td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ Once the project visibility is set to public, every logged in user is the projec
   </tr>
   <tr>
     <td rowspan="2">reviewer</td>
-    <td><li><b>Review translation</b> to decide whether to let it pass or not.<li></td>
+    <td><li><b>Review translation</b> to decide whether to let it pass or not.</li></td>
     <td><a href="../interface/reviewer-review-management.md">Review Management</a></td>
   </tr>
   <tr>

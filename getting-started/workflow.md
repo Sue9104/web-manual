@@ -29,7 +29,7 @@ Step 4. [**release:** _all members_ cooperate to optimize translations until all
 
 <span id='translate'></span>
 
-Translator need continuous translation until approved by reviewer:
+Translator needs continuous translation until approved by reviewer:
 
 - Translate assigned entries from owner.
 

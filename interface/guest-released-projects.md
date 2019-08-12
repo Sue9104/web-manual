@@ -1,8 +1,10 @@
 # All Members: Released Projects
 
-## Projects
+<!-- toc -->
 
-Released translations in which project project you joined are displayed here. 
+## Overview
+
+Released translations in which project you joined are displayed here. 
 
 **Operations:**
 
@@ -12,7 +14,7 @@ Released translations in which project project you joined are displayed here.
 
 3. **View entry's translation: click "Entries" to detail, then click "View" to see entry's translation.**
 
-4. **Open an issue if found error: click "Open Issue", and issue is only available for latest version.**
+4. **Open an issue if found error: click "Open Issue", and the issue is only available for the latest version.**
 
 ![](/assets/released_projects.projects.png)
 

@@ -2,6 +2,8 @@
 
 > Please contact [sgidrylab@protonmail.com](mailto:sgidrylab@protonmail.com) if you have more questions.
 
+<!-- toc -->
+
 ## Install
 
 ### Permisson Denied: "trantrace/data/ca-key.pem"
@@ -62,15 +64,15 @@ Solution:
 
 - If you are a regular user,
 
-    please contact administer to reset your password to 123456.
+    please contact administrator to reset your password to 123456.
 
-- If you are root,
+- If you are administrator,
 
-    Encrypt your new password with bcrypt, and update the encrypted password to mysql table.
+    Encrypt your new password with bcrypt, and update the encrypted password in MySQL user table.
 
     **Example:**
 
-    You are root and want to change it to "root_123456".
+    You are administrator and want to change it to "root_123456".
 
     ```
     **[terminal]
@@ -93,3 +95,24 @@ Solution:
     **[prompt mysql>]**[command quit]
     Bye
     ```
+
+
+## Upload
+
+<span id="upload"></span>
+
+### The first column is null.
+
+Solution:
+  - Delete the row or add text to the first column.
+
+### The first column is not unique or other unpredicted error.
+
+Solution:
+  - Change the duplicate text in the first column or delete the row.
+
+### Inconsistent column counts with the first uploaded file.
+
+Solution:
+  - Recheck the file and make sure the column is consistent with the first uploaded file.
+

@@ -44,9 +44,15 @@ Schedule is divided into two categories: project schedule and member schedule.
 
 ![](/assets/project_management.schedule.png)
 
-> Only owner is in charge of assignment, so the owner's task equals total counts of project entries (10).
+> #### Note:: Notification of Completed Percentage
 >
-> Since translation review is not assigned, so the total reviewers' task equals to total counts of **translated entries** (5\*80% + 2\*100% = 6).
+> - **Member Schedule > Owner**
+>
+> Only owner is in charge of assignment, so the owner's task equals **total counts of project entries** (10).
+>
+> - **Member Schedule > Reviewer**
+>
+> Since translation review is not assigned, so the total reviewers' task equals to **total counts of translated entries** ($$ 5 * 80\% + 2 * 100\% = 6 $$).
 
 Furthermore, there is a shortcut for the owner's task: translation assignment ("Assignment") and issue resolvent ("Issues").
 
@@ -56,17 +62,19 @@ Furthermore, there is a shortcut for the owner's task: translation assignment ("
 
 "Upload File" is the only way to add or append database entries in Trantrace. It has a specific requirement for the file.
 
-1. Support file types:
-  - comma-delimited (.csv) or tab-delimited (.tsv) text file.
-  - Single-page spreadsheet (.xls or .xlsx) from Microsoft Excel.
-2. File name:
-  - Only support  letters (A-Za-z), numbers (0-9), dot (.), hypen (-), and underscore (\_).
-  - Make sure the extension is correct.
-3. File size:
-  - 10MB or less.
-4. Content:
-  - The first row must be the header.
-  - The first column must be unique.
+> #### Note:: File Upload Requirement
+>
+> 1. Support file types:
+>   - comma-delimited (.csv) or tab-delimited (.tsv) text file.
+>   - Single-page spreadsheet (.xls or .xlsx) from Microsoft Excel.
+> 2. File name:
+>   - Only support  letters (A-Za-z), numbers (0-9), dot (.), hypen (-), and underscore (\_).
+>   - Make sure the extension is correct.
+> 3. File size:
+>   - 10MB or less.
+> 4. Content:
+>   - The first row must be the header.
+>   - The first column must be unique.
 
 ![](/assets/project_management.upload.png)
 
@@ -93,4 +101,4 @@ Assignment is the first step of task-based translation cooperation. Owner should
 
 2. **Assign multiple entries to one translator**: select entries in the current page or "Search" results, then click "Batch Allocation".
 
-3. **Search entries by project name, keyword and status**
+3. **Search entries by project name, keyword and status**.

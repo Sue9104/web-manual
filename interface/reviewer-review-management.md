@@ -5,7 +5,9 @@
 ## Overview
 
 Projects that user works as a reviewer are displayed with project name, language, priority, deadline, and counts of unreviewed entries. 
-Click the blue text in the last column ("Not Finished") and it will jump to these unreviewed entries.
+
+- Click the blue text in the last column ("Not Finished") and it will jump to these unreviewed entries.
+- If the project is highlighted in pink, it means that your review tasks have not finished before the deadline.
 
 ![](/assets/review_management.overview.png)
 
@@ -17,11 +19,11 @@ Entries that have not been reviewed are listed here.
 
 **Operations:**
 
-1. **Seach entries by project name, priority, deadline and keyword**
+1. **Search entries by project name, priority, deadline and keyword**.
 
-2. **Approve translation: click "Pass"**
+2. **Approve translation**: click "Pass".
 
-3. **Reject translation: click "Fail"**
+3. **Reject translation**: click "Fail".
 
 
 ## History
@@ -35,6 +37,6 @@ Translations reviewed by you are listed here.
 
 **Operations:**
 
-1. **Seach entries by project name, keyword, and status**
+1. **Seach entries by project name, keyword, and status**.
 
-2. **View translation**
+2. **View translation**.

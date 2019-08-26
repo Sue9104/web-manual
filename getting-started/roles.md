@@ -24,7 +24,7 @@ There are two roles in Trantrace: administrator and general user.
   <tr>
     <td>general user</td>
     <td>
-      <li>Creat Own projects.</li>
+      <li>Creat own projects.</li>
       <li>Others depending on the role in project.</li>
     </td>
     <td><a href="../interface/user.md">User Interface</a></td>
@@ -58,7 +58,7 @@ Once the project visibility is set to public, every logged in user is the projec
       <li><b>Search released translations</b> from joined project.</li>
       <li><b>Resolve issues.</b></li>
     </td>
-    <td><a href="../interface/guest-released-projects.md">Released Projects</a></td>
+    <td><a href="../interface/all-released-projects.md">Released Projects</a></td>
   </tr>
   <tr>
     <td rowspan="2">translator</td>
@@ -72,7 +72,7 @@ Once the project visibility is set to public, every logged in user is the projec
     <td>
       <li><b>Search released translations</b> from joined project.</li>
       <li><b>Open issues if found error.</b></li>
-    <td><a href="../interface/guest-released-projects.md">Released Projects</a></td>
+    <td><a href="../interface/all-released-projects.md">Released Projects</a></td>
   </tr>
   <tr>
     <td rowspan="2">reviewer</td>
@@ -84,7 +84,7 @@ Once the project visibility is set to public, every logged in user is the projec
       <li><b>Search released translations</b> from joined project.</li>
       <li><b>Open issues if found error.</b></li>
     </td>
-    <td><a href="../interface/guest-released-projects.md">Released Projects</a></td>
+    <td><a href="../interface/all-released-projects.md">Released Projects</a></td>
   </tr>
   <tr>
     <td>guest</td>
@@ -92,7 +92,7 @@ Once the project visibility is set to public, every logged in user is the projec
       <li><b>Search released translations</b> from joined project.</li>
       <li><b>Open issues if found error.</b></li>
     </td>
-    <td><a href="../interface/guest-released-projects.md">Released Projects</a></td>
+    <td><a href="../interface/all-released-projects.md">Released Projects</a></td>
   </tr>
 </table>
 

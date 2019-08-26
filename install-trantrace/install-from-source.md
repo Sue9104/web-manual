@@ -1,8 +1,8 @@
-# Install from Source
+# Install from Source Code
 
 <span id='make'></span>
 
-Ubuntu 16.04 is recommended and the installation of dependencies and Trantrace is integrated. However, we still provide recommend procedures for users with other Linux distributions and Mac.
+**Ubuntu 16.04 is recommended and the installation of dependencies and Trantrace are integrated in makefile.** However, we still provide recommend procedures for users with other Linux distributions and Mac.
 
 ## Ubuntu 16.04
 
@@ -14,7 +14,7 @@ Ubuntu 16.04 is recommended and the installation of dependencies and Trantrace i
   MYSQL_PORT=your_mysql_port]
 ```
 
-If the default port (90) for Trantrace is occupied, please change 90 to other available port in conf/trantrace.apache.conf.
+Please change 90 to other available port in conf/trantrace.apache.conf if it is occupied.
 
 ## Other Linux distributions and Mac
 
@@ -52,4 +52,9 @@ If the default port (90) for Trantrace is occupied, please change 90 to other av
 
 ## Setup
 
-Login Trantrace as root with initial password 123456, and [change password in GUI](../interface/root.md#change-password).
+> #### Warning:: Security Warning
+>
+> Please change the administrator password in GUI immediately.
+
+The built-in administrator account email and password are root and 123456 respectively. Log in Trantrace as an administrator and [change password in GUI](../interface/root.md#change-password).
+

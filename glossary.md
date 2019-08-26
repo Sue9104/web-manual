@@ -7,7 +7,7 @@
 |Level|Description|
 | :--- | :--- |
 |private|This project is only visible for project members (owner, translator, reviewer, and guest). |
-|public|This project is visible for any logged-in user. |
+|public|This project is visible for every logged-in user. |
 
 
 ## Entry status
@@ -103,14 +103,15 @@ Once the issue was agreed, the translation status changed to "Error".
 
 ## Translation status
 
+Once the entry's translation is finished, it will go through two stages: review and released correction.
 <span id='translation-status'></span>
 
 ![](/assets/translation_status.png)
 
-| Status | Description |
+| Translation Status | Description |
 | :--- | :--- |
 | Unreviewed | This translation has not been reviewed. |
 | Passed | This translation passed the review. |
 | Failed | This translation did not pass the review. |
-| Error | This translation was released in a version, but someone thought it was wrong and the owner agreed. |
+| Error | This translation was released in a version, but some project members thought it was wrong and the owner agreed. |
 

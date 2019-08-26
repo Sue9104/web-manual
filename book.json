@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "fancybox", "-highlight", "prism", "prism-themes", "alerts", "terminal",
+    "fancybox", "-highlight", "prism", "prism-themes", "callouts", "terminal",
     "emphasize", "splitter", "simple-page-toc", "katex"
   ],
   "pluginsConfig": {
@@ -15,6 +15,9 @@
       "css": [
         "prism-themes/themes/prism-darcula.css"
       ]
+    },
+    "callouts": {
+      "showTypeInHeader": false
     }
   }
 }

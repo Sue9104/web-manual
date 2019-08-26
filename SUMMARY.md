@@ -6,7 +6,7 @@
 
 * [Requirement](install-trantrace/requirements.md)
 * [Install with Docker-compose](install-trantrace/install-with-docker-compose.md)
-* [Install from Source](install-trantrace/install-from-source.md)
+* [Install from Source Code](install-trantrace/install-from-source.md)
 
 ## Getting Started
 
@@ -21,7 +21,7 @@
   * [Owner: project management](interface/owner-project-management.md)
   * [Translator: translation management](interface/translator-translation-management.md)
   * [Reviewer: review management](interface/reviewer-review-management.md)
-  * [All: released projects](interface/guest-released-projects.md)
+  * [All: released projects](interface/all-released-projects.md)
 
 ## MISC
 

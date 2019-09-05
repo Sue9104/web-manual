@@ -11,7 +11,7 @@
 
 ## Sign Up
 
-Open http://192.168.202.117:91/#/register and fill in form.
+Open http://trantrace.sgi-drylab.org/#/register and fill in form.
 
 - User name only supports letters (A-Za-z), numbers (0-9), dot (.), hyphen (-) and underscore (\_). The maximum length is 50 characters.
 

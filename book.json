@@ -1,4 +1,5 @@
 {
+  "title": "Trantrace Documentation",
   "plugins": [
     "fancybox", "-highlight", "prism", "prism-themes", "callouts", "terminal",
     "emphasize", "splitter", "simple-page-toc", "katex"

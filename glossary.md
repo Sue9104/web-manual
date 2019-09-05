@@ -24,7 +24,7 @@ $$ \sum unassigned + \sum untranslated + \sum unretranslated + \sum unreviewed +
 
 <table>
   <tr>
-    <th>Entry Status</th>
+    <th>Status</th>
     <th>Dashboard</th>
     <th>Workspace</th>
     <th>Worker</th>
@@ -77,7 +77,7 @@ Once the issue was agreed, the translation status changed to "Error".
 
 <table>
   <tr>
-    <th>Issue Status</th>
+    <th>Status</th>
     <th>Dashboard</th>
     <th>Workspace</th>
     <th>Worker</th>
@@ -103,12 +103,13 @@ Once the issue was agreed, the translation status changed to "Error".
 
 ## Translation status
 
-Once the entry's translation is finished, it will go through two stages: review and released correction.
 <span id='translation-status'></span>
+
+Once the entry's translation is finished, it will go through two stages: review and released correction.
 
 ![](/assets/translation_status.png)
 
-| Translation Status | Description |
+| Status | Description |
 | :--- | :--- |
 | Unreviewed | This translation has not been reviewed. |
 | Passed | This translation passed the review. |

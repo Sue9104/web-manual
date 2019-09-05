@@ -2,6 +2,10 @@
 
 Trantrace is an open-source web-based application, which offers a simple and robust solution for large-scale continuous collaborative database translation.
 
+- Web demo: http://trantrace.sgi-drylab.org
+
+- Source code: https://github.com/sgi-drylab/trantrace
+
 ![](/assets/signin.png)
 
 ## Features
